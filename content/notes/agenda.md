@@ -3,8 +3,11 @@ title: "agenda"
 ---
 
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
+
 ![Agenda](notes/images/planning.jpg)
+
 lundi
+
 240122 Cathy 
 
 240122 demander les détails pour bosson
