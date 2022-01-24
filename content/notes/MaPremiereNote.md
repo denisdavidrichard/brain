@@ -1,5 +1,5 @@
 ---
-title: 🪴 Ma première note
+title: "Ma première note"
 ---
 
 ## Si tu es là c'est que ça fonctionne:)

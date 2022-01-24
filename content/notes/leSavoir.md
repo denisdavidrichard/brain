@@ -1,5 +1,5 @@
 ---
-title: 🪴 Le savoir
+title: "Le savoir"
 ---
 
 
