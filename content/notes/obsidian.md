@@ -20,7 +20,7 @@ Great, now that you have your Obsidian linked to your Quartz, let's fix some set
 2. Go to Settings > Files & Links > Turn "on" automatically update internal links.
 3. Use [[Wikilinks]] should be off (Wikilinks are not officially supported yet)
 
-![Obsidian Settings](/notes/images/obsidian-settings.png)*Obsidian Settings*
+![Obsidian Settings](notes/images/obsidian-settings.png)*Obsidian Settings*
 
 ## Templates
 Inserting front matter everytime you want to create a new Note gets annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.
