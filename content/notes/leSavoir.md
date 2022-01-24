@@ -3,4 +3,4 @@ title: "Le savoir"
 ---
 
 
-## Le savoir n'est qu'une question de patience
+Le savoir n'est qu'une question de patience
