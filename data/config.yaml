@@ -1,13 +1,12 @@
-name: Jacky Zhao
+name: Denis Weidmann
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Bienvenue dans mes notes partagées.
 page_title:
-  "🪴 Quartz 3"
+  "🪴 Mes Notes Partagées"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: 
+    link: 
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://denisdavidrichard.github.io/brain/
