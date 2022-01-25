@@ -4,7 +4,7 @@ title: "produitsMateriel"
 
 ## Produits
 [Détergent Universel](notes/nettoyage/detergentUniversel.md)
-[Dégraissant](notes/nettoyage/degraissant.md)
+[Dégraissant](notes/nettoyage/degraissantLiquide.md)
 [Vaporisateur pour les vitres](notes/nettoyage/vaporisateurVitres.md)
 [Désinfectant](notes/nettoyage/desinfectant.md)
 [Crème détergente](notes/cremeDetergente.md)

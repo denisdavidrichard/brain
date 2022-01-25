@@ -2,11 +2,6 @@
 title: "nettoyage"
 ---
 
-Bureaux
-La ferme 13 et 15
-Cantine
-Sanitaires
-Appartements
-Résidences
+[Procédures de nettoyage](notes/proceduresNettoyage.md)
 
 [Produits et matériel](notes/nettoyage/produitsMaterielNettoyage.md)
