@@ -13,5 +13,6 @@ title: "Liste du matériel à prendre en cas de nettoyage"
 - [Dégraissant liquide](notes/nettoyage/produits/degraissantLiquide.md)
 - [Produit WC](notes/nettoyage/produits/cremeAcideWC.md)
 - [Vaporisateur de désinfection](notes/nettoyage/produits/vaporisateurDesinfectant.md) 
+- [Détergent pour sol en bois](notes/nettoyage/produits/detergentSolBoisNettoyage.md)
 - [Vaporisateur vitre](notes/nettoyage/produits/vaporisateurVitres.md)
 - [Détartrant liquide](notes/nettoyage/produits/detartrantLiquide.md)

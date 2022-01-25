@@ -12,7 +12,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 ## Préparer le matériel
 Si vous devais juste passer un coup de balais, pas nécessaire de prendre l'équipement complet.
 
-Si vous n'avez pas d'info, il y a un [minimum de matériel](notes/nettoyage/listeMaterielNettoyage.md) à prendre avec soi.
+Si vous n'avez pas d'info, il y a une [liste du matériel à prendre](notes/nettoyage/listeMaterielNettoyage.md) avec soi.
 
 La priorité est de commencer par les points qui prennent du temps et d'éviter de renettoyer après:)
 
@@ -40,7 +40,7 @@ Les angles du plafond si toiles d'arraignées. Puis les murs si forte poussière
 ## Reprendre les points en suspend
 Si vous avez mis des produits d'actions vous pouvez rincer et contrôler si nécessaire laisser plus longtemps
 
-## Vitres
+## Nettoyer les vitres
 L'idéale est à l'eau avec du détergent universel et une raclette
 
 ## Terminer les points de suspend
@@ -49,14 +49,17 @@ Rincer, sécher et remettre à sa place
 ## Désinfection des points de contact
 Passer du plus propre au plus sale les points de contact. Changer régulièrement les faces du chiffons pour ne pas faire de la contamination croisée
 
-## Sortir le matériel et contrôle finale
-- [ ] L'aspirateur passer sur les toiles coins et mûrs et dans les tiroirs?
+## Sortir le matériel et contrôle finale avant nettoyage du sol
+- [x] L'aspirateur passer sur les toiles coins et mûrs et dans les tiroirs?
 - [ ] Tiroirs, sont-ils vides et nettoyé?
 - [ ] Les points de contact sont-ils désinfectés?
 - [ ] Est-ce que de l'eau coule?
 - [ ] Est-ce que les fenêtres sont-elles fermés?
 - [ ] Est-ce que les lumières sont bien éteintes?
 
-## Nettoyage du sol
+## Nettoyage du sol, fermer et ranger
 Une fois que tout est contrôlé. on peut faire le sol du plus éloigné et s'approchant de la porte et en terminant par celle-ci
 
+Un dernier coup d'oeil avant de fermer la porte. Tout est éteint et fermé, si oui, on ferme la porte et on verrouille.
+
+Vider le double seaux
