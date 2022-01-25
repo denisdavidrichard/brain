@@ -1,3 +1,7 @@
+---
+title: "Nettoyage en vu de l'EDL final"
+---
+
 ## Faire un tour de la situation, identifier les points importants
 Il est nécessaire de bien se renseigner avant d'agir. Par moment un simple coup de balais peut suffir. 
 
