@@ -3,7 +3,7 @@ title: "Procedures de Nettoyage"
 ---
 
 Cliquez sur le type de nettoyage que vous devez effectuer:
-[EDL final](notes/nettoyagePourEDLFinal.md)
+[EDL final](notes/nettoyage/types%20de%20nettoyage/nettoyagePourEDLFinal.md)
 
 
 Bureaux
