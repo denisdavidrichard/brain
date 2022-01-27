@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_CamionsBenne]]
+---
+title: "Hercule"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_CamionsBenne](C_CamionsBenne)
 
 > Infos: Mitsubishi Canter 2.8 TDI
 Type vehicule: 3MK140
@@ -19,9 +24,9 @@ Pneu ar ext gauche:
 Pneu avant gauche:
 [[ExpertisesVisitesOCV]]: 111220
 
-#### [[Afaire]] poignée rouge à indiquer la position juste !
+## [[Afaire]] poignée rouge à indiquer la position juste !
 
-### Historique
+## Historique
 280121 [[cherchéVehicule]] prêt posé à la ruche
 
 ... Posé à [[amag]] qui nous a vendu le véhicule pour changement joint de culasse

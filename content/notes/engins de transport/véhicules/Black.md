@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_Demenageuses]]
+---
+title: "Black"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Demenageuses](C_Demenageuses)
 
 > Infos: Iveco 35C12 Daily - 2008
 Type vehicule: 3IA6 59
@@ -20,9 +25,9 @@ Pneu avant gauche: 195/75R16C Continental VancoWinter 2
 Pneu secours: 195/75R16C Continental Vanco
 [[ExpertisesVisitesOCV]]: 031019
 
-#### Afaire
+## Afaire
 
-### Historique
+## Historique
 130122 déposé à [[grunderco]] car la ridelle reste bloquée en position haute.
 
 291221 [[grunderco]] durite eau sur vanne egr commande d'embrayage.

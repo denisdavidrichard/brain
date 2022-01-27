@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_Fourgons]] [[C_Camionnettes]]
+---
+title: "Maximus"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Fourgons](C_Fourgons) [C_Camionnettes](C_Camionnettes)
 
 > Infos: FIAT Ducato 15Q 2.3 MJ
 Type vehicule: 3FC3 73
@@ -17,9 +22,9 @@ Pneu arrière gauche:
 Pneu avant gauche: 
 [[ExpertisesVisitesOCV]]: 131120
 
-#### Afaire
+## Afaire
 
-### Historique:
+## Historique:
 
 171221 [[garageAnken]] senseur porte arrière réparé, le véhicule se referme mnt (serrer les vis du système de fermeture)
 

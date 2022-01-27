@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_Remorques]]
+---
+title: "RemorqueGM"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Remorques](C_Remorques.md)
 
 > Infos: WM Meyer EG-HKC - 2019
 Type vehicule: 9WA1 90
@@ -15,9 +20,9 @@ Pneu avant gauche: 195/50R13C Kenda MasterTrail 3G
 Pneu de secours:
 [[ExpertisesVisitesOCV]]: 160419
 
-#### Afaire 
+## Afaire 
 
-### Historique
+## Historique
 030920 [[D_EntretienVehicules]] Graissé remorque avec pistolet graisseur
 
 050820 [[D_EntretienVehicules]] contrôler les branchements car feux ne fonctionnent pas tous

@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_CamionsBenne]]
+---
+title: "Glouton"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_CamionsBenne](C_CamionsBenne)
 
 > Infos: Toyota Dyna 150 3.0 - 2000
 Type vehicule: 3TA3 47
@@ -21,9 +26,9 @@ Pneu secours: 185R14C Onyx NY-W387 palette quai
 [[ExpertisesVisitesOCV]]: 090621 280818
 
 
-#### [[Afaire]] pneus ar droit et réglage des phares
+## [[Afaire]] pneus ar droit et réglage des phares
 
-### Historique
+## Historique
 281221 ce sont les courroies de l' [[alternateur]] qui patinaient donc mauvaise charge. Nous pouvons aller chercher le vehicule. J'irai demain
 
 231221 [[garageAnken]] problème [[alternateur]] va regarder ce qui peut être fait. 

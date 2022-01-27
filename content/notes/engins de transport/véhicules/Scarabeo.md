@@ -1,4 +1,9 @@
-[[AgendaMaJournee]] [[L_VehiculesEngins]] [[C_Scooters]]
+---
+title: "Scarabeo"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Scooters](C_Scooters.md)
 
 > Infos: Aprilia Scarabeo 100 - 2002
 Type vehicule: 6AA1 44
@@ -13,9 +18,9 @@ Pneu av:
 Pneu ar:
 [[ExpertisesVisitesOCV]]: 051219
 
-#### Afaire 
+## Afaire 
 
-### Historique
+## Historique
 260820 [[EV_Bougies]] contrôle état ok
 
 290720 [[EV_AjoutLiquide]] huile transmission [[C_HuileMoteurYaccoMoto4T5W-40]] 24chf

@@ -1,4 +1,9 @@
-[[AgendaMaJournee]] [[D_EntretienVehicules]] [[L_VehiculesEngins]] [[C_CamionsBenne]]
+---
+title: "WallE"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_CamionsBenne](C_CamionsBenne)
 
 > Infos: Toyota Dyna 150 - 1998
 Type vehicule: 3TA3 15
@@ -18,9 +23,9 @@ Pneu arrière droit ext: 185R14C Hankook Winter RW06
 Pneu avant droit: 185R14C Toyo Observe Van
 [[ExpertisesVisitesOCV]]: 021220 060218 310715
    
-#### [[Afaire]]: protège roue touche la roue et pot d'échappement à refixer.
+## [[Afaire]]: protège roue touche la roue et pot d'échappement à refixer.
 
-### Historique:
+## Historique:
 281121 [[cherchéVehicule]]
 
 251121 [[garageAnken]] câble du [[freinMain]] resserré

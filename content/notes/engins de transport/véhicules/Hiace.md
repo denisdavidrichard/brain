@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_Fourgons]]
+---
+title: "Hiace"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Fourgons](C_Fourgons) [C_Camionnettes](C_Camionnettes)
 
 > Infos: Toyota Hiace 2.7 4WD
 Type vehicule: 3TA378M
@@ -15,9 +20,9 @@ Pneu arrière gauche:
 Pneu avant gauche: 
 [[ExpertisesVisitesOCV]] (test antipollution à faire): 210220 210917
 
-#### [[Afaire]]: réparer le siège conducteur avec mousse et gaffer et Peu av gauche hiace
+## [[Afaire]]: réparer le siège conducteur avec mousse et gaffer et Peu av gauche hiace
 
-### Historique:
+## Historique:
 071221 [[EV_Feux]] changement [[C_AmpouleH4]] côté gauche [[ampouleW5W]] côté droit.
 
 011121 [[garageAnken]] souflets de cardan avant changés 

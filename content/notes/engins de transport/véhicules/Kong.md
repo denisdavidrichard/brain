@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_Demenageuses]]
+---
+title: "Kong"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Demenageuses](C_Demenageuses)
 
 > Infos: Iveco 35S12 Daily - 2009
 Type vehicule: 3IA6 59
@@ -17,9 +22,9 @@ Pneu arrière gauche: Uniroyal Snow Max 2 tyre 225/65R16C
 Pneu avant gauche: Uniroyal Snow Max 2 tyre 225/65R16C
 [[ExpertisesVisitesOCV]]: 011020 140715
 
-#### Afaire 
+## Afaire 
 
-### Historique
+## Historique
 241221 [[EV_AjoutMateriel]] [[C_TelecommandeRideauRuche]]
 
 301021 [[EV_Feux]] feux arrière de gabarit 

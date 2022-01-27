@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_CamionsBenne]]
+---
+title: "Moulinex"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_CamionsBenne](C_CamionsBenne)
 
 > Infos: Toyota Dyna 150 3.0 - 1999
 Type vehicule: 3TA3 47
@@ -19,9 +24,9 @@ Pneu arrière gauche ext: 185R14C Barum Snovanis 2
 Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)
 [[ExpertisesVisitesOCV]]: 130219 070416 260913 091210
 
-#### [[Afaire]] vérifier les liquide hydrolique - Courroie d'accessoires usée - bougie de préchauffage (abordé au [[garageAnken]])
+## [[Afaire]] vérifier les liquide hydrolique - Courroie d'accessoires usée - bougie de préchauffage (abordé au [[garageAnken]])
 
-### Historique
+## Historique
 210122 n'est pas passé la visite le chassis et percé à plusieurs endroits [[garageAnken]] doit revenir à nous avec un devis précis. A première vu nous sommes à bas mot à 2500 + 500 chf de frais.
 
 150122 apporté au [[garageAnken]] [[ExpertisesVisitesOCV]] 

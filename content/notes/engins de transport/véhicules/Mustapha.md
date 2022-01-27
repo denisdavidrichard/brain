@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_Tricycles]]
+---
+title: "Mustapha"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md)  [C_Tricycles](C_Tricycles.md)
 
 > Infos: Kyburu DXP 1
 Type véhicule: 6KD201
@@ -11,9 +16,9 @@ Pneu ar droit:
 Pneu ar gauche:
 [[ExpertisesVisitesOCV]]: 050520
 
-#### Afaire 
+## Afaire 
 
-### Historique
+## Historique
 020221 [[EV_VolantsGuidons]] bouge vu et resserrer par [[fredericDetraz]]
 
 200820 [[EV_Suspensions]] problème suspension ça va car ressorts. Vu [[fredericDetraz]] trop de graisse sur les ressorts.

@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[C_Remorques]]
+---
+title: "RemorqueFerraille"
+---
+
+## Infos
+[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Remorques](C_Remorques.md)
 
 > Infos: Boeckmann BA3500T - 2008
 Type vehicule: 9BB1.44
@@ -14,9 +19,9 @@ Pneu ArDroit: Security Road 2003 185R14C (4)
 Pneu ArGauche: Security Road 2003 185R14C (4)
 [[ExpertisesVisitesOCV]]: 200520 061017 200214 161008
 
-#### Afaire 
+## Afaire 
 
-### Historique
+## Historique
 
 051021 changement de [[EV_BatteriesAuPlomb]]
 
