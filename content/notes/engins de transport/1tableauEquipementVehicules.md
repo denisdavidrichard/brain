@@ -4,7 +4,7 @@ title: "1tableauEquipementVehicules"
 
 Véhicules | x (n'est pas) " " (mis dans le véhicule) V (Vignette 22) D (désinfectant main) B (bétadine pharmacie du véhicule) 
 --- | ---
-[[notes/engins de transport/véhicules/King.md]] | xV xD xB
+King | xV xD xB
 Kong | xV xD xB
 Black | xV xD xB
 Jack | V xD xB
