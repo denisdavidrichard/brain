@@ -2,6 +2,10 @@
 title: "Liste du matériel à prendre en cas de nettoyage"
 ---
 
+| test | nom colone |
+| --- | --- |
+| pomme | poire |
+
 ## Outils:
 - [Caisse à outils](notes/caisseOutils.md)
 - [Double sceaux](notes/nettoyage/outils/doubleSceaux.md) avec [Balai mop](notes/nettoyage/outils/balaisMops.md) 
