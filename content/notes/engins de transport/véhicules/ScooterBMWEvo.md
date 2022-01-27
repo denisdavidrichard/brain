@@ -1,9 +1,9 @@
 ---
-title: "ScooterBMWEvo"
+title: "Scooter BMW Evo"
 ---
 
 ## Infos
-[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Scooters](C_Scooters.md)
+[Véhicules Engins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [Scooters](notes/engins%20de%20transport/véhicules/C_Scooters.md)
 
 > Infos: BMW C evolution - 2015
 Type vehicule: 6BA4 80

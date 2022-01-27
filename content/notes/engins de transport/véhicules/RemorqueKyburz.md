@@ -1,4 +1,4 @@
-[[L_VehiculesEngins]] [[C_Remorques]]
+[[L_VehiculesEngins]] [[notes/engins de transport/véhicules/C_Remorques]]
 
 > Infos: Remorque Kyburz
 Type véhicule: 9KD401

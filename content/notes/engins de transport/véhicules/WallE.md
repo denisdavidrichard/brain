@@ -3,7 +3,7 @@ title: "WallE"
 ---
 
 ## Infos
-[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_CamionsBenne](C_CamionsBenne)
+[Véhicules Engins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [Camions benne](notes/engins%20de%20transport/véhicules/C_CamionsBenne.md)
 
 > Infos: Toyota Dyna 150 - 1998
 Type vehicule: 3TA3 15
@@ -26,6 +26,8 @@ Pneu avant droit: 185R14C Toyo Observe Van
 ## [[Afaire]]: protège roue touche la roue et pot d'échappement à refixer.
 
 ## Historique:
+260122 réparation pneu avant droit
+
 281121 [[cherchéVehicule]]
 
 251121 [[garageAnken]] câble du [[freinMain]] resserré

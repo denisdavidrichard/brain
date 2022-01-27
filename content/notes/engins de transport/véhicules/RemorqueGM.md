@@ -1,9 +1,9 @@
 ---
-title: "RemorqueGM"
+title: "Remorque GM"
 ---
 
 ## Infos
-[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Remorques](C_Remorques.md)
+[Véhicules Engins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [Remorques](notes/engins%20de%20transport/véhicules/C_Remorques.md)
 
 > Infos: WM Meyer EG-HKC - 2019
 Type vehicule: 9WA1 90

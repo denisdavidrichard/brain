@@ -3,7 +3,7 @@ title: "King"
 ---
 
 ## Infos
-[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [C_Demenageuses](C_Demenageuses)
+[Véhicules Engins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [Déménageuses](notes/engins%20de%20transport/véhicules/C_Demenageuses.md)
 
 > Infos: Iveco 35C11 Daily - 2002
 Type vehicule: 3IA4.11
@@ -29,7 +29,7 @@ Pneu secours:
 ## Afaire 
 
 ## Historique
-[[grunderco]] ils ont installé un coupe circuit pour pas que la Rodelle puise l'energie de la batterie à l'arrêt.
+171221 [[grunderco]] ils ont installé un coupe circuit pour pas que la Rodelle puise l'energie de la batterie à l'arrêt.
 
 151221 [[EV_Telecommandes]] [[jomaAliGassu]] à vu le problème et c'est trop compliqué il recommande de l'envoyer à faire le travail de la télécommande par des professionnels. Je vais prendre contact avec [[grunderco]]
 

@@ -1,4 +1,4 @@
-[[L_VehiculesEngins]] [[C_Fourgons]]
+[[L_VehiculesEngins]] [[notes/engins de transport/véhicules/C_Fourgons]]
 
 > Infos: Mazda E 2000 - 2001
 Type vehicule: 3ME710

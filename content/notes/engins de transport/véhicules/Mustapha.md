@@ -3,7 +3,7 @@ title: "Mustapha"
 ---
 
 ## Infos
-[L_VehiculesEngins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md)  [C_Tricycles](C_Tricycles.md)
+[Véhicules Engins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [Tricycles](notes/engins%20de%20transport/véhicules/C_Tricycles.md)
 
 > Infos: Kyburu DXP 1
 Type véhicule: 6KD201
