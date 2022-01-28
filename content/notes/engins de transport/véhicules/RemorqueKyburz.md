@@ -1,4 +1,9 @@
-[[L_VehiculesEngins]] [[notes/engins de transport/véhicules/C_Remorques]]
+---
+title: "Remorque Kyburz"
+---
+
+## Infos
+[Véhicules Engins](notes/engins%20de%20transport/véhicules/L_VehiculesEngins.md) [Remorques](notes/engins%20de%20transport/véhicules/C_Remorques.md)
 
 > Infos: Remorque Kyburz
 Type véhicule: 9KD401
@@ -7,6 +12,6 @@ Plaque: 107067
 Charge utile: 115
 [[ExpertisesVisitesOCV]]: 250520
 
-#### Afaire 
+## Afaire 
 
-### Historique
+## Historique

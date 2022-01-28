@@ -1,5 +1,5 @@
 ---
-title: "Remorque GM"
+title: "Remorque  GM"
 ---
 
 ## Infos

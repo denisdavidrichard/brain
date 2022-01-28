@@ -41,7 +41,7 @@ dimanche
 300122
 
 lundi 
-310122
+310122 gestion des déchets liquide médicaments.
 
 mardi 
 010222
@@ -107,7 +107,7 @@ lundi
 210222
 
 mardi 
-220222
+220222 14h55 piste 7 [Pacman](notes/engins%20de%20transport/véhicules/Pacman.md)
 
 mercredi 
 230222
@@ -176,7 +176,7 @@ mercredi
 160322
 
 jeudi 
-170322
+170322 13h30 Visite GESDEC M. Wilhelm Damien 
 
 vendredi 
 180322
