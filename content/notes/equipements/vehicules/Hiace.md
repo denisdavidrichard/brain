@@ -19,7 +19,7 @@ Pneu arrière gauche: \
 Pneu avant gauche: \
 ExpertisesVisitesOCV: 210220 210917
 
-## [Afaire](notes/statut/Afaire.md): réparer le siège conducteur avec mousse et gaffer et Peu av gauche hiace
+## Réparer le siège conducteur avec mousse et gaffer et Peu av gauche hiace [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
 071221 [[notes/equipements/vehicules/EV_Feux]] changement [[notes/equipements/consommables/C_AmpouleH4]] côté gauche [[ampouleW5W]] côté droit.

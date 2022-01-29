@@ -3,7 +3,7 @@ title: "Gerbeur Transformateur Interne Costa"
 ---
 
 ## Infos
-[Vehicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Gerbeurs](notes/equipements/vehicules/C_Gerbeurs.md) [Garde Meubles](notes/equipements/vehicules/D_GardeMeubles.md)
+[Vehicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Gerbeurs](notes/equipements/vehicules/C_Gerbeurs.md) [Garde Meubles](notes/departements/D_GardeMeubles%201.md)
 Infos: Still
 Type véhicule: EXV12
 N° batterie: F20272J00281 / 2018

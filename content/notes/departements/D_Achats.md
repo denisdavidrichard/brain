@@ -30,7 +30,7 @@ Filtre Brita perso
 
 Support balais et 2 crochets [[jumbo]]
 
-1x anneaux poubelle [[notes/equipements/vehicules/D_GardeMeubles]] [[notes/fournisseurs/grellor]]
+1x anneaux poubelle [[notes/departements/D_GardeMeubles 1]] [[notes/fournisseurs/grellor]]
 
 [[jumbo]] [[notes/equipements/consommables/C_Crochets]] [[notes/equipements/consommables/C_CrochetMancheBalais]] [[multimetre]] 
 
@@ -337,7 +337,7 @@ Support balais et 2 crochets [[jumbo]]
 
 211220  [[microspot]] Tuyau et pistolet compresseur servante
 
-191220  [[jumbo]] 9x scotch Tesa Beton marquer jaune chevillère [[notes/equipements/vehicules/D_GardeMeubles]]
+191220  [[jumbo]] 9x scotch Tesa Beton marquer jaune chevillère [[notes/departements/D_GardeMeubles 1]]
 
 191220  [[decathlon]] collant [[notes/equipements/utilisateurs/danielSarraco]] taille 50
 

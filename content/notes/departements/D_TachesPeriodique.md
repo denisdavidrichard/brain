@@ -28,4 +28,4 @@ Annuelles
 Expertise [[notes/procedure/Sprinkler]]
 Déclaration déchets annuel
 Bilan de fin d'année
-Contrôle des siennes et panneaux d'évacuation et fausse sceptique [[notes/equipements/vehicules/D_GardeMeubles]]
+Contrôle des siennes et panneaux d'évacuation et fausse sceptique [[notes/departements/D_GardeMeubles 1]]

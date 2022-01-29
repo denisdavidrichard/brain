@@ -2,4 +2,4 @@
 title: "TCS"
 ---
 
-[Fournisseurs](notes/equipements/vehicules/D_Fournisseurs.md)
+[Fournisseurs](notes/departements/D_Fournisseurs.md)

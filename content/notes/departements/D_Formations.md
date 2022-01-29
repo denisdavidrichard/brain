@@ -21,6 +21,6 @@
 210421 [[cahierChargesLogisticien]] pour [[laurentPeillex]] envoyé par whatsapp
 
 [[notes/departements/D_Formations]]
-020321 10H00 Formation pour usage des codes à [[notes/equipements/vehicules/D_GardeMeubles]]
+020321 10H00 Formation pour usage des codes à [[notes/departements/D_GardeMeubles 1]]
 
 120121 8h Formation sprinkler Halle Juliette prendre les clés jet sous pression curtage canalisation. Ok
