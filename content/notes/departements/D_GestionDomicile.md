@@ -52,7 +52,7 @@ Cave 551 étagères et bidet à remonter ?!!! 5p x 5h
 300821 Frauchiger photo [[notes/equipements/utilisateurs/maximeChiavaroli]] manque Meuble à chaussures
 Meuble TV moins de 170cm WhatsApp
 
-270821 déménagement Frauchiger Josiane [[kylianCavagna]] 8h [[notes/equipements/utilisateurs/loïcRossero]] 8h30 [[notes/equipements/vetements/pascalNoel]] 3h [[notes/equipements/utilisateurs/ndulaNlandu]] 8h30 [[notes/equipements/utilisateurs/laurentVonBergen]] 8h [[denisWeidmann]] 8h30
+270821 déménagement Frauchiger Josiane [[kylianCavagna]] 8h [[notes/equipements/utilisateurs/loïcRossero]] 8h30 [[notes/equipements/vetements/pascalNoel]] 3h [[notes/equipements/utilisateurs/ndulaNlandu]] 8h30 [[notes/equipements/utilisateurs/laurentVonBergen]] 8h [[notes/equipements/utilisateurs/denisWeidmann]] 8h30
 Armoire deux porte environ 70cm de large ok
 Petit frigo congélateur ok
 Porte monteau mural ok
@@ -119,7 +119,7 @@ Table basse de salon petite en verre si possible sinon en bois clair
 
 300321 [[notes/departements/D_GestionDomicile]] Dussoix Madelaine [[dionAgushi]][[anthonyMahamat]] livraisons [[kylianCavagna]][[adamJendoubi]][[notes/equipements/utilisateurs/gaelSullice]]débarras 4p 4h30
 
-290321 seve Département des espaces verts avenue de châtelaine 43 [[kylianCavagna]] [[adamJendoubi]] [[anthonyMahamat]] [[notes/equipements/utilisateurs/gaelSullice]] [[denisWeidmann]] 5p 7h30-12h
+290321 seve Département des espaces verts avenue de châtelaine 43 [[kylianCavagna]] [[adamJendoubi]] [[anthonyMahamat]] [[notes/equipements/utilisateurs/gaelSullice]] [[notes/equipements/utilisateurs/denisWeidmann]] 5p 7h30-12h
 
 260321 [[notes/departements/D_GestionDomicile]] [[notes/equipements/utilisateurs/maximeChiavaroli]] waldvogelAndree 8h vider [[notes/equipements/vehicules/Maximus]] Av. St. Cecile 3 Meyrin
 

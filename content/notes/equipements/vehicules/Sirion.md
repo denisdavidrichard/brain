@@ -22,7 +22,7 @@ ExpertisesVisitesOCV: 270918
 ## Afaire 
 
 ## Historique
-141221 [[notes/equipements/vehicules/pneusClaude]] sur demande de [[gillesChervet]] j'ai commandé 4 pneus Barum Polaris 5 TTC 290chf (bonne longévité) [[danielSarraco]] ira les faire monter.
+141221 [[notes/equipements/vehicules/pneusClaude]] sur demande de [[gillesChervet]] j'ai commandé 4 pneus Barum Polaris 5 TTC 290chf (bonne longévité) [[notes/equipements/utilisateurs/danielSarraco]] ira les faire monter.
 
 180521 [[notes/equipements/vehicules/EV_AjoutLiquide]] lave glace
 

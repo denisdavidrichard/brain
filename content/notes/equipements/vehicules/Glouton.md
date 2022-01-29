@@ -47,7 +47,7 @@ ExpertisesVisitesOCV: 090621 280818
 
 140421 [[notes/equipements/vehicules/EV_Pneus 1]] av gauche regonflé, de 1.8 à 4.5 bar
 
-060121 problème collecteur échappement ok contrôlé par [[fredericDetraz]]
+060121 problème collecteur échappement ok contrôlé par [[notes/equipements/utilisateurs/fredericDetraz]]
 
 061020 [[notes/equipements/vehicules/EV_Roue]] Snovanis 2 à monter
 

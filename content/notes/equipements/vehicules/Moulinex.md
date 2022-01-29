@@ -32,9 +32,9 @@ ExpertisesVisitesOCV: 130219 070416 260913 091210
 
 120521 [[notes/departements/D_IntendanceTechnique]] box cadenas 
 
-230321 [[notes/equipements/vehicules/pneusClaude]] Pneu ar droit changé car fuit peut-être fuite avec la jante [[fredericDetraz]]
+230321 [[notes/equipements/vehicules/pneusClaude]] Pneu ar droit changé car fuit peut-être fuite avec la jante [[notes/equipements/utilisateurs/fredericDetraz]]
 
-170321 [[fredericDetraz]] Prise d'air réparée avec du plexiglas vu avec [[gillesChervet]]
+170321 [[notes/equipements/utilisateurs/fredericDetraz]] Prise d'air réparée avec du plexiglas vu avec [[gillesChervet]]
 
 190121 [[notes/equipements/vehicules/EV_AjoutMateriel]] Feutre
 

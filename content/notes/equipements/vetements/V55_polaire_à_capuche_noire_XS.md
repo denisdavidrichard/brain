@@ -3,4 +3,4 @@
 150321 [[anthonySpinardi]]
 [[aliSaidOsman]]
 281019 [[ilanWoarden]]
-[[denisWeidmann]]
+[[notes/equipements/utilisateurs/denisWeidmann]]

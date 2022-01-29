@@ -2,4 +2,4 @@
 131221 [[fabioDaCostaSilva]]
 251021 [[raphaelFoglia]]
 270521 [[mustafaMuhamad]]
-[[denisWeidmann]]
+[[notes/equipements/utilisateurs/denisWeidmann]]

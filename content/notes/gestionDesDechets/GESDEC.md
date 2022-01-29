@@ -1,8 +1,8 @@
-100821 [[pharmacieBedat]] [[danielSarraco]] médicaments sac
+100821 [[pharmacieBedat]] [[notes/equipements/utilisateurs/danielSarraco]] médicaments sac
 
 160421 inventaire déchets [[gillesChervet]] me demande d'envoye le mail pour [[notes/gestionDesDechets/GESDEC]] fait en ce jour.
 
-140421 Médicaments [[pharmacieBedat]] [[danielSarraco]] bureau encadrants ok
+140421 Médicaments [[pharmacieBedat]] [[notes/equipements/utilisateurs/danielSarraco]] bureau encadrants ok
 
 130421 [[notes/gestionDesDechets/GESDEC]][[gillesChervet]] envoyé les 2 documents Excel.
 

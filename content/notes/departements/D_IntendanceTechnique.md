@@ -39,7 +39,7 @@ Place Simon Goulart 6 076 316 93 30
 
 070121 Faire le support à balais et escabeaux en zone de transit en hauteur ok
 
-050121 repeindre Lignon 10 chambre n3 ok [[fredericDetraz]]
+050121 repeindre Lignon 10 chambre n3 ok [[notes/equipements/utilisateurs/fredericDetraz]]
 
 210720 @intendance @terrasseCG  vaporisation produit sur petit nied de guèpes sous l'escalier qui mène à la terrasse du restaurant
 

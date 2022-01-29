@@ -17,8 +17,8 @@ ExpertisesVisitesOCV: 050520
 ## Afaire 
 
 ## Historique
-020221 [[EV_VolantsGuidons]] bouge vu et resserrer par [[fredericDetraz]]
+020221 [[EV_VolantsGuidons]] bouge vu et resserrer par [[notes/equipements/utilisateurs/fredericDetraz]]
 
-200820 [[EV_Suspensions]] problème suspension ça va car ressorts. Vu [[fredericDetraz]] trop de graisse sur les ressorts.
+200820 [[EV_Suspensions]] problème suspension ça va car ressorts. Vu [[notes/equipements/utilisateurs/fredericDetraz]] trop de graisse sur les ressorts.
 
 090621 [[EV_VolantsGuidons]] problème direction bouge 0448664040

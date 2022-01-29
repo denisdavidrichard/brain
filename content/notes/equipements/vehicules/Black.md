@@ -45,7 +45,7 @@ ExpertisesVisitesOCV: 031019
 
 100421 [[notes/departements/D_EntretienVehicules]] Meilleure pneu arrière mis à la place de la roue de secours.
 
-090421 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/pneusClaude]] 7h 2x pneus av snowmax3, geometrie pas faite car pneus trop usés à l'arrière. Nous avons repris avec [[fredericDetraz]] et la prochaine fois nous anticiperont, nous avons profité de remettre la roue de secours à sa place car en bon état. 
+090421 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/pneusClaude]] 7h 2x pneus av snowmax3, geometrie pas faite car pneus trop usés à l'arrière. Nous avons repris avec [[notes/equipements/utilisateurs/fredericDetraz]] et la prochaine fois nous anticiperont, nous avons profité de remettre la roue de secours à sa place car en bon état. 
 
 060421 [[notes/departements/D_EntretienVehicules]] réparation du rétroviseur droit (accident [[notes/equipements/utilisateurs/gilFerrari]])
 
@@ -79,7 +79,7 @@ ExpertisesVisitesOCV: 031019
 
 140820 [[notes/departements/D_IntendanceTechnique]] rivet plaques betailère vers ridelle
 
-060820 [[notes/departements/D_Achats]] Tuyau 4mm int 1m pour essuie glace conducteur [[jumbo]] [[fredericDetraz]]
+060820 [[notes/departements/D_Achats]] Tuyau 4mm int 1m pour essuie glace conducteur [[jumbo]] [[notes/equipements/utilisateurs/fredericDetraz]]
 
 040820 contrôler [[EV_ContacteurFenêtre]] conducteur, ajout spray contacteur (wd40)
 

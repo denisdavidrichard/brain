@@ -72,7 +72,7 @@ cembraCumulus
 
 [[notes/equipements/utilisateurs/dominiqueByrde]] 0041794521795
 
-[[denisWeidmann]] 0041764351665
+[[notes/equipements/utilisateurs/denisWeidmann]] 0041764351665
 
 [[notes/equipements/utilisateurs/sandrineFoin]] 0041789660888
 
@@ -94,7 +94,7 @@ cembraCumulus
 
 [[notes/equipements/vetements/danielPreviti]] 0041786403714
 
-[[fredericDetraz]] 0041779590011
+[[notes/equipements/utilisateurs/fredericDetraz]] 0041779590011
 
 [[notes/equipements/utilisateurs/gaelSullice]] 0041765336305
 
@@ -108,7 +108,7 @@ cembraCumulus
 
 [[pascalGavin]]
 
-[[danielSarraco]] 0041778174434
+[[notes/equipements/utilisateurs/danielSarraco]] 0041778174434
 
 [[francisAllemann]] 0041766898179
 

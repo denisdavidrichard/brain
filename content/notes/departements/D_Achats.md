@@ -315,7 +315,7 @@ Support balais et 2 crochets [[jumbo]]
 
 140121 [[notes/equipements/consommables/C_PaletteEuro80x120]] [[notes/zones/costa]] 30x
 
-090121 [[decathlon]] [[danielSarraco]]  chaussures 44 ok
+090121 [[decathlon]] [[notes/equipements/utilisateurs/danielSarraco]]  chaussures 44 ok
 
 080121 microspot 2 tablettes achetées Ipad 10.2 avec coques @gardeMeubles et secteur social.
 
@@ -339,7 +339,7 @@ Support balais et 2 crochets [[jumbo]]
 
 191220  [[jumbo]] 9x scotch Tesa Beton marquer jaune chevillère [[notes/equipements/vehicules/D_GardeMeubles]]
 
-191220  [[decathlon]] collant [[danielSarraco]] taille 50
+191220  [[decathlon]] collant [[notes/equipements/utilisateurs/danielSarraco]] taille 50
 
 181220 [[notes/equipements/consommables/C_TonneauUnivCouv70]] [[landi]] 10x 
 

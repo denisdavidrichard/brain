@@ -5,4 +5,4 @@
 070621 [[malcolmVioloDosSantos]]
 220221 [[dylanHoulmann]]
 130121 [[enzoVoccia]]
-[[denisWeidmann]]
+[[notes/equipements/utilisateurs/denisWeidmann]]

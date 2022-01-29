@@ -25,6 +25,6 @@ Pneu secours:
 ## Historique
 170122 [[notes/equipements/utilisateurs/dominiqueByrde]] va faire contrôler les fusibles du chauffage au [[notes/equipements/vehicules/garageAnken]]
 
-070121 [[notes/equipements/vehicules/EV_Feux]] phare avant droit et [[notes/equipements/vehicules/EV_Pneus 1]] arrière droit ok avec [[fredericDetraz]]
+070121 [[notes/equipements/vehicules/EV_Feux]] phare avant droit et [[notes/equipements/vehicules/EV_Pneus 1]] arrière droit ok avec [[notes/equipements/utilisateurs/fredericDetraz]]
 
 090720 [[notes/departements/D_Formations]] [[notes/equipements/utilisateurs/dominiqueByrde]] juste pneu arrière droit regonflé
