@@ -14,7 +14,7 @@ lundi
 
 240122 contacter monsieur Grobetti
 
-240122 [[viansone]] RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [[D_TachesPeriodique]]
+240122 [[notes/fournisseurs/viansone]] RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [[notes/departements/D_TachesPeriodique]]
 
 mardi
 250122 8h 4 rue des Bossons
@@ -107,7 +107,7 @@ lundi
 210222
 
 mardi 
-220222 14h55 piste 7 [Pacman](notes/engins%20de%20transport/véhicules/Pacman.md)
+220222 14h55 piste 7 [Pacman](notes/equipements/vehicules/Pacman.md)
 
 mercredi 
 230222

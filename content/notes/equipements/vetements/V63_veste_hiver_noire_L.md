@@ -1,0 +1,1 @@
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[gabrielP]][[notes/statut/S_Perdu]]

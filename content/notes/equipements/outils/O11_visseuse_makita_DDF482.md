@@ -1,0 +1,1 @@
+[[notes/equipements/outils/L_Outils]]es/zones/troussesOutils]]sse[[notes/zones/armoirePratique]]/[[notes/zones/magasinVetementsRuche]][notes/zones/magasinVetementsRuche]]

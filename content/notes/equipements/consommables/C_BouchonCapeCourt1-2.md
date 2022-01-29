@@ -1,0 +1,1 @@
+[[faldy]] 3,5chf plus 0,40ct joint

@@ -1,0 +1,1 @@
+[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] 030122 [[notes/equipements/utilisateurs/gilFerrari]] lavée et rendue le 270122

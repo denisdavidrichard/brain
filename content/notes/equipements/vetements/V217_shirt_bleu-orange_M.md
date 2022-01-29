@@ -1,0 +1,1 @@
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Shirt_bleu-orange]] [[pingZhu]][[notes/statut/S_Perdu]]

@@ -1,0 +1,8 @@
+[[L_Consommables]] [[notes/equipements/vehicules/L_VehiculesEngins]] [[notes/statut/Afaire]] [[notes/equipements/vehicules/Caddy]] [[notes/equipements/vehicules/Kong]] [[notes/equipements/vehicules/Black]] [[notes/equipements/vehicules/Doblo]]  [[notes/equipements/vehicules/Asterix]] [[notes/equipements/vehicules/Maximus]] [[notes/equipements/vehicules/Scarabeo]] [[notes/equipements/vehicules/ScooterBMWEvo]] 
+
+Bétadine30ml: 4 déménageuses 3 camions benne et 3 fourgons pratique.
+DesinfectantMains: Tout les véhicules
+
+161221 2022 [[notes/equipements/vehicules/Hiace]] [[notes/equipements/vehicules/Obelix]] [[notes/equipements/vehicules/King]] [[notes/equipements/vehicules/Jack]] [[notes/equipements/vehicules/WallE]] [[notes/equipements/vehicules/Moulinex]] [[notes/equipements/vehicules/Sirion]] [[notes/equipements/vehicules/Kong]] [[notes/equipements/vehicules/Trevis]] 
+
+080121 2021 [[notes/equipements/vehicules/Minus]] [[notes/equipements/vehicules/Hiace]] [[notes/equipements/vehicules/Doblo]] [[notes/equipements/vehicules/Caddy]] [[notes/equipements/vehicules/King]] [[notes/equipements/vehicules/Kong]] [[notes/equipements/vehicules/Black]] [[notes/equipements/vehicules/Jack]] [[notes/equipements/vehicules/Moulinex]] [[notes/equipements/vehicules/WallE]] [[notes/equipements/vehicules/Glouton]] [[notes/equipements/vehicules/Pacman]] [[notes/equipements/vehicules/Sirion]] [[notes/equipements/vehicules/Trevis]] [[notes/equipements/vehicules/Jazz]] [[notes/equipements/vehicules/Scarabeo]] [[notes/equipements/vehicules/ScooterBMWEvo]] [[notes/equipements/vehicules/Jousson]] [[notes/equipements/vehicules/Hercule]] [[notes/equipements/vehicules/Obelix]] 2 dernière données à [[gillesChervet]]

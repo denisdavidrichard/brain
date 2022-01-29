@@ -1,0 +1,1 @@
+24,95 [[jumbo]] ip54 max 10A 30mA
