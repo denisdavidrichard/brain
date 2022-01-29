@@ -3,27 +3,27 @@ title: "Jack"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)
-Infos: Iveco 35C13 Daily - 2013
-Type vehicule: 3IB6 06
-Num chassis: ZCFC3593005941812
-Plaque: 737859
-Charge utile: 740
-Huile moteur: 10w40
-Huile direction:
-Huile hydraulique:
-Huile pont arrière:
-Liquide de refroidissement:
-Pneu avant droit: 195/65R16C Toyo H09
-Pneu arrière droit ext: 195/65R16C Barum Snovanis 2
-Pneu arrière droit int: 195/65R16C Barum Snovanis 2
-Pneu arrière gauche int: 195/65R16C Barum Snovanis 2
-Pneu arrière gauche ext: 195/65R16C Barum Snovanis 2
-Pneu avant gauche: 195/65R16C Toyo H09
-Pneu secours: 195/65R16C Toyo H09 (palettes pneus)
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 230621 120917 290113
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)\
+Infos: Iveco 35C13 Daily - 2013\
+Type vehicule: 3IB6 06\
+Num chassis: ZCFC3593005941812\
+Plaque: 737859\
+Charge utile: 740\
+Huile moteur: 10w40\
+Huile direction:\
+Huile hydraulique:\
+Huile pont arrière:\
+Liquide de refroidissement:\
+Pneu avant droit: 195/65R16C Toyo H09\
+Pneu arrière droit ext: 195/65R16C Barum Snovanis 2\
+Pneu arrière droit int: 195/65R16C Barum Snovanis 2\
+Pneu arrière gauche int: 195/65R16C Barum Snovanis 2\
+Pneu arrière gauche ext: 195/65R16C Barum Snovanis 2\
+Pneu avant gauche: 195/65R16C Toyo H09\
+Pneu secours: 195/65R16C Toyo H09 (palettes pneus)\
+ExpertisesVisitesOCV: 230621 120917 290113
 
-## [[notes/statut/Afaire]] Contrôle plaquettes et disques de freins et changer si besoin
+## [Afaire](notes/statut/Afaire.md) Contrôle plaquettes et disques de freins et changer si besoin
 
 ## Historique
 021221 [[notes/equipements/vehicules/EV_AjoutMateriel]] [[notes/equipements/consommables/C_CahiersVehicules]]

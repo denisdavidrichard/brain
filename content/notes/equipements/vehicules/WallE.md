@@ -3,26 +3,26 @@ title: "WallE"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)
-Infos: Toyota Dyna 150 - 1998
-Type vehicule: 3TA3 15
-Num chassis: JT131LYM109502230
-Plaque: 786816
-Charge utile: 1350
-Huile moteur:
-Huile hydraulique:
-Huile pont arriere:
-Liquide de refroidissement:
-Pression pneus : AV 4,5 AR 3
-Pneu avant gauche: 185R14C Hankook Winter RW06
-Pneu arrière gauche ext: 185R14C Hankook Winter RW06
-Pneu arrière gauche int: 185R14C Hankook Winter RW06
-Pneu arrière droit int: 185R14C Hankook Winter RW06
-Pneu arrière droit ext: 185R14C Hankook Winter RW06
-Pneu avant droit: 185R14C Toyo Observe Van
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 021220 060218 310715
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
+Infos: Toyota Dyna 150 - 1998\
+Type vehicule: 3TA3 15\
+Num chassis: JT131LYM109502230\
+Plaque: 786816\
+Charge utile: 1350\
+Huile moteur:\
+Huile hydraulique:\
+Huile pont arriere:\
+Liquide de refroidissement:\
+Pression pneus : AV 4,5 AR 3\
+Pneu avant gauche: 185R14C Hankook Winter RW06\
+Pneu arrière gauche ext: 185R14C Hankook Winter RW06\
+Pneu arrière gauche int: 185R14C Hankook Winter RW06\
+Pneu arrière droit int: 185R14C Hankook Winter RW06\
+Pneu arrière droit ext: 185R14C Hankook Winter RW06\
+Pneu avant droit: 185R14C Toyo Observe Van\
+ExpertisesVisitesOCV: 021220 060218 310715
    
-## [[notes/statut/Afaire]]: protège roue touche la roue et pot d'échappement à refixer.
+## [Afaire](notes/statut/Afaire.md): protège roue touche la roue et pot d'échappement à refixer.
 
 ## Historique:
 260122 réparation pneu avant droit

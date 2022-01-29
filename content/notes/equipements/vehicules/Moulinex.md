@@ -3,27 +3,27 @@ title: "Moulinex"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)
-Infos: Toyota Dyna 150 3.0 - 1999
-Type vehicule: 3TA3 47
-Num chassis: JT131LYM208000476
-Plaque: 725068
-Charge utile: 1600
-Huile moteur: 10w40
-Huile hydraulique:
-Huile pont arrière:
-Liquide de refroidissement:
-Pression pneus : AV 4,5 AR 3
-!!! Pneu avant droit: 195R14C Laufenn fi
-Pneu arrière droit int: 185R14C Barum Snovanis 2
-Pneu arrière droit ext: 185R14C Barum Snovanis 2
-Pneu arrière gauche int: 185R14C Barum Snovanis 2
-Pneu arrière gauche ext: 185R14C Barum Snovanis 2
-!!! Pneu avant gauche: 195R14C Laufenn fi
-Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 130219 070416 260913 091210
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
+Infos: Toyota Dyna 150 3.0 - 1999\
+Type vehicule: 3TA3 47\
+Num chassis: JT131LYM208000476\
+Plaque: 725068\
+Charge utile: 1600\
+Huile moteur: 10w40\
+Huile hydraulique:\
+Huile pont arrière:\
+Liquide de refroidissement:\
+Pression pneus : AV 4,5 AR 3\
+!!! Pneu avant droit: 195R14C Laufenn fi\
+Pneu arrière droit int: 185R14C Barum Snovanis 2\
+Pneu arrière droit ext: 185R14C Barum Snovanis 2\
+Pneu arrière gauche int: 185R14C Barum Snovanis 2\
+Pneu arrière gauche ext: 185R14C Barum Snovanis 2\
+!!! Pneu avant gauche: 195R14C Laufenn fi\
+Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)\
+ExpertisesVisitesOCV: 130219 070416 260913 091210
 
-## [[notes/statut/Afaire]] vérifier les liquide hydrolique - Courroie d'accessoires usée - bougie de préchauffage (abordé au [[notes/equipements/vehicules/garageAnken]])
+## [Afaire](notes/statut/Afaire.md) vérifier les liquide hydrolique - Courroie d'accessoires usée - bougie de préchauffage (abordé au [[notes/equipements/vehicules/garageAnken]])
 
 ## Historique
 210122 n'est pas passé la visite le chassis et percé à plusieurs endroits [[notes/equipements/vehicules/garageAnken]] doit revenir à nous avec un devis précis. A première vu nous sommes à bas mot à 2500 + 500 chf de frais.

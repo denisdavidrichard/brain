@@ -3,21 +3,21 @@ title: "Trevis"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Voitures](notes/equipements/vehicules/C_Voitures.md)
-Infos: Daihatsu Trevis - 2008
-Type vehicule: 1DB1 42
-Num chassis: JDAL651S000007117
-Plaque: 642303
-Charge utile: 310
-Huile moteur: [[notes/equipements/consommables/C_HuileMoteur5w30]]
-Huile pont arriere:
-Liquide de refroidissement:
-Pression pneus av et ar
-Pneu av droit:
-Pneu ar droit:
-Pneu ar gauche:
-Pneu av gauche:
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 300416 301012
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Voitures](notes/equipements/vehicules/C_Voitures.md)\
+Infos: Daihatsu Trevis - 2008\
+Type vehicule: 1DB1 42\
+Num chassis: JDAL651S000007117\
+Plaque: 642303\
+Charge utile: 310\
+Huile moteur: [C_HuileMoteur5w30](notes/equipements/consommables/C_HuileMoteur5w30.md)\
+Huile pont arriere:\
+Liquide de refroidissement:\
+Pression pneus av et ar\
+Pneu av droit:\
+Pneu ar droit:\
+Pneu ar gauche:\
+Pneu av gauche:\
+ExpertisesVisitesOCV: 300416 301012
 
 ## Afaire 
 

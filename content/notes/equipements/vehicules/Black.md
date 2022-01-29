@@ -3,26 +3,26 @@ title: "Black"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)
-Infos: Iveco 35C12 Daily - 2008
-Type vehicule: 3IA6 59
-Num chassis: ZCFC3584005759584
-Plaque: 678546
-Charge utile: 570
-Huile moteur: [[notes/equipements/consommables/C_HuileMoteur10w40]]
-Huile direction:
-Huile hydraulique:
-Huile pont arrière:
-Liquide de refroidissement:
-Pression pneus : AV 4,5 AR 3,65
-Pneu avant droit: 195/75R16C Continental VancoWinter 2
-Pneu arrière droit ext: 195/75R16C Uniroyal Rain Max 2
-Pneu arrière droit int: 195/75R16C Uniroyal Rain Max 2
-Pneu arrière gauche int: 195/75R16C Uniroyal Rain Max 2
-Pneu arrière gauche ext: 195/75R16C Uniroyal Rain Max 2
-Pneu avant gauche: 195/75R16C Continental VancoWinter 2
-Pneu secours: 195/75R16C Continental Vanco
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 031019
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)\
+Infos: Iveco 35C12 Daily - 2008\
+Type vehicule: 3IA6 59\
+Num chassis: ZCFC3584005759584\
+Plaque: 678546\
+Charge utile: 570\
+Huile moteur: [C_HuileMoteur10w40](notes/equipements/consommables/C_HuileMoteur10w40.md)\
+Huile direction:\
+Huile hydraulique:\
+Huile pont arrière:\
+Liquide de refroidissement:\
+Pression pneus : AV 4,5 AR 3,65\
+Pneu avant droit: 195/75R16C Continental VancoWinter 2\
+Pneu arrière droit ext: 195/75R16C Uniroyal Rain Max 2\
+Pneu arrière droit int: 195/75R16C Uniroyal Rain Max 2\
+Pneu arrière gauche int: 195/75R16C Uniroyal Rain Max 2\
+Pneu arrière gauche ext: 195/75R16C Uniroyal Rain Max 2\
+Pneu avant gauche: 195/75R16C Continental VancoWinter 2\
+Pneu secours: 195/75R16C Continental Vanco\
+ExpertisesVisitesOCV: 031019
 
 ## Afaire
 

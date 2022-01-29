@@ -3,19 +3,19 @@ title: "Scarabeo"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Scooters](notes/equipements/vehicules/C_Scooters.md)
-Infos: Aprilia Scarabeo 100 - 2002
-Type vehicule: 6AA1 44
-Num chassis: ZD4SA00002S100391
-Plaque: 107370
-Charge utile: 105
-Huile moteur: [[notes/equipements/consommables/C_HuileMoteurYaccoMoto4T5W-40]]
-Huile pont arrière:
-Liquide de refroidissement:
-Pression pneus av et ar 3bar
-Pneu av:
-Pneu ar:
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 051219
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Scooters](notes/equipements/vehicules/C_Scooters.md)\
+Infos: Aprilia Scarabeo 100 - 2002\
+Type vehicule: 6AA1 44\
+Num chassis: ZD4SA00002S100391\
+Plaque: 107370\
+Charge utile: 105\
+Huile moteur: [C_HuileMoteurYaccoMoto4T5W-40](notes/equipements/consommables/C_HuileMoteurYaccoMoto4T5W-40.md)\
+Huile pont arrière:\
+Liquide de refroidissement:\
+Pression pneus av et ar 3bar\
+Pneu av:\
+Pneu ar:\
+ExpertisesVisitesOCV: 051219
 
 ## Afaire 
 

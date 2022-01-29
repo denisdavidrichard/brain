@@ -1,1 +1,1 @@
-[[notes/equipements/cles/C_Clés]] [[notes/zones/zoneMonteChargeRuche]]
+[C_Clés](notes/equipements/cles/C_Clés.md) [zoneMonteChargeRuche](notes/zones/zoneMonteChargeRuche.md)

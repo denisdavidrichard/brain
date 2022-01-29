@@ -3,27 +3,27 @@ title: "King"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)
-Infos: Iveco 35C11 Daily - 2002
-Type vehicule: 3IA4.11
-Num chassis: ZDF C35 720 053 681 31
-Plaque: 626813
-Charge utile: 600
-Huile moteur: [[notes/equipements/consommables/C_HuileMoteur10w40]]
-Huile direction:
-Huile hydraulique:
-Huile pont arriere:
-Liquide de refroidissement:
-Pneu avant gauche:
-Pression pneus : AV 4,5 AR 3,65
-Pneu avant droit:
-Pneu arrière droit ext:
-Pneu arrière droit int:
-Pneu arrière gauche int:
-Pneu arrière gauche ext:
-Pneu avant gauche:
-Pneu secours:
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 190117 150914 090312 101109 150906
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)\
+Infos: Iveco 35C11 Daily - 2002\
+Type vehicule: 3IA4.11\
+Num chassis: ZDF C35 720 053 681 31\
+Plaque: 626813\
+Charge utile: 600\
+Huile moteur: [C_HuileMoteur10w40](notes/equipements/consommables/C_HuileMoteur10w40.md)\
+Huile direction:\
+Huile hydraulique:\
+Huile pont arriere:\
+Liquide de refroidissement:\
+Pneu avant gauche:\
+Pression pneus : AV 4,5 AR 3,65\
+Pneu avant droit:\
+Pneu arrière droit ext:\
+Pneu arrière droit int:\
+Pneu arrière gauche int:\
+Pneu arrière gauche ext:\
+Pneu avant gauche:\
+Pneu secours:\
+ExpertisesVisitesOCV: 190117 150914 090312 101109 150906
 
 ## Afaire 
 

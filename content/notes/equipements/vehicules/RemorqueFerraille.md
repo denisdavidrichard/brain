@@ -3,20 +3,20 @@ title: "Remorque Ferraille"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Remorques](notes/equipements/vehicules/C_Remorques.md)
-Infos: Boeckmann BA3500T - 2008
-Type vehicule: 9BB1.44
-Num chassis: WB0BA3500T0200336
-Plaque: 191314
-Charge utile: 2520
-Huile hydraulique:
-Huile pont arrière:
-Pression pneus:
-Pneu AvGauche: Security Road 2003 185R14C (4)
-Pneu AvDroit: Security Road 2003 185R14C (4)
-Pneu ArDroit: Security Road 2003 185R14C (4)
-Pneu ArGauche: Security Road 2003 185R14C (4)
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 200520 061017 200214 161008
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Remorques](notes/equipements/vehicules/C_Remorques.md)\
+Infos: Boeckmann BA3500T - 2008\
+Type vehicule: 9BB1.44\
+Num chassis: WB0BA3500T0200336\
+Plaque: 191314\
+Charge utile: 2520\
+Huile hydraulique:\
+Huile pont arrière:\
+Pression pneus:\
+Pneu AvGauche: Security Road 2003 185R14C (4)\
+Pneu AvDroit: Security Road 2003 185R14C (4)\
+Pneu ArDroit: Security Road 2003 185R14C (4)\
+Pneu ArGauche: Security Road 2003 185R14C (4)\
+ExpertisesVisitesOCV: 200520 061017 200214 161008
 
 ## Afaire 
 

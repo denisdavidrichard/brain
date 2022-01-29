@@ -3,27 +3,27 @@ title: "Hercule"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)
-Infos: Mitsubishi Canter 2.8 TDI
-Type vehicule: 3MK140
-Num chassis: TYBFB631B4DP01268
-Plaque: 899919
-Charge utile: 1170
-Huile moteur: [[notes/equipements/consommables/C_HuileMoteur10w40]]
-Huile hydraulique:
-Huile direction:
-Huile pont arrière:
-Liquide de refroidissement:
-Pression des pneus:
-Pneu avant droit:
-Pneu ar ext droit:
-Pneu ar int droit:
-Pneu ar int gauche:
-Pneu ar ext gauche:
-Pneu avant gauche:
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 111220
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
+Infos: Mitsubishi Canter 2.8 TDI\
+Type vehicule: 3MK140\
+Num chassis: TYBFB631B4DP01268\
+Plaque: 899919\
+Charge utile: 1170\
+Huile moteur: [C_HuileMoteur10w40](notes/equipements/consommables/C_HuileMoteur10w40.md)\
+Huile hydraulique:\
+Huile direction:\
+Huile pont arrière:\
+Liquide de refroidissement:\
+Pression des pneus:\
+Pneu avant droit:\
+Pneu ar ext droit:\
+Pneu ar int droit:\
+Pneu ar int gauche:\
+Pneu ar ext gauche:\
+Pneu avant gauche:\
+ExpertisesVisitesOCV: 111220
 
-## [[notes/statut/Afaire]] poignée rouge à indiquer la position juste !
+## [Afaire](notes/statut/Afaire.md) poignée rouge à indiquer la position juste !
 
 ## Historique
 280121 [[notes/statut/cherchéVehicule]] prêt posé à la ruche

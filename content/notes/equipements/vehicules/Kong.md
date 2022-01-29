@@ -3,23 +3,23 @@ title: "Kong"
 ---
 
 ## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)
-Infos: Iveco 35S12 Daily - 2009
-Type vehicule: 3IA6 59
-Num chassis: ZCF C35 830 057 919 74
-Plaque: 665850
-Charge utile: 770
-Huile moteur: [[notes/equipements/consommables/C_HuileMoteur10w40]]
-Huile direction:
-Huile hydraulique:
-Huile pont arriere:
-Liquide de refroidissement:
-Pression pneus : AV 4,5 AR 5,5
-Pneu avant droit: Uniroyal Snow Max 2 tyre 225/65R16C
-Pneu arrière droit: Uniroyal Snow Max 2 tyre 225/65R16C
-Pneu arrière gauche: Uniroyal Snow Max 2 tyre 225/65R16C
-Pneu avant gauche: Uniroyal Snow Max 2 tyre 225/65R16C
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 011020 140715
+[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)\
+Infos: Iveco 35S12 Daily - 2009\
+Type vehicule: 3IA6 59\
+Num chassis: ZCF C35 830 057 919 74\
+Plaque: 665850\
+Charge utile: 770\
+Huile moteur: [C_HuileMoteur10w40](notes/equipements/consommables/C_HuileMoteur10w40.md)\
+Huile direction:\
+Huile hydraulique:\
+Huile pont arriere:\
+Liquide de refroidissement:\
+Pression pneus : AV 4,5 AR 5,5\
+Pneu avant droit: Uniroyal Snow Max 2 tyre 225/65R16C\
+Pneu arrière droit: Uniroyal Snow Max 2 tyre 225/65R16C\
+Pneu arrière gauche: Uniroyal Snow Max 2 tyre 225/65R16C\
+Pneu avant gauche: Uniroyal Snow Max 2 tyre 225/65R16C\
+ExpertisesVisitesOCV: 011020 140715
 
 ## Afaire 
 
