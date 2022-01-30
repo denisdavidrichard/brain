@@ -6,50 +6,29 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 ![Agenda](/notes/images/planning.jpg)
 
-lundi
-
-240122 Cathy 
-
-240122 demander les détails pour bosson
-
-240122 contacter monsieur Grobetti
-
-240122 [[notes/utilisateurs/fournisseurs/viansone]] RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [[notes/departements/D_TachesPeriodique]]
-
-mardi
-250122 8h 4 rue des Bossons
-
-Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
-mercredi 
-260122 8h nettoyage Perego Melly
-
-260122
-
-jeudi 
-270122
-
-vendredi 
-280122 9h 4 rue des Bossons
-
-280122 [[notes/utilisateurs/beneficiaires/gillesChervet]] Maximus 
-
-samedi 
-290122
-
-dimanche 
-300122
-
 lundi 
-310122 gestion des déchets liquide médicaments.
+310122 Equiper:
+- [lucienPfister](notes/utilisateurs/lucienPfister.md)
+- 
+
+310122 Bosson 4:
+- prendre peinture satinée
+- plâtre pour boucher les trous
+- papier verre
+- lame de cutter
+- caisse à outils
 
 310122 [Afaire](notes/statut/Afaire.md) Redemander les macarons handicapés dit à [yannickNgoma](notes/utilisateurs/beneficiaires/yannickNgoma.md)
 
 mardi 
-010222
+010222 gestion des déchets liquide médicaments.
+
+010222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
 
 mercredi 
-020222
+020222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
+
+020222 contacter monsieur Grobetti
 
 jeudi 
 030222

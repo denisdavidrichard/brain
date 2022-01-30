@@ -4,7 +4,7 @@ title: "En lien avec l'entretien des véhicules"
 
 [Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
-Véhicules | Mois dernier [[serviceCB]] | si "x" (n'est pas encore mis dans le véhicule) suivi par: V (pour Vignette 22) D (pour désinfectant main) B (pour bétadine pharmacie du véhicule) 
+Véhicules | Mois dernier [[notes/equipements/vehicules/serviceCB]] | si "x" (n'est pas encore mis dans le véhicule) suivi par: V (pour Vignette 22) D (pour désinfectant main) B (pour bétadine pharmacie du véhicule) 
 ---: | :---: | :---
 [Asterix](notes/equipements/vehicules/Asterix.md) | 071221 | 
 [Obelix](notes/equipements/vehicules/Obelix.md) | 071221 |
@@ -38,15 +38,15 @@ Véhicules | Mois dernier [[serviceCB]] | si "x" (n'est pas encore mis dans le v
 
 181121 Chariot et transpalette rouge
 
-111121 reprendre avec Gaëtan [manutentionEtChariots](manutentionEtChariots.md) concernant pince à roulements. 1330
+111121 reprendre avec Gaëtan [manutentionEtChariots](notes/utilisateurs/fournisseurs/manutentionEtChariots.md) concernant pince à roulements. 1330
 
 101121 photo MM envoyée à yannickNgoma mail
 
 270521 [C_CléManoeuvre](notes/equipements/consommables/C_CléManoeuvre.md) mise
 
-270521 [[C_LameScieSabre]] mise 
+270521 [[notes/equipements/consommables/C_LameScieSabre]] mise 
 
-180521 terminé [equipementBoxesBennes](equipementBoxesBennes.md) 
+180521 terminé [equipementBoxesBennes](notes/equipements/vehicules/equipementBoxesBennes.md) 
 
 180521 [C_CompresseurRuche](notes/equipements/consommables/C_CompresseurRuche.md) changement dévidoir à air compresseur pour véhicule vers quai
 

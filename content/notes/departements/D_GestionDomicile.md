@@ -1,16 +1,22 @@
-[[notes/AgendaMaJournee]]
+---
+title: "Gestion domicile"
+---
 
-#### [[notes/statut/Afaire]] faire procédure de nettoyage pour les résidences
+[Agenda](notes/AgendaMaJournee.md) 
+## Infos:
 
-### Historique
+## A faire: procédure de nettoyage pour les résidences [Afaire](notes/statut/Afaire.md)
 
-180122 [[notes/departements/D_GestionDomicile]] situation Hanselmann nous avons aidé monsieur pour ça bibliothèque et les cartons 5h2p 
+## Historique:
+280122 9h 4 rue des Bossons 2h1p
+
+180122  situation Hanselmann nous avons aidé monsieur pour ça bibliothèque et les cartons 5h2p 
 
 231221 Boucher [[anthonySpinardi]] 2p3h déménageuse terminer la situation avec cave pour que [[notes/utilisateurs/beneficiaires/dominiqueByrde]] puisse effectuer le [[notes/departements/D_Nettoyage]]
 
 221221 [[Bugnons14_12e]]
 
-141221 [[notes/departements/D_GestionDomicile]] [[ericSaloukvadze]]
+141221  [[ericSaloukvadze]]
 
 301121 [[notes/departements/D_EquipePratique]] Woodtli Benjamin 3p5h
 
@@ -42,7 +48,7 @@ Cave 551 étagères et bidet à remonter ?!!! 5p x 5h
 
 271021 situation Grasset sports 4 photos envoyées sur groupe GM dure à terminer 4p 9h double clé dans la cuisine
 
-201021 [[notes/departements/D_GestionDomicile]] Lagnaz forcé mauvaise cave (22) régie dit aussi que c'est la 22 nous avons trouvé avec le numéro d'appartement. Nous avons fait nos excuses à la famille Realmonte qui à la cave 22 réparation vu avec la Mme ok. Régie à aussi donné feu vert.
+201021  Lagnaz forcé mauvaise cave (22) régie dit aussi que c'est la 22 nous avons trouvé avec le numéro d'appartement. Nous avons fait nos excuses à la famille Realmonte qui à la cave 22 réparation vu avec la Mme ok. Régie à aussi donné feu vert.
 
 191021 [[drBoumandgel]] foyer bettel 54 vieux chemin d'onex 1213. 
 
@@ -75,75 +81,75 @@ Porte monteau mural ok
 
 150721 situation Tissot avec EP
 
-260521 [[notes/departements/D_GestionDomicile]] KONRAD Elsbeth 5p 5h
+260521  KONRAD Elsbeth 5p 5h
 
-250521 [[notes/departements/D_GestionDomicile]] préparation 17h30 avec Andres ok avec [[notes/utilisateurs/beneficiaires/maximeChiavaroli]]
+250521  préparation 17h30 avec Andres ok avec [[notes/utilisateurs/beneficiaires/maximeChiavaroli]]
 
-190521 [[notes/departements/D_GestionDomicile]] livraison armoire ems la coccinelle Mme Waldvogel ok
+190521  livraison armoire ems la coccinelle Mme Waldvogel ok
 
 180521 8h rue lombard 19 1er carte assurance et pièce identité. 0223794084 ok radio panoramique 
 
-180521 [[notes/departements/D_GestionDomicile]] Trincat Madeleine demain 8h voir avec Max 8h
+180521  Trincat Madeleine demain 8h voir avec Max 8h
 
-170521 - 180521 [[notes/departements/D_GestionDomicile]] Trincat Madeleine demain 8h voir avec Max 8h
+170521 - 180521  Trincat Madeleine demain 8h voir avec Max 8h
 
-140521 [[notes/departements/D_GestionDomicile]] Trincat 4p 2h
+140521  Trincat 4p 2h
 
-110521 [[notes/departements/D_GestionDomicile]] kashai vider et nettoyer cave avec [[notes/utilisateurs/beneficiaires/dominiqueByrde]] matin 2x4 et 1x4 (16h-20h) - toutes les heures envoyée à [[virginieBarrientos]]
+110521  kashai vider et nettoyer cave avec [[notes/utilisateurs/beneficiaires/dominiqueByrde]] matin 2x4 et 1x4 (16h-20h) - toutes les heures envoyée à [[virginieBarrientos]]
 
-100521  [[notes/departements/D_GestionDomicile]] 14h Kashai rue du collège 24 carouge Maximus 15 cartons scotch pour GM et affaires personnelle déterminé ce qu'on garde au GM assistante nous aide [[anthonySpinardi]] 6x2
+100521   14h Kashai rue du collège 24 carouge Maximus 15 cartons scotch pour GM et affaires personnelle déterminé ce qu'on garde au GM assistante nous aide [[anthonySpinardi]] 6x2
 
-040521 [[notes/departements/D_GestionDomicile]] Sutterlet Mary-José Avenue du Lignon 8 [[notes/equipements/vehicules/Maximus]] suffit dit [[notes/utilisateurs/beneficiaires/yannickNgoma]] 
+040521  Sutterlet Mary-José Avenue du Lignon 8 [[notes/equipements/vehicules/Maximus]] suffit dit [[notes/utilisateurs/beneficiaires/yannickNgoma]] 
 Clé au logement dans GD
 Équipement CB - Canape convertible mais a tirer, pas autrement et informer Mme 
 Table basse de salon petite en verre si possible sinon en bois clair
 - Procuration ok donnée à Dion le 050521
 
-280421 [[notes/departements/D_GestionDomicile]] 14h [[notes/equipements/vehicules/Maximus]] 2 chariots et diable avec une personne déménagement Mme kowalska compteur SIG ok
+280421  14h [[notes/equipements/vehicules/Maximus]] 2 chariots et diable avec une personne déménagement Mme kowalska compteur SIG ok
 
 220421 Sella pierre meuble de salle de bain il y avait le rideau de salle de bain les télécommandes regarder la montre est à l'alarme aller chercher la livraison table et chaise.
 
-210421 à 8h [[notes/departements/D_GestionDomicile]] déménagement Sella Pierre palette grillagée avec palette simple, canapé et table basse brilliet, 3 plots, poteaux, rubalise avec les panneaux, diable, couverture film dans [[notes/equipements/vehicules/Maximus]]
+210421 à 8h  déménagement Sella Pierre palette grillagée avec palette simple, canapé et table basse brilliet, 3 plots, poteaux, rubalise avec les panneaux, diable, couverture film dans [[notes/equipements/vehicules/Maximus]]
 
-150421 [[notes/departements/D_GestionDomicile]] mise en carton Sella Pierre rue 2p 8h30-17h
+150421  mise en carton Sella Pierre rue 2p 8h30-17h
 
-070421 [[notes/departements/D_GestionDomicile]] Transition EMS Poterie Madame Rais Antoine Carteret 2 5e 2 rolls, film, couverture, diable - 5h 1p
+070421  Transition EMS Poterie Madame Rais Antoine Carteret 2 5e 2 rolls, film, couverture, diable - 5h 1p
 
-070421 [[notes/departements/D_GestionDomicile]] Olmari avenue Pierre-Odier 36 enlever meuble haut cuisine, tringles, lave-vaisselle et coffret clés (code 1928) - 2h 1p
+070421  Olmari avenue Pierre-Odier 36 enlever meuble haut cuisine, tringles, lave-vaisselle et coffret clés (code 1928) - 2h 1p
 
-010421 [[notes/departements/D_GestionDomicile]] 7 ave de wendt Emanuel Mauro pour Mme Morada -> 4p 2h 
+010421  7 ave de wendt Emanuel Mauro pour Mme Morada -> 4p 2h 
 
-010421 [[notes/departements/D_GestionDomicile]] Olmari Odile [[dionAgushi]][[kylianCavagna]][[thibaudRossetti]][[anthonyMahamat]] 5p 7h30-12h30
+010421  Olmari Odile [[dionAgushi]][[kylianCavagna]][[thibaudRossetti]][[anthonyMahamat]] 5p 7h30-12h30
 
-310321 [[notes/departements/D_GestionDomicile]] Hartranft [[anthonyMahamat]] [[justinMisha]] [[adamJendoubi]] [[dionAgushi]] [[notes/utilisateurs/beneficiaires/gilFerrari]] 6p 7h30-12h30
+310321  Hartranft [[anthonyMahamat]] [[justinMisha]] [[adamJendoubi]] [[dionAgushi]] [[notes/utilisateurs/beneficiaires/gilFerrari]] 6p 7h30-12h30
 
-300321 [[notes/departements/D_GestionDomicile]] Dussoix Madelaine [[dionAgushi]][[anthonyMahamat]] livraisons [[kylianCavagna]][[adamJendoubi]][[notes/utilisateurs/beneficiaires/gaelSullice]]débarras 4p 4h30
+300321  Dussoix Madelaine [[dionAgushi]][[anthonyMahamat]] livraisons [[kylianCavagna]][[adamJendoubi]][[notes/utilisateurs/beneficiaires/gaelSullice]]débarras 4p 4h30
 
 290321 seve Département des espaces verts avenue de châtelaine 43 [[kylianCavagna]] [[adamJendoubi]] [[anthonyMahamat]] [[notes/utilisateurs/beneficiaires/gaelSullice]] [[notes/utilisateurs/beneficiaires/denisWeidmann]] 5p 7h30-12h
 
-260321 [[notes/departements/D_GestionDomicile]] [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] waldvogelAndree 8h vider [[notes/equipements/vehicules/Maximus]] Av. St. Cecile 3 Meyrin
+260321  [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] waldvogelAndree 8h vider [[notes/equipements/vehicules/Maximus]] Av. St. Cecile 3 Meyrin
 
-260321 [[notes/departements/D_GestionDomicile]] [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] marraRoberto rez 2 camions benne 48bis rue de la Terrassière 1207
+260321  [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] marraRoberto rez 2 camions benne 48bis rue de la Terrassière 1207
 
-250321 [[notes/departements/D_GestionDomicile]] wrzosowskiGregor 4p 7h3012h30-13h30-17h
+250321  wrzosowskiGregor 4p 7h3012h30-13h30-17h
 
-250321 [[notes/departements/D_GestionDomicile]] clavelRobert 2p 8h-10h et 13h30-15h
+250321  clavelRobert 2p 8h-10h et 13h30-15h
 
-250321 [[notes/departements/D_GestionDomicile]] drozGeorget 6p 14h30-16h30
+250321  drozGeorget 6p 14h30-16h30
 
-240321 [[notes/departements/D_GestionDomicile]] Gain Verlière 5p 7h30-17h
+240321  Gain Verlière 5p 7h30-17h
 
-230321 [[notes/departements/D_GestionDomicile]] Ballesteros 4p 7h30-12h
+230321  Ballesteros 4p 7h30-12h
 
-230321 [[notes/departements/D_GestionDomicile]] déménagement et prépa Dussoix 4p 13h30-17h
+230321  déménagement et prépa Dussoix 4p 13h30-17h
 
-220321 [[notes/departements/D_GestionDomicile]] Scherler Henri 4p 7h30-12h
+220321  Scherler Henri 4p 7h30-12h
 
-170321 Situation Mutrux 7 personnes 4 véhicules toute la journée. [[notes/departements/D_GestionDomicile]] pas assez de mini film et de palettes grillagée￼. Stop station essence +
+170321 Situation Mutrux 7 personnes 4 véhicules toute la journée.  pas assez de mini film et de palettes grillagée￼. Stop station essence +
 
-050321 Préparation Scherler [[notes/departements/D_GestionDomicile]] (3 personnes une journée)
+050321 Préparation Scherler  (3 personnes une journée)
 
-050221 Rosa préparation au déménagement à la place 8h30 [[notes/departements/D_GestionDomicile]]
+050221 Rosa préparation au déménagement à la place 8h30 
 
 070121 Suhner comme convenu avec [[notes/utilisateurs/beneficiaires/pascalTaib]], pris bibliothèque et petit meuble d'angle le reste reconditionné dans deux palettes grillagées.
 

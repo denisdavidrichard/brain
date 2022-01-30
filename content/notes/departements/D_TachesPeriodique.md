@@ -1,31 +1,34 @@
-[[notes/AgendaMaJournee]]
+---
+title: "Taches périodiques"
+---
 
-Quotidiennes
-[[machineCafe]]
-[[notes/equipements/laveVaisselleSmeg]]
-[[notes/formation/poulailler]]
-[[sanitaires]]
-
-Hebdomadaires
-[[notes/utilisateurs/beneficiaires/loïcRossero]]
-[[notes/equipements/vetements/danielPreviti]]
-[[notes/equipements/vetements/pascalNoel]]
-Nettoyage bureaux
-
-Mensuelles
-[[notes/departements/D_EntretienVehicules]]
+[Agenda](notes/AgendaMaJournee.md) 
+## Quotidiennes:
+[[notes/nettoyage/machineCafe]]
+[laveVaisselleSmeg](notes/equipements/laveVaisselleSmeg.md)
+[poulailler](notes/formation/poulailler.md)
+[sanitaires](notes/nettoyage/sanitaires.md)
+## Hebdomadaires:
+[loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
+[danielPreviti](notes/equipements/vetements/danielPreviti.md)
+[pascalNoel](notes/equipements/vetements/pascalNoel.md)
+[Bureaux](notes/nettoyage/N_Bureaux.md)
+[Sprinkler](notes/formation/Sprinkler.md)
+## Mensuelles:
+[EntretienVehicules](notes/departements/D_EntretienVehicules.md)
 Transpalette
-Compresseur
-
-Trimestrielle
+[DechetsIndustrielsOrdinaireSpeciauxSIG](DechetsIndustrielsOrdinaireSpeciauxSIG)
+[CompresseurRuche](notes/equipements/consommables/C_CompresseurRuche.md)
+## Trimestrielles:
 Nettoyage et reapprovisionnement appartement ferme cavi
-
-Semestriel
-Evaluation [[notes/utilisateurs/beneficiaires/loïcRossero]]
-
-Annuelles
-[[hivernagePlomberie]]
-Expertise [[notes/formation/Sprinkler]]
-Déclaration déchets annuel
+## Semestrielles:
+Evaluation [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
+## Annuelles:
+[Hivernage](notes/intendance/hivernagePlomberie.md)
+Expertise [Sprinkler](notes/formation/Sprinkler.md)
+Déclaration déchets annuel [GESDEC](notes/utilisateurs/fournisseurs/GESDEC.md)
 Bilan de fin d'année
-Contrôle des siennes et panneaux d'évacuation et fausse sceptique [[notes/departements/D_GardeMeubles]]
+Contrôle des siennes et panneaux d'évacuation et fausse sceptique [D_GardeMeubles](notes/departements/D_GardeMeubles.md)
+## A faire: 
+
+## Historique:

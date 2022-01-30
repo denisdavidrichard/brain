@@ -2,7 +2,6 @@
 title: 🪴 Mon Espace de Partage
 ---
 
-[Agenda](notes/agenda.md)\
+[Agenda](notes/AgendaMaJournee.md)\
 [Nettoyage](notes/nettoyage/nettoyage.md)\
 [Equipements](notes/departements/D_Equipements.md)
-
