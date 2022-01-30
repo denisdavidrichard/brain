@@ -2,4 +2,8 @@
 title: "Scooters"
 ---
 
-Liens ci-dessous
+Equipements | Sous le siège | Top case
+:--- | --- | --- 
+ |  |  
+ |  | 
+ |  |

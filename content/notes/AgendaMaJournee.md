@@ -43,6 +43,8 @@ dimanche
 lundi 
 310122 gestion des déchets liquide médicaments.
 
+310122 [Afaire](notes/statut/Afaire.md) Redemander les macarons handicapés dit à [yannickNgoma](notes/utilisateurs/beneficiaires/yannickNgoma.md)
+
 mardi 
 010222
 

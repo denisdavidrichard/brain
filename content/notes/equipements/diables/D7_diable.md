@@ -1,6 +1,10 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoNew]] [[notes/equipements/vehicules/King]]
+---
+title: "Diable 7"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md)[King](notes/equipements/vehicules/King.md)
 
-### Historique
+## Afaire 
+
+## Historique
 

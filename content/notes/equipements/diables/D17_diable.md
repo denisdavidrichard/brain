@@ -1,5 +1,9 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoAncien]] [[notes/departements/D_Brocante]]
+---
+title: "Diable 17"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoAncien](notes/equipements/consommables/C_ExpressoAncien.md) [D_Brocante](notes/departements/D_Brocante.md)
 
-### Historique
+## Afaire 
+
+## Historique

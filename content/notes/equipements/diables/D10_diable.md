@@ -1,6 +1,10 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_DiableEmpilage250]] gris retapé [[notes/departements/D_GardeMeubles]]
+---
+title: "Diable 10"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_DiableEmpilage250](notes/equipements/consommables/C_DiableEmpilage250.md) gris retapé [D_GardeMeubles](notes/departements/D_GardeMeubles.md)
 
-### Historique
+## Afaire 
+
+## Historique
 

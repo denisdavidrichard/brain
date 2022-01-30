@@ -1,5 +1,9 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoAncien]] [[notes/departements/D_GardeMeubles]] 1er
+---
+title: "Diable 14"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoAncien](notes/equipements/consommables/C_ExpressoAncien.md) [D_GardeMeubles](notes/departements/D_GardeMeubles.md) 1er
 
-### Historique
+## Afaire 
+
+## Historique

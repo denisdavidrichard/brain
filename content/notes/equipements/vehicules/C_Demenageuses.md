@@ -2,4 +2,9 @@
 title: "Demenageuses"
 ---
 
-Liens ci-dessous
+Equipements | Cabine | Capucine | Bétaillère
+:--- | --- | --- | ---
+ |  |  | 
+ |  |  | 
+ |  |  |
+ |  |  |

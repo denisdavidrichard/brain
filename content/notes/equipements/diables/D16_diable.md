@@ -1,5 +1,9 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoAncien]] [[notes/zones/economatRuche]]
+---
+title: "Diable 16"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoAncien](notes/equipements/consommables/C_ExpressoAncien.md) [economatRuche](notes/zones/economatRuche.md)
 
-### Historique
+## Afaire 
+
+## Historique

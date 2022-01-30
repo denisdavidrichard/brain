@@ -1,6 +1,10 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoNew]] [[notes/equipements/vehicules/Jack]]
-#### Afaire 
+---
+title: "Diable 3"
+---
 
-### Historique
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md) [Jack](notes/equipements/vehicules/Jack.md)
+## Afaire 
+
+## Historique
 141220: gonflé à 2 bars
 

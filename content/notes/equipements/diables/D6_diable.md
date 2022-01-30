@@ -1,5 +1,9 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoNew]] [[notes/equipements/vehicules/Doblo]]
+---
+title: "Diable 6"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md) [Doblo](notes/equipements/vehicules/Doblo.md)
 
-### Historique
+## Afaire 
+
+## Historique

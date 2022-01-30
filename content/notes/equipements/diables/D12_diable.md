@@ -1,5 +1,9 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_DiableEmpilage250]] [[notes/departements/D_GardeMeubles]] 3ème
+---
+title: "Diable 12"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_DiableEmpilage250](notes/equipements/consommables/C_DiableEmpilage250.md) [D_GardeMeubles](notes/departements/D_GardeMeubles.md) 3ème
 
-### Historique
+## Afaire 
+
+## Historique

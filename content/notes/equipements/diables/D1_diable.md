@@ -1,9 +1,12 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoNew]] [[notes/zones/couloirSecretariatRuche]]
+---
+title: "Diable 1"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md) [couloirSecretariatRuche](notes/zones/couloirSecretariatRuche.md)
 
-### Historique
+## Afaire: 
 
+## Historique:
 141220 gonflé à 2 bars
 
 290720 remise [[notes/equipements/consommables/C_BarreBleue]]

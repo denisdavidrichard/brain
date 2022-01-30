@@ -4,128 +4,60 @@ title: "En lien avec l'entretien des véhicules"
 
 [Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
-Véhicules | Mois dernier service CB | si "x" (n'est pas encore mis dans le véhicule) suivi par: V (pour Vignette 22) D (pour désinfectant main) B (pour bétadine pharmacie du véhicule) 
----: | --- | :---
-[Asterix](notes/equipements/vehicules/Asterix.md) |  | 
-[Obelix](notes/equipements/vehicules/Obelix.md) |  |
-[King](notes/equipements/vehicules/King.md) |  | xV xD xB
-[Kong](notes/equipements/vehicules/Kong.md) |  | V D B
-[Black](notes/equipements/vehicules/Black.md) |  | xV xD xB
-[Jack](notes/equipements/vehicules/Jack.md) |  | V xD xB
-[Glouton](notes/equipements/vehicules/Glouton.md) |  | V D B
-[WallE](notes/equipements/vehicules/WallE.md) |  | V D B
-[Pacman](notes/equipements/vehicules/Pacman.md) |  | V D B
-[Moulinex](notes/equipements/vehicules/Moulinex.md) |  |V D B
-[Hercule](notes/equipements/vehicules/Hercule.md) |  |V D
-[Maximus](notes/equipements/vehicules/Maximus.md) |  |V D B
-[Hiace](notes/equipements/vehicules/Hiace.md) |  |V xD xB
-[Doblo](notes/equipements/vehicules/Doblo.md) |  |xV xD xB
+Véhicules | Mois dernier [[serviceCB]] | si "x" (n'est pas encore mis dans le véhicule) suivi par: V (pour Vignette 22) D (pour désinfectant main) B (pour bétadine pharmacie du véhicule) 
+---: | :---: | :---
+[Asterix](notes/equipements/vehicules/Asterix.md) | 071221 | 
+[Obelix](notes/equipements/vehicules/Obelix.md) | 071221 |
+[King](notes/equipements/vehicules/King.md) | 151221 | xV xD xB
+[Kong](notes/equipements/vehicules/Kong.md) | 071221 | V D B
+[Black](notes/equipements/vehicules/Black.md) | 221221 | xV xD xB
+[Jack](notes/equipements/vehicules/Jack.md) | 071221 | V xD xB
+[Glouton](notes/equipements/vehicules/Glouton.md) | 141221 | V D B
+[WallE](notes/equipements/vehicules/WallE.md) | 071221 | V D B
+[Pacman](notes/equipements/vehicules/Pacman.md) | 071221 | V D B
+[Moulinex](notes/equipements/vehicules/Moulinex.md) | 150122 |V D B
+[Hercule](notes/equipements/vehicules/Hercule.md) | 071221 |V D
+[Maximus](notes/equipements/vehicules/Maximus.md) | 171221 |V D B
+[Hiace](notes/equipements/vehicules/Hiace.md) | 071221 |V xD xB
+[Doblo](notes/equipements/vehicules/Doblo.md) | 291221 |xV xD xB
 [Caddy](notes/equipements/vehicules/Caddy.md) |  |xV xD
-[Sirion](notes/equipements/vehicules/Sirion.md) |  |V xD
-[Trevis](notes/equipements/vehicules/Trevis.md) |  |V xD
+[Sirion](notes/equipements/vehicules/Sirion.md) | 141221 |V xD
+[Trevis](notes/equipements/vehicules/Trevis.md) | 141221 |V xD
 [Scarabeo](notes/equipements/vehicules/Scarabeo.md) |  |xV
 [ScooterBMWEvo](notes/equipements/vehicules/ScooterBMWEvo.md) |  | xV
 [Jousson](notes/equipements/vehicules/Jousson.md) |  | 
 [Mustapha](notes/equipements/vehicules/Mustapha.md) |  |
 [Mohammed](notes/equipements/vehicules/Mohammed.md) |  |
-[RemorqueGM](notes/equipements/vehicules/RemorqueGM.md) |  |
-[RemorqueFerraille](notes/equipements/vehicules/RemorqueFerraille.md) |  | 
+[RemorqueGM](notes/equipements/vehicules/RemorqueGM.md) | 051021 |
+[RemorqueFerraille](notes/equipements/vehicules/RemorqueFerraille.md) | 051021 | 
 
 ## A faire: 
 
 ## Historique:
-
-170122 Benne jaune à La Halle Juliette, attention à bien sangler les portes arrières car elles s'ouvrent [[etienneMagnenat]] nous allons devoir trouver une solution pour securiser celles-ci. avec photo [[notes/utilisateurs/beneficiaires/gillesChervet]]
-
-221221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Black]]
-
-171221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Maximus]]
-
-151221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/King]]
-
-141221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Glouton]] [[notes/equipements/vehicules/King]] [[notes/equipements/vehicules/Sirion]]
-
-021221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Jack]] 
-
-071221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Hiace]][[notes/equipements/vehicules/Maximus]][[notes/equipements/vehicules/Pacman]][[notes/equipements/vehicules/WallE]][[notes/equipements/vehicules/Moulinex]][[notes/equipements/vehicules/Glouton]][[notes/equipements/vehicules/Kong]][[notes/equipements/vehicules/King]][[notes/equipements/vehicules/Black]] et [[notes/equipements/vehicules/Jack]] matériel complet et pneus [[notes/equipements/vehicules/Asterix]] 
-
-
+170122 Benne jaune à La Halle Juliette, attention à bien sangler les portes arrières car elles s'ouvrent etienneMagnenat nous allons devoir trouver une solution pour securiser celles-ci. avec photo gillesChervet
 
 181121 Chariot et transpalette rouge
 
-111121 reprendre avec Gaëtan [[manutentionEtChariots]] concernant pince à roulements. 1330
+111121 reprendre avec Gaëtan [manutentionEtChariots](manutentionEtChariots.md) concernant pince à roulements. 1330
 
-101121 photo MM envoyée à [[notes/utilisateurs/beneficiaires/yannickNgoma]] mail
+101121 photo MM envoyée à yannickNgoma mail
 
-160821 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Jack]][[notes/equipements/vehicules/Kong]][[notes/equipements/vehicules/Black]][[notes/equipements/vehicules/King]] 
+270521 [C_CléManoeuvre](notes/equipements/consommables/C_CléManoeuvre.md) mise
 
-200721 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Sirion]] [[notes/equipements/vehicules/Trevis]]
+270521 [[C_LameScieSabre]] mise 
 
-190721 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Obelix]] gonflage graissage
+180521 terminé [equipementBoxesBennes](equipementBoxesBennes.md) 
 
-060721 pression pneu, réapprovisionnement et nettoyage cabine: [[notes/equipements/vehicules/King]] [[notes/equipements/vehicules/Maximus]] [[notes/equipements/vehicules/Jack]] ar droit in 2,2b [[notes/equipements/vehicules/Hiace]] ar gauche 2b [[notes/equipements/vehicules/Hercule]] [[notes/equipements/vehicules/Kong]] [[notes/equipements/vehicules/Black]] [[notes/equipements/vehicules/Moulinex]] 
+180521 [C_CompresseurRuche](notes/equipements/consommables/C_CompresseurRuche.md) changement dévidoir à air compresseur pour véhicule vers quai
 
-270521 [[notes/equipements/consommables/C_CléManoeuvre]] mise dans [[notes/equipements/vehicules/Hiace]] [[notes/equipements/vehicules/Maximus]] [[notes/equipements/vehicules/Hercule]] [[notes/equipements/vehicules/Pacman]] [[notes/equipements/vehicules/WallE]] [[notes/equipements/vehicules/Moulinex]] [[notes/equipements/vehicules/Glouton]] [[notes/equipements/vehicules/King]] [[notes/equipements/vehicules/Kong]] [[notes/equipements/vehicules/Jack]] [[notes/equipements/vehicules/Black]] et lames scie sabre mise dans [[notes/equipements/vehicules/WallE]] [[notes/equipements/vehicules/Moulinex]] [[notes/equipements/vehicules/Glouton]] 
+150421 [C_CompresseurRuche](notes/equipements/consommables/C_CompresseurRuche.md) révision 
 
-180521 terminé [[equipementBoxesBennes]] [[notes/equipements/vehicules/Glouton]], [[notes/equipements/vehicules/Moulinex]], [[notes/equipements/vehicules/WallE]]
+160221 vittorioGiardiello Rendu le quitte frein plaquettes au garage avec la clé à choc de 32 mm
 
-180521 [[notes/equipements/consommables/C_CompresseurRuche]] changement dévidoir à air compresseur pour véhicule vers quai
+311220 avec servante et caisses à portée de main avec compresseur à batteries.
 
-120521 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Moulinex]] 
+301220 cordonnier clé servante ok
 
-150421 [[campingCarFrancis]] batterie remise.
+291220 [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md) tous identifié 
 
-150421 [[notes/utilisateurs/beneficiaires/gillesChervet]] message [[notes/equipements/consommables/C_CompresseurRuche]] tuyau envoyer.
-
-150421 [[notes/equipements/consommables/C_CompresseurRuche]] révision CB Nettoyage, vidange, huile et resserrer visserie.
-
-140421 [[campingCarFrancis]] pression pneu faites et batterie mise en charge.
-
-130421 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Kong]] [[notes/equipements/vehicules/Jack]] [[notes/equipements/vehicules/Black]] [[notes/equipements/vehicules/King]] [[notes/equipements/vehicules/Maximus]]
-
-200321 [[notes/equipements/vehicules/Moulinex]] [[notes/equipements/vehicules/Glouton]] [[notes/equipements/vehicules/Obelix]] pression pneus faites
-
-260221 [[notes/statut/Afaire]] Redemander les macarons handicapés dit à [[notes/utilisateurs/beneficiaires/yannickNgoma]]
-
-220221 Appeler pour le [[kyburz]] Ils m'ont rappelé, ils passeront d'ici la fin de la semaine prochaine, envoyer les photos après avoir parlé avec FD 0448664040 [pascal.seydoux@kyburtz-switzerland.ch](mailto:pascal.seydoux@kyburtz-switzerland.ch)
-
-160221 [[notes/departements/D_EntretienVehicules]] [[vittorioGiardiello]] Rendu le quitte frein plaquettes au garage avec la clé à choc de 32 mm
-
-140121 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Scarabeo]] [[notes/equipements/vehicules/Mohammed]] [[notes/equipements/vehicules/Mustapha]] pression des pneus ok
-
-130121 [[notes/departements/D_Achats]] [[notes/equipements/consommables/C_AmpouleH7]]x2 [[notes/equipements/consommables/C_AmpouleH4]]x2 [[notes/utilisateurs/fournisseurs/jumbo]] ok
-
-090121 [[notes/equipements/vehicules/TCS]] 0588272390 [sro@tcs.ch](mailto:sro@tcs.ch) adresse de livraison. Association. Téléphone. Venir chercher. Mail envoyé en ce jour [[notes/equipements/consommables/C_DisqueStationnement]]
-
-050121 [[notes/departements/D_EntretienVehicules]] véhicule gilles prise remorque ne donne pas de courant verifier câblage avec les feux arrière.
-
-311220 [[notes/departements/D_EntretienVehicules]] avec servante et caisses à portée de main avec compresseur à batteries.
-
-301220 [[notes/departements/D_EntretienVehicules]] Cordonnier clé servante ok
-
-291220 [[notes/equipements/consommables/C_ExpressoNew]] tous identifié 
-
-231220 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Black]] 
-
-091220 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Pacman]] 188199km [[notes/equipements/vehicules/Moulinex]] [[notes/equipements/vehicules/King]] [[notes/equipements/vehicules/Kong]] [[notes/equipements/vehicules/Hiace]] 
-
-141020 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Doblo]] [[notes/equipements/vehicules/Hiace]] [[notes/equipements/vehicules/MazdaE2000]] fait
-
-061020 [[notes/departements/D_EntretienVehicules]] prise véhicule [[notes/utilisateurs/beneficiaires/gillesChervet]] pour permis remorque
-
-010920  [[notes/departements/D_EntretienVehicules]] vélo [[notes/utilisateurs/beneficiaires/gillesChervet]] luminaire arrière câble debranché sur la lumière avant qui est connectée à la dynamo.
-
-010920 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/technomag]] douille de 26 pour vidange [[notes/equipements/vehicules/EV_PontArrière]] reçue hier
-commandé le 270820
-
-280820 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/technomag]] Support pot complet silent bloc avec support marmite arrière [[notes/statut/Afaire]]
-
-290720 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Trevis]] 106023 [[notes/equipements/vehicules/Sirion]] 29556
-
-240720 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Mohammed]] [[notes/equipements/vehicules/Mustapha]] nettoyés, gonflés 3bars
-
-220720 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Trevis]] 105841
-
-150720 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Jack]] 60638km [[notes/equipements/vehicules/Glouton]] 77618km [[notes/equipements/vehicules/WallE]] 192413km [[notes/equipements/vehicules/Pacman]] 188141km pneu arrière droit interieur non gonflable pas de valve [[notes/equipements/vehicules/Moulinex]]190910km [[notes/equipements/vehicules/Black]] 145203km
-
-080720 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Black]] [[notes/equipements/vehicules/Hiace]]
+061020 prise véhicule gillesChervet pour permis remorque

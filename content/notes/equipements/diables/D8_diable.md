@@ -1,6 +1,10 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoNew]] [[notes/zones/zoneQuaiRuche]]
+---
+title: "Diable 8"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md) [zoneQuaiRuche](notes/zones/zoneQuaiRuche.md)
 
-### Historique
+## Afaire 
+
+## Historique
 

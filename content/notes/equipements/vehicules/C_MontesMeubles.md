@@ -2,4 +2,7 @@
 title: "Montes-Meubles"
 ---
 
-Liens ci-dessous:
+Equipements | Cabine | Boxes latéraux 
+:--- | --- | ---
+ |  | 
+ |  |

@@ -1,5 +1,9 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoNew]] [[notes/equipements/vehicules/MazdaE2000]]
+---
+title: "Diable 9"
+---
 
-#### Afaire 
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md [MazdaE2000](notes/equipements/vehicules/MazdaE2000.md)
 
-### Historique
+## Afaire 
+
+## Historique
