@@ -1,2 +1,2 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestePolaireNoire]] [[notes/equipements/utilisateurs/chadaMatuyaku]]
-[[notes/equipements/utilisateurs/yannickNgoma]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestePolaireNoire]] [[notes/utilisateurs/beneficiaires/chadaMatuyaku]]
+[[notes/utilisateurs/beneficiaires/yannickNgoma]]

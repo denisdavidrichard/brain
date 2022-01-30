@@ -1,10 +1,12 @@
 ---
 title: "Pneus Claude"
 ---
+[Agenda](notes/AgendaMaJournee.md) [Achats](notes/departements/D_Achats.md)
+## Infos:
 
-## Afaire
+## A faire: 
 
-## Historique
-221221 [[notes/equipements/consommables/C_ExtValveCoude]] 20chf
+## Historique:
+221221 [C_ExtValveCoude](notes/equipements/consommables/C_ExtValveCoude.md) 20chf
 
-[[notes/equipements/consommables/C_ExtValveCoude]] [[notes/equipements/consommables/C_ExtValve]] [[notes/equipements/consommables/C_CapuchonValve]]
+[C_ExtValveCoude](notes/equipements/consommables/C_ExtValveCoude.md) [C_ExtValve](notes/equipements/consommables/C_ExtValve.md) [C_CapuchonValve](notes/equipements/consommables/C_CapuchonValve.md)

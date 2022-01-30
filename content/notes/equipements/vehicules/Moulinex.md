@@ -2,8 +2,8 @@
 title: "Moulinex"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
 Infos: Toyota Dyna 150 3.0 - 1999\
 Type vehicule: 3TA3 47\
 Num chassis: JT131LYM208000476\
@@ -23,34 +23,36 @@ Pneu arrière gauche ext: 185R14C Barum Snovanis 2\
 Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)\
 ExpertisesVisitesOCV: 130219 070416 260913 091210
 
-## [Afaire](notes/statut/Afaire.md) vérifier les liquide hydrolique - Courroie d'accessoires usée - bougie de préchauffage (abordé au [[notes/equipements/vehicules/garageAnken]])
+## Afaire: 
+Courroie d'accessoires usée\ 
+bougie de préchauffage (abordé au [garageAnken](notes/equipements/vehicules/garageAnken.md)) [Afaire](notes/statut/Afaire.md)
 
-## Historique
-210122 n'est pas passé la visite le chassis et percé à plusieurs endroits [[notes/equipements/vehicules/garageAnken]] doit revenir à nous avec un devis précis. A première vu nous sommes à bas mot à 2500 + 500 chf de frais.
+## Historique:
+210122 n'est pas passé la visite le chassis et percé à plusieurs endroits [garageAnken](notes/equipements/vehicules/garageAnken.md) doit revenir à nous avec un devis précis. A première vu nous sommes à bas mot à 2500 + 500 chf de frais.
 
-150122 apporté au [[notes/equipements/vehicules/garageAnken]] [[notes/equipements/vehicules/ExpertisesVisitesOCV]] 
+150122 apporté au [garageAnken](notes/equipements/vehicules/garageAnken.md) [ExpertisesVisitesOCV](notes/equipements/vehicules/ExpertisesVisitesOCV.md) 
 
-120521 [[notes/departements/D_IntendanceTechnique]] box cadenas 
+120521 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) box cadenas 
 
-230321 [[notes/equipements/vehicules/pneusClaude]] Pneu ar droit changé car fuit peut-être fuite avec la jante [[notes/equipements/utilisateurs/fredericDetraz]]
+230321 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) Pneu ar droit changé car fuit peut-être fuite avec la jante fredericDetraz
 
-170321 [[notes/equipements/utilisateurs/fredericDetraz]] Prise d'air réparée avec du plexiglas vu avec [[gillesChervet]]
+170321 fredericDetraz Prise d'air réparée avec du plexiglas vu avec gillesChervet
 
-190121 [[notes/equipements/vehicules/EV_AjoutMateriel]] Feutre
+190121 [EV_AjoutMateriel](notes/equipements/vehicules/EV_AjoutMateriel.md) Feutre
 
-041220 [[hydrosystem]] benne qui descend d'un coup, peut-être clapet parachute mais problème hydraulique ne persiste pas, ils ne savent pas quoi faire donc rien pour ne pas emplifier le problème.
+041220 [[notes/utilisateurs/fournisseurs/hydrosystem]] benne qui descend d'un coup, peut-être clapet parachute mais problème hydraulique ne persiste pas, ils ne savent pas quoi faire donc rien pour ne pas emplifier le problème.
 
-171220 [[emileFrey]] changement de la jauge d'essence et etiquettes enlevée du tableau de bord
+171220 [[notes/utilisateurs/fournisseurs/emileFrey]] changement de la jauge d'essence et etiquettes enlevée du tableau de bord
 
-030821 [[notes/departements/D_IntendanceTechnique]] Bâche gafer jaune et silicone
+030821 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) Bâche gafer jaune et silicone
 
-041120 [[notes/departements/D_IntendanceTechnique]] refait crochet de fixation [[notes/equipements/consommables/C_Telecommandes]]
+041120 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) refait crochet de fixation [C_Telecommandes](notes/equipements/consommables/C_Telecommandes.md)
 
-060820 [[notes/departements/D_Procédures]] carnet noter plein avec 100km jauge [[gillesChervet]] et revoir [[EV_Telecommandes]] avec flèche en haut pour lever
+060820 [D_Procédures](notes/departements/D_Procédures.md) carnet noter plein avec 100km jauge gillesChervet et revoir [EV_Telecommandes](notes/equipements/vehicules/EV_Telecommandes.md) avec flèche en haut pour lever
 
-040820 [[panneCarburant]] diesel car indicateur faux problème [[C_JaugeEssence]] mis 6L dans réservoir, chauffages bougie 10x et demarrage en neutre avec pied sur gaz jusqu'à l'allumage du moteur 
+040820 [[notes/equipements/vehicules/panneCarburant]] diesel car indicateur faux problème [[notes/equipements/consommables/C_JaugeEssence]] mis 6L dans réservoir, chauffages bougie 10x et demarrage en neutre avec pied sur gaz jusqu'à l'allumage du moteur 
 
-050220 [[notes/equipements/vehicules/pneusClaude]] 4x pneus arrière changés 407chf 24 mois garantie choque
+050220 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) 4x pneus arrière changés 407chf 24 mois garantie choque
 
 
 

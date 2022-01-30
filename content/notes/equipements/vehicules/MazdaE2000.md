@@ -18,13 +18,13 @@ Pneu arrière droit:
 Pneu arrière gauche:
 Pneu avant gauche:
 Pneu secours:
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]] (problème roulement roue avant.): 100320 150212
+ExpertisesVisitesOCV: 100320 150212
 
-## Afaire 
+## Problème roulement roue avant [Afaire](notes/statut/Afaire.md) 
 
 ## Historique
-170122 [[notes/equipements/utilisateurs/dominiqueByrde]] va faire contrôler les fusibles du chauffage au [[notes/equipements/vehicules/garageAnken]]
+170122 Dominique va faire contrôler les fusibles du chauffage au [garageAnken](notes/equipements/vehicules/garageAnken.md)
 
-070121 [[notes/equipements/vehicules/EV_Feux]] phare avant droit et [[notes/equipements/vehicules/EV_Pneus 1]] arrière droit ok avec [[notes/equipements/utilisateurs/fredericDetraz]]
+070121 [EV Feux](notes/equipements/vehicules/EV_Feux.md) phare avant droit et [[notes/equipements/vehicules/EV_Pneus]] arrière droit ok avec [[notes/utilisateurs/beneficiaires/fredericDetraz]]
 
-090720 [[notes/departements/D_Formations]] [[notes/equipements/utilisateurs/dominiqueByrde]] juste pneu arrière droit regonflé
+090720 [[notes/departements/D_Formations]] [[notes/utilisateurs/beneficiaires/dominiqueByrde]] juste pneu arrière droit regonflé

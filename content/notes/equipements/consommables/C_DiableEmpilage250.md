@@ -1,3 +1,5 @@
-[[notes/departements/D_GardeMeubles 1]]
+---
+title: "Diable d'empilage 250"
+---
 
-[[landi]] 55chf article 20485 
+[landi](notes/utilisateurs/fournisseurs/landi.md) 55chf article 20485 

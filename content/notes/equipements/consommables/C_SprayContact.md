@@ -1,1 +1,1 @@
-[[edmondBaud]]
+[[notes/utilisateurs/fournisseurs/edmondBaud]]

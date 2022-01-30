@@ -1,3 +1,8 @@
-[[L_Consommables]] 
+---
+title: "Peinture pour route jaune"
+---
 
-0,75L [[notes/fournisseurs/luxPeintures]] 25chf
+[Agenda](notes/AgendaMaJournee.md)\
+Infos:\
+0,75L [[notes/utilisateurs/fournisseurs/luxPeintures]] 25chf
+

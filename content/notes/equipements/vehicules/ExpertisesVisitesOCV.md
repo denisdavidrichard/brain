@@ -6,7 +6,7 @@ title: "Expertises Visites OCV"
 2. Carte grise originale
 3. [Doblo](notes/equipements/vehicules/Doblo.md) [[notes/equipements/vehicules/entretienGazNaturel]] tous les 4ans
 4. Test antipollution pour les diesels anciens [Moulinex](notes/equipements/vehicules/Moulinex.md) [WallE](notes/equipements/vehicules/WallE.md) [Glouton](notes/equipements/vehicules/Glouton.md) [Pacman](notes/equipements/vehicules/Pacman.md) [Hiace](notes/equipements/vehicules/Hiace.md)
-5. [[Vidanges]]
+5. [[notes/equipements/vehicules/EV_Vidanges]]
 6. Réglage de phare
 7. Nettoyage chassis
 

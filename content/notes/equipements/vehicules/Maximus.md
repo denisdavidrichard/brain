@@ -2,8 +2,8 @@
 title: "Maximus"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
 Infos: FIAT Ducato 15Q 2.3 MJ\
 Type vehicule: 3FC3 73\
 Num chassis: ZFA 250 000 02A 109 28\
@@ -21,13 +21,13 @@ Pneu arrière gauche: \
 Pneu avant gauche: \
 ExpertisesVisitesOCV: 131120
 
-## Afaire
+## Afaire:
 
 ## Historique:
 
-171221 [[notes/equipements/vehicules/garageAnken]] senseur porte arrière réparé, le véhicule se referme mnt (serrer les vis du système de fermeture)
+171221 [garageAnken](notes/equipements/vehicules/garageAnken.md) senseur porte arrière réparé, le véhicule se referme mnt (serrer les vis du système de fermeture)
 
-300421 [[notes/equipements/vehicules/Maximus]] utilisation porte documents ok
+300421 utilisation porte documents ok
 
-221220 [[notes/departements/D_Formations]] étiquette frein à main à gauche ok
+221220 [D_Formations](notes/departements/D_Formations.md) étiquette frein à main à gauche ok
 

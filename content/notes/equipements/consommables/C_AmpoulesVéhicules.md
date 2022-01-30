@@ -1,5 +1,5 @@
 [[notes/zones/servanteQuai]]
 
-[[jumbo]] 2MY J17 plafonnier 
+[[notes/utilisateurs/fournisseurs/jumbo]] 2MY J17 plafonnier 
 
-[[jumbo]] P21W marche arrière 
+[[notes/utilisateurs/fournisseurs/jumbo]] P21W marche arrière 

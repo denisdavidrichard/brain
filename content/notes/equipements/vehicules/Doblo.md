@@ -2,8 +2,8 @@
 title: "Doblo"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
 Infos: 1.6 16V BiP - 2006\
 Type vehicule: 3FA6 51\
 Num chassis: ZFA22300005380010\
@@ -20,21 +20,22 @@ Pneu ar gauche:\
 Pneu av gauche:\
 ExpertisesVisitesOCV: 230119
 
-## [Afaire](notes/statut/Afaire.md) ajouter la pharmacie
+## Afaire:
+ajouter la pharmacie [Afaire](notes/statut/Afaire.md)
 
-## Historique
-050122 9h45 [[notes/equipements/vehicules/ExpertisesVisitesOCV]] [[notes/equipements/vehicules/Doblo]] piste 7 passé
+## Historique:
+050122 9h45 ExpertisesVisitesOCV piste 7 passé
 
-291221 [[notes/equipements/vehicules/garageAnken]] entretien gaz naturel et nettoyage chassis en vu de la [[notes/equipements/vehicules/ExpertisesVisitesOCV]] 
+291221 [garageAnken](notes/equipements/vehicules/garageAnken.md) entretien gaz naturel et nettoyage chassis en vu de la ExpertisesVisitesOCV 
 
-200321 [[notes/equipements/vehicules/garageAnken]] [[notes/equipements/vehicules/EV_Pneus 1]] changés
+200321 [garageAnken](notes/equipements/vehicules/garageAnken.md) [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) changés
 
-160321 [[notes/equipements/vehicules/garageAnken]] réglage moteur car gaz fait calé. Règlé la géométrie du véhicule 
+160321 [garageAnken](notes/equipements/vehicules/garageAnken.md) réglage moteur car gaz fait calé. Règlé la géométrie du véhicule 
 
-070820 [[polish]] phares avant
+070820 [[notes/equipements/consommables/C_Polish]] phares avant
 
-190220 [[notes/equipements/vehicules/garageAnken]] huile et plaquette de frein
+190220 [garageAnken](notes/equipements/vehicules/garageAnken.md) huile et plaquette de frein
 
-270220 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/pneusClaude]] changement pneu arrière gauche 110chf
+270220 [[notes/departements/D_Achats]] [pneusClaude](notes/equipements/vehicules/pneusClaude.md) changement pneu arrière gauche 110chf
 
-010111 [[notes/equipements/vehicules/courroieDistribution]] [[gillesChervet]] courroie distribution faite ok en 2011, 48’000kms donc 👍
+010111 [courroieDistribution](notes/equipements/vehicules/courroieDistribution.md) gillesChervet courroie distribution faite ok en 2011, 48’000kms donc 👍

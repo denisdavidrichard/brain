@@ -2,8 +2,8 @@
 title: "Black"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Déménageuses](notes/equipements/vehicules/C_Demenageuses.md)\
 Infos: Iveco 35C12 Daily - 2008\
 Type vehicule: 3IA6 59\
 Num chassis: ZCFC3584005759584\
@@ -24,66 +24,66 @@ Pneu avant gauche: 195/75R16C Continental VancoWinter 2\
 Pneu secours: 195/75R16C Continental Vanco\
 ExpertisesVisitesOCV: 031019
 
-## Afaire
+## Afaire:
 
-## Historique
-130122 déposé à [[grunderco]] car la ridelle reste bloquée en position haute.
+## Historique:
+130122 déposé à [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) car la ridelle reste bloquée en position haute.
 
-291221 [[grunderco]] durite eau sur vanne egr commande d'embrayage.
+291221 [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) durite eau sur vanne egr commande d'embrayage.
 
-241221 [[grunderco]] posé pour changement volant moteur dit de ne pas changer le récepteur d'embrayage si pas nécessaire...
+241221 [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) posé pour changement volant moteur dit de ne pas changer le récepteur d'embrayage si pas nécessaire...
 
-221221 [[notes/departements/D_EntretienVehicules]] [[notes/equipements/consommables/C_ExtValveCoude]] x2 90°
+221221 [D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [C_ExtValve](notes/equipements/consommables/C_ExtValve.md) x2 90°
 
-301021 [[notes/equipements/vehicules/EV_Feux]] Clignotant avant droit
+301021 [EV_Roue](notes/equipements/vehicules/EV_Roue.md) Clignotant avant droit
 
 270721 [[notes/equipements/vehicules/EV_AjoutLiquide]] liquide de refroidissement et caisse couverture GM
 
-300421 [[notes/equipements/vehicules/garageAnken]] Voyant EDC, durite qui a sauté
+300421 [garageAnken](notes/equipements/vehicules/garageAnken.md) Voyant EDC, durite qui a sauté
 
-140421 9h [[notes/departements/D_Achats]] [[notes/equipements/vehicules/pneusClaude]] changement pneus 4x ar 9h45 géométrie prévoir 630chf
+140421 9h [[notes/departements/D_Achats]] [pneusClaude](notes/equipements/vehicules/pneusClaude.md) changement pneus 4x ar 9h45 géométrie prévoir 630chf
 
-100421 [[notes/departements/D_EntretienVehicules]] Meilleure pneu arrière mis à la place de la roue de secours.
+100421 [D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) Meilleure pneu arrière mis à la place de la roue de secours.
 
-090421 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/pneusClaude]] 7h 2x pneus av snowmax3, geometrie pas faite car pneus trop usés à l'arrière. Nous avons repris avec [[notes/equipements/utilisateurs/fredericDetraz]] et la prochaine fois nous anticiperont, nous avons profité de remettre la roue de secours à sa place car en bon état. 
+090421 [[notes/departements/D_Achats]] [pneusClaude](notes/equipements/vehicules/pneusClaude.md) 7h 2x pneus av snowmax3, geometrie pas faite car pneus trop usés à l'arrière. Nous avons repris avec fredericDetraz et la prochaine fois nous anticiperont, nous avons profité de remettre la roue de secours à sa place car en bon état. 
 
-060421 [[notes/departements/D_EntretienVehicules]] réparation du rétroviseur droit (accident [[notes/equipements/utilisateurs/gilFerrari]])
+060421 [D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) réparation du rétroviseur droit (accident gilFerrari)
 
-200321 [[notes/equipements/vehicules/EV_Roue]] Remis emplacement de secours
+200321 [EV_Roue](notes/equipements/vehicules/EV_Roue.md) Remis emplacement de secours
 
-180321 [[notes/equipements/vehicules/EV_Pneus 1]] Réparation pneu arrière du pneu percé par une vis
+180321 [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) Réparation pneu arrière du pneu percé par une vis
 
-230221 au garage [[galati]] en attente du devis jamais reçu -> [[notes/equipements/vehicules/garageAnken]]
+230221 au garage [[notes/utilisateurs/fournisseurs/galati]] en attente du devis jamais reçu -> [garageAnken](notes/equipements/vehicules/garageAnken.md)
 
-290121 [[notes/equipements/vehicules/EV_Feux]] de croisement gauche HS 
+290121 [EV_Feux](notes/equipements/vehicules/EV_Feux.md) de croisement gauche HS 
 
-151121 [[notes/equipements/vehicules/garageAnken]] fuite du radiateur
+151121 [garageAnken](notes/equipements/vehicules/garageAnken.md) fuite du radiateur
 
-190121 [[notes/departements/D_EntretienVehicules]] luminaires betailère [[notes/equipements/utilisateurs/ndulaNlandu]] 
+190121 [D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) luminaires betailère ndulaNlandu
 
-050121 [[notes/departements/D_EntretienVehicules]] cable senseur de frein arrière gauche [[notes/equipements/utilisateurs/ndulaNlandu]]
+050121 [D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) cable senseur de frein arrière gauche ndulaNlandu
 
-301220 [[notes/equipements/vehicules/EV_Plaques]] avant retrouvée et refixée
+301220 [EV_Plaques](notes/equipements/vehicules/EV_Plaques.md) avant retrouvée et refixée
 
-141220 Double clé donnée à [[gillesChervet]] devant [[laurentPeillex]]
+141220 Double clé donnée à gillesChervet devant laurentPeillex
 
-301120 [[notes/equipements/vehicules/garageAnken]] [[notes/equipements/vehicules/EV_FiltreMasout]] et [[notes/equipements/vehicules/EV_BatteriesAuPlomb]] changée
+301120 [garageAnken](notes/equipements/vehicules/garageAnken.md) [EV_FiltreMasout](notes/equipements/vehicules/EV_FiltreMasout.md) et [EV_BatteriesAuPlomb](notes/equipements/vehicules/EV_BatteriesAuPlomb.md) changée
 
-051120 [[notes/departements/D_IntendanceTechnique]] [[capucinesEau]]... À suivre bois de renfort sécher vers les camions benne
+051120 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) [EV_capucine](notes/equipements/vehicules/EV_capucine.md)... À suivre bois de renfort sécher vers les camions benne
 
-281020 [[galati]] vitre passager bloquée
+281020 [galati](notes/utilisateurs/fournisseurs/galati.md) vitre passager bloquée
 
-060820 [[notes/equipements/vehicules/EV_Feux]] gabarit arrière gauche
+060820 [EV_Feux](notes/equipements/vehicules/EV_Feux.md) gabarit arrière gauche
 
-270820 [[notes/departements/D_IntendanceTechnique]] interrupteur soucis, branchements changé refonctionne, câble luminaire perforé à changer par [[notes/equipements/utilisateurs/ndulaNlandu]]
+270820 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) interrupteur soucis, branchements changé refonctionne, câble luminaire perforé à changer par ndulaNlandu
 
-140820 [[notes/departements/D_IntendanceTechnique]] rivet plaques betailère vers ridelle
+140820 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) rivet plaques betailère vers ridelle
 
-060820 [[notes/departements/D_Achats]] Tuyau 4mm int 1m pour essuie glace conducteur [[jumbo]] [[notes/equipements/utilisateurs/fredericDetraz]]
+060820 [[notes/departements/D_Achats]] Tuyau 4mm int 1m pour essuie glace conducteur [jumbo](notes/utilisateurs/fournisseurs/jumbo.md) fredericDetraz
 
-040820 contrôler [[EV_ContacteurFenêtre]] conducteur, ajout spray contacteur (wd40)
+040820 contrôler [EV_Contacteurs](notes/equipements/vehicules/EV_Contacteurs.md) conducteur, ajout spray contacteur (wd40)
 
-170220 [[notes/equipements/vehicules/EV_AjoutLiquide]] [[notes/equipements/utilisateurs/maximeChiavaroli]] remplissage huile moteur
+170220 [EV_AjoutLiquide](notes/equipements/vehicules/EV_AjoutLiquide.md) maximeChiavaroli remplissage huile moteur
 
-120220 controle huile [[EV_PontArrière]] ok
+120220 controle huile [[notes/equipements/vehicules/EV_PontArrière]] ok
 

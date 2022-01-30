@@ -1,1 +1,5 @@
-23,50chf [[landi]]
+---
+title: "Pince à dénuder"
+---
+
+23,50chf [landi](notes/utilisateurs/fournisseurs/landi.md)

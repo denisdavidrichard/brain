@@ -1,3 +1,7 @@
-[[notes/zones/rideauQuaiExterieur]]
+---
+title: "Tonneau universel avec couvercle 70L"
+---
 
-[[landi]] tonneauUnivCouv70 19,95chf article 75151 
+[rideauQuaiExterieur](notes/zones/rideauQuaiExterieur.md)
+
+[landi](notes/utilisateurs/fournisseurs/landi.md) tonneauUnivCouv70 19,95chf article 75151 

@@ -1,7 +1,11 @@
-[[notes/zones/localNettoyage]]
+---
+title: "Pastilles lave-vaisselle"
+---
 
-[[landi]] bio 100x
+[localNettoyage](notes/zones/localNettoyage.md)
 
-[[prodega]] Finish tab Classic 100x 22,90chf 
+[landi](notes/utilisateurs/fournisseurs/landi.md) bio 100x
 
-[[jumbo]] 50x 13chf 
+[prodega](notes/utilisateurs/fournisseurs/prodega.md) Finish tab Classic 100x 22,90chf 
+
+[jumbo](notes/utilisateurs/fournisseurs/jumbo.md) 50x 13chf 

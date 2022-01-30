@@ -1,4 +1,4 @@
-[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoAncien]] [[notes/departements/D_GardeMeubles 1]] 2ème
+[[notes/equipements/L_Diables]] [[notes/equipements/consommables/C_ExpressoAncien]] [[notes/departements/D_GardeMeubles]] 2ème
 
 #### Afaire 
 

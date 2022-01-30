@@ -1,4 +1,4 @@
-[[notes/equipements/consommables/C_CasierRuche]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] [[notes/equipements/utilisateurs/ndulaNlandu]]
+[[notes/equipements/consommables/C_CasierRuche]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] [[notes/utilisateurs/beneficiaires/ndulaNlandu]]
 300821 [[jonathanGonzalezGomez]]
 010221 [[adamJendoubi]]
 [[enzoMorais]]

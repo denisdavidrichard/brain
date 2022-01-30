@@ -1,3 +1,3 @@
  [[notes/zones/magasinVetementsRuche]]
 
-[[notes/fournisseurs/coop]] 20chf
+[[notes/utilisateurs/fournisseurs/coop]] 20chf

@@ -1,4 +1,4 @@
 [[L_Consommables]]
 
 
-20chf [[notes/fournisseurs/grellor]]
+20chf [[notes/utilisateurs/fournisseurs/grellor]]

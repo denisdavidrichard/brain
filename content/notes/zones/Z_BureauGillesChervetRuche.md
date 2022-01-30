@@ -3,5 +3,5 @@
 [[notes/zones/L_Zones]] 
 
 
-[[notes/procedure/E_Plantes]]
+[[notes/formation/E_Plantes]]
 [[N_Bureaux]]

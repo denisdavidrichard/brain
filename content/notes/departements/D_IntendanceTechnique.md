@@ -1,8 +1,13 @@
-[[Zweb/AgendaMaJournee]]
+---
+title: "En lien avec l'intendance et service technique"
+---
 
-#### Afaire 
+[Agenda](notes/AgendaMaJournee.md) 
+## Infos:
 
-### Historique
+## A faire: 
+
+## Historique:
 141221 [[notes/departements/D_IntendanceTechnique]] [[notes/zones/Z_DechetsSpeciauxRuche]] [[notes/zones/Z_AbriPauseRuche]] [[notes/zones/Z_PlateformeAVerreMarquiseMezzanine]] [[notes/zones/Z_SAS_HalleJ]]
 
 131221 [[notes/departements/D_IntendanceTechnique]] [[notes/zones/Z_SAS_HalleJ]] 
@@ -27,7 +32,7 @@ Place Simon Goulart 6 076 316 93 30
 
 180521 [[notes/departements/D_IntendanceTechnique]] Dérouleur air comprimé quai changé
 
-280421 [[notes/departements/D_GestionDomicile]] [[notes/zones/costa]] équipement et photos envoyées à [[gillesChervet]]
+280421 [[notes/departements/D_GestionDomicile]] [[notes/zones/costa]] équipement et photos envoyées à [[notes/utilisateurs/beneficiaires/gillesChervet]]
 
 090421 [[notes/zones/costa]] affiche frigo Gilles 
 
@@ -39,7 +44,7 @@ Place Simon Goulart 6 076 316 93 30
 
 070121 Faire le support à balais et escabeaux en zone de transit en hauteur ok
 
-050121 repeindre Lignon 10 chambre n3 ok [[notes/equipements/utilisateurs/fredericDetraz]]
+050121 repeindre Lignon 10 chambre n3 ok [[notes/utilisateurs/beneficiaires/fredericDetraz]]
 
 210720 @intendance @terrasseCG  vaporisation produit sur petit nied de guèpes sous l'escalier qui mène à la terrasse du restaurant
 

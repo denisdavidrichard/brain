@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[notes/equipements/utilisateurs/maximeChiavaroli]][[notes/statut/S_Perdu]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[notes/utilisateurs/beneficiaires/maximeChiavaroli]][[notes/statut/S_Perdu]]

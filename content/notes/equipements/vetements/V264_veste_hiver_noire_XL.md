@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[notes/equipements/utilisateurs/malikIbrahimAbdi]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[notes/utilisateurs/beneficiaires/malikIbrahimAbdi]]

@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/equipements/utilisateurs/julienEberhard]] 250122 lavée 
+[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/utilisateurs/beneficiaires/julienEberhard]] 250122 lavée 

@@ -1,3 +1,7 @@
-[[notes/zones/rangementsEntretienVehicules]]
+---
+title: "Gilet de signalisation jaune"
+---
 
-[[landi]] 2,50chf
+[rangementsEntretienVehicules](notes/zones/rangementsEntretienVehicules.md)
+
+[landi](notes/utilisateurs/fournisseurs/landi.md) 2,50chf

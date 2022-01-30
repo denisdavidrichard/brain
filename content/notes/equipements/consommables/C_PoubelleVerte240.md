@@ -1,3 +1,7 @@
-[[notes/zones/rideauQuaiExterieur]]
+---
+title: "Poubelle verte 240L"
+---
 
-[[landi]] poubelleVerte240 42,50chf article 10426 
+[rideauQuaiExterieur](notes/zones/rideauQuaiExterieur.md)
+
+[landi](notes/utilisateurs/fournisseurs/landi.md) poubelleVerte240 42,50chf article 10426 

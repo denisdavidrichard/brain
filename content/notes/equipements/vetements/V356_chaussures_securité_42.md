@@ -2,5 +2,5 @@
 [[notes/equipements/vetements/michaelFerreira]]
 [[menélikShizzle]]
 020921 [[alejandroBasconMartin]]
-[[notes/equipements/utilisateurs/madiJorge]]
+[[notes/utilisateurs/beneficiaires/madiJorge]]
 280621 [[javierSzymanski]]

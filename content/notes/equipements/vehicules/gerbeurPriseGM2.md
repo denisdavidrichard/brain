@@ -3,7 +3,7 @@ title: "Gerbeur Prise GM2"
 ---
 
 ## Infos
-[Vehicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Gerbeurs](notes/equipements/vehicules/C_Gerbeurs.md) [Garde Meubles](notes/departements/D_GardeMeubles%201.md)
+[Vehicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Gerbeurs](notes/equipements/vehicules/C_Gerbeurs.md) [Garde Meubles](notes/departements/D_GardeMeubles.md)
 Infos: Still
 Type véhicule:
 N° batterie:

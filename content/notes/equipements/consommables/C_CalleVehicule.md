@@ -1,5 +1,9 @@
-[[notes/zones/rangementsEntretienVehicules]]
+---
+title: "Calle pour véhicule"
+---
 
-[[jumbo]] sabotArretCarStop 16,50chf Art.1074639 
+[rangementsEntretienVehicules](notes/zones/rangementsEntretienVehicules.md)
 
-130720 @memo [[notes/departements/D_EntretienVehicules]] @grunderco Cale plastique jaune 25chf ref 606727
+[jumbo](notes/utilisateurs/fournisseurs/jumbo.md) sabotArretCarStop 16,50chf Art.1074639 
+
+130720 @memo [D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) @grunderco Cale plastique jaune 25chf ref 606727

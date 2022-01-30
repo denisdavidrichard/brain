@@ -2,8 +2,8 @@
 title: "Caddy"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
 Infos: VW Caddy TGI - 2018\
 Type vehicule: 3VE7 74M\
 Num chassis: WV1ZZZ2KZJX031860\
@@ -20,7 +20,7 @@ Pneu ar gauche:\
 Pneu av gauche:\
 ExpertisesVisitesOCV: 130218
 
-## Afaire 
+## Afaire:
 
-## Historique
-130220 [[amag]] service garage
+## Historique:
+130220 [amag](notes/utilisateurs/fournisseurs/amag.md) service garage

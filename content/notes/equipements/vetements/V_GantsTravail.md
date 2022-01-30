@@ -4,20 +4,20 @@ title: "Gants de travail"
 
 [[notes/zones/magasinVetementsRuche]]
 
-[[prodega]]
+[[notes/utilisateurs/fournisseurs/prodega]]
 
-V170_gants_impérméable_rouge_M [[notes/equipements/utilisateurs/helenYigsaw]]
+V170_gants_impérméable_rouge_M [[notes/utilisateurs/beneficiaires/helenYigsaw]]
 
 V171_gants_impérméable_rouge_L [[joelBigler]]
 
 V172_gants_impérméable_rouge_L 
-[[notes/equipements/utilisateurs/gaelSullice]]
+[[notes/utilisateurs/beneficiaires/gaelSullice]]
 
 V176_gants_impérméable_rouge_L [[notes/zones/zoneQuaiRuche]]
 
 V174_gants_impérméable_rouge_L [[isaacThiam]]
 
-V179_gants_impérméable_rouge_L [[notes/equipements/utilisateurs/dominiqueByrde]]
+V179_gants_impérméable_rouge_L [[notes/utilisateurs/beneficiaires/dominiqueByrde]]
 
 V184_gants_impérméable_rouge_M [[notes/statut/S_Libre]]
 
@@ -29,7 +29,7 @@ V161_gants_impérméable_rouge_L  [[samirRamadani]]
 
 V168_gants_impérméable_rouge_L [[notes/equipements/vetements/suhaybAbdi]]
 
-V169_gants_impérméable_rouge_L [[notes/equipements/utilisateurs/denisWeidmann]]
+V169_gants_impérméable_rouge_L [[notes/utilisateurs/beneficiaires/denisWeidmann]]
 
 V162_gants_impérméable_rouge_M [[notes/statut/S_Libre]]
 

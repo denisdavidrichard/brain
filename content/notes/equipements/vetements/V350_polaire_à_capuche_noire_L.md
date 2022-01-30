@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/equipements/utilisateurs/sandraGarcia]]
+[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/utilisateurs/beneficiaires/sandraGarcia]]

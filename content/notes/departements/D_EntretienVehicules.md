@@ -1,8 +1,42 @@
-[[Zweb/AgendaMaJournee]] [[notes/equipements/vehicules/L_VehiculesEngins]]
+---
+title: "En lien avec l'entretien des véhicules"
+---
 
-#### Afaire 
+[Agenda](notes/AgendaMaJournee.md) 
+## Infos:
+Véhicules | Mois dernier service CB | si "x" (n'est pas encore mis dans le véhicule) suivi par: V (pour Vignette 22) D (pour désinfectant main) B (pour bétadine pharmacie du véhicule) 
+---: | --- | :---
+[Asterix](notes/equipements/vehicules/Asterix.md) |  | 
+[Obelix](notes/equipements/vehicules/Obelix.md) |  |
+[King](notes/equipements/vehicules/King.md) |  | xV xD xB
+[Kong](notes/equipements/vehicules/Kong.md) |  | V D B
+[Black](notes/equipements/vehicules/Black.md) |  | xV xD xB
+[Jack](notes/equipements/vehicules/Jack.md) |  | V xD xB
+[Glouton](notes/equipements/vehicules/Glouton.md) |  | V D B
+[WallE](notes/equipements/vehicules/WallE.md) |  | V D B
+[Pacman](notes/equipements/vehicules/Pacman.md) |  | V D B
+[Moulinex](notes/equipements/vehicules/Moulinex.md) |  |V D B
+[Hercule](notes/equipements/vehicules/Hercule.md) |  |V D
+[Maximus](notes/equipements/vehicules/Maximus.md) |  |V D B
+[Hiace](notes/equipements/vehicules/Hiace.md) |  |V xD xB
+[Doblo](notes/equipements/vehicules/Doblo.md) |  |xV xD xB
+[Caddy](notes/equipements/vehicules/Caddy.md) |  |xV xD
+[Sirion](notes/equipements/vehicules/Sirion.md) |  |V xD
+[Trevis](notes/equipements/vehicules/Trevis.md) |  |V xD
+[Scarabeo](notes/equipements/vehicules/Scarabeo.md) |  |xV
+[ScooterBMWEvo](notes/equipements/vehicules/ScooterBMWEvo.md) |  | xV
+[Jousson](notes/equipements/vehicules/Jousson.md) |  | 
+[Mustapha](notes/equipements/vehicules/Mustapha.md) |  |
+[Mohammed](notes/equipements/vehicules/Mohammed.md) |  |
+[RemorqueGM](notes/equipements/vehicules/RemorqueGM.md) |  |
+[RemorqueFerraille](notes/equipements/vehicules/RemorqueFerraille.md) |  | 
 
-### Historique
+## A faire: 
+
+## Historique:
+
+170122 Benne jaune à La Halle Juliette, attention à bien sangler les portes arrières car elles s'ouvrent [[etienneMagnenat]] nous allons devoir trouver une solution pour securiser celles-ci. avec photo [[notes/utilisateurs/beneficiaires/gillesChervet]]
+
 221221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Black]]
 
 171221 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Maximus]]
@@ -21,7 +55,7 @@
 
 111121 reprendre avec Gaëtan [[manutentionEtChariots]] concernant pince à roulements. 1330
 
-101121 photo MM envoyée à [[notes/equipements/utilisateurs/yannickNgoma]] mail
+101121 photo MM envoyée à [[notes/utilisateurs/beneficiaires/yannickNgoma]] mail
 
 160821 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Jack]][[notes/equipements/vehicules/Kong]][[notes/equipements/vehicules/Black]][[notes/equipements/vehicules/King]] 
 
@@ -41,7 +75,7 @@
 
 150421 [[campingCarFrancis]] batterie remise.
 
-150421 [[gillesChervet]] message [[notes/equipements/consommables/C_CompresseurRuche]] tuyau envoyer.
+150421 [[notes/utilisateurs/beneficiaires/gillesChervet]] message [[notes/equipements/consommables/C_CompresseurRuche]] tuyau envoyer.
 
 150421 [[notes/equipements/consommables/C_CompresseurRuche]] révision CB Nettoyage, vidange, huile et resserrer visserie.
 
@@ -51,7 +85,7 @@
 
 200321 [[notes/equipements/vehicules/Moulinex]] [[notes/equipements/vehicules/Glouton]] [[notes/equipements/vehicules/Obelix]] pression pneus faites
 
-260221 [[notes/statut/Afaire]] Redemander les macarons handicapés dit à [[notes/equipements/utilisateurs/yannickNgoma]]
+260221 [[notes/statut/Afaire]] Redemander les macarons handicapés dit à [[notes/utilisateurs/beneficiaires/yannickNgoma]]
 
 220221 Appeler pour le [[kyburz]] Ils m'ont rappelé, ils passeront d'ici la fin de la semaine prochaine, envoyer les photos après avoir parlé avec FD 0448664040 [pascal.seydoux@kyburtz-switzerland.ch](mailto:pascal.seydoux@kyburtz-switzerland.ch)
 
@@ -59,7 +93,7 @@
 
 140121 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Scarabeo]] [[notes/equipements/vehicules/Mohammed]] [[notes/equipements/vehicules/Mustapha]] pression des pneus ok
 
-130121 [[notes/departements/D_Achats]] [[notes/equipements/consommables/C_AmpouleH7]]x2 [[notes/equipements/consommables/C_AmpouleH4]]x2 [[jumbo]] ok
+130121 [[notes/departements/D_Achats]] [[notes/equipements/consommables/C_AmpouleH7]]x2 [[notes/equipements/consommables/C_AmpouleH4]]x2 [[notes/utilisateurs/fournisseurs/jumbo]] ok
 
 090121 [[notes/equipements/vehicules/TCS]] 0588272390 [sro@tcs.ch](mailto:sro@tcs.ch) adresse de livraison. Association. Téléphone. Venir chercher. Mail envoyé en ce jour [[notes/equipements/consommables/C_DisqueStationnement]]
 
@@ -77,11 +111,11 @@
 
 141020 [[notes/statut/entretienMensuel]] [[notes/equipements/vehicules/Doblo]] [[notes/equipements/vehicules/Hiace]] [[notes/equipements/vehicules/MazdaE2000]] fait
 
-061020 [[notes/departements/D_EntretienVehicules]] prise véhicule [[gillesChervet]] pour permis remorque
+061020 [[notes/departements/D_EntretienVehicules]] prise véhicule [[notes/utilisateurs/beneficiaires/gillesChervet]] pour permis remorque
 
-010920  [[notes/departements/D_EntretienVehicules]] vélo [[gillesChervet]] luminaire arrière câble debranché sur la lumière avant qui est connectée à la dynamo.
+010920  [[notes/departements/D_EntretienVehicules]] vélo [[notes/utilisateurs/beneficiaires/gillesChervet]] luminaire arrière câble debranché sur la lumière avant qui est connectée à la dynamo.
 
-010920 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/technomag]] douille de 26 pour vidange [[EV_PontArrière]] reçue hier
+010920 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/technomag]] douille de 26 pour vidange [[notes/equipements/vehicules/EV_PontArrière]] reçue hier
 commandé le 270820
 
 280820 [[notes/departements/D_Achats]] [[notes/equipements/vehicules/technomag]] Support pot complet silent bloc avec support marmite arrière [[notes/statut/Afaire]]

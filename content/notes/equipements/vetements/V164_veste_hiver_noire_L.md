@@ -1,3 +1,3 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[xavierBerral]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[notes/utilisateurs/beneficiaires/xavierBerral]]
 010920 [[anthonyMahamat]]
 [[joelBigler]]

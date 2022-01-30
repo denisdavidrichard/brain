@@ -1,4 +1,4 @@
-[[Zweb/AgendaMaJournee]]
+[[notes/AgendaMaJournee]]
 
 #### [[notes/statut/Afaire]] faire procédure de nettoyage pour les résidences
 
@@ -6,7 +6,7 @@
 
 180122 [[notes/departements/D_GestionDomicile]] situation Hanselmann nous avons aidé monsieur pour ça bibliothèque et les cartons 5h2p 
 
-231221 Boucher [[anthonySpinardi]] 2p3h déménageuse terminer la situation avec cave pour que [[notes/equipements/utilisateurs/dominiqueByrde]] puisse effectuer le [[notes/departements/D_Nettoyage]]
+231221 Boucher [[anthonySpinardi]] 2p3h déménageuse terminer la situation avec cave pour que [[notes/utilisateurs/beneficiaires/dominiqueByrde]] puisse effectuer le [[notes/departements/D_Nettoyage]]
 
 221221 [[Bugnons14_12e]]
 
@@ -36,7 +36,7 @@ Cave 551 étagères et bidet à remonter ?!!! 5p x 5h
 
 291021 Lachat William table ronde avec pieds et les 4 extensions et la visseuse.
 
-281021 EDL fin Onex Lagnaz Roland 201021 ok[[gillesChervet]]
+281021 EDL fin Onex Lagnaz Roland 201021 ok[[notes/utilisateurs/beneficiaires/gillesChervet]]
 
 281021 débarras Lachat William sports 73 4p10h
 
@@ -49,10 +49,10 @@ Cave 551 étagères et bidet à remonter ?!!! 5p x 5h
 200921 préparation Andris 3p 3h
 
 
-300821 Frauchiger photo [[notes/equipements/utilisateurs/maximeChiavaroli]] manque Meuble à chaussures
+300821 Frauchiger photo [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] manque Meuble à chaussures
 Meuble TV moins de 170cm WhatsApp
 
-270821 déménagement Frauchiger Josiane [[kylianCavagna]] 8h [[notes/equipements/utilisateurs/loïcRossero]] 8h30 [[notes/equipements/vetements/pascalNoel]] 3h [[notes/equipements/utilisateurs/ndulaNlandu]] 8h30 [[notes/equipements/utilisateurs/laurentVonBergen]] 8h [[notes/equipements/utilisateurs/denisWeidmann]] 8h30
+270821 déménagement Frauchiger Josiane [[kylianCavagna]] 8h [[notes/utilisateurs/beneficiaires/loïcRossero]] 8h30 [[notes/equipements/vetements/pascalNoel]] 3h [[notes/utilisateurs/beneficiaires/ndulaNlandu]] 8h30 [[notes/utilisateurs/beneficiaires/laurentVonBergen]] 8h [[notes/utilisateurs/beneficiaires/denisWeidmann]] 8h30
 Armoire deux porte environ 70cm de large ok
 Petit frigo congélateur ok
 Porte monteau mural ok
@@ -77,7 +77,7 @@ Porte monteau mural ok
 
 260521 [[notes/departements/D_GestionDomicile]] KONRAD Elsbeth 5p 5h
 
-250521 [[notes/departements/D_GestionDomicile]] préparation 17h30 avec Andres ok avec [[notes/equipements/utilisateurs/maximeChiavaroli]]
+250521 [[notes/departements/D_GestionDomicile]] préparation 17h30 avec Andres ok avec [[notes/utilisateurs/beneficiaires/maximeChiavaroli]]
 
 190521 [[notes/departements/D_GestionDomicile]] livraison armoire ems la coccinelle Mme Waldvogel ok
 
@@ -89,11 +89,11 @@ Porte monteau mural ok
 
 140521 [[notes/departements/D_GestionDomicile]] Trincat 4p 2h
 
-110521 [[notes/departements/D_GestionDomicile]] kashai vider et nettoyer cave avec [[notes/equipements/utilisateurs/dominiqueByrde]] matin 2x4 et 1x4 (16h-20h) - toutes les heures envoyée à [[virginieBarrientos]]
+110521 [[notes/departements/D_GestionDomicile]] kashai vider et nettoyer cave avec [[notes/utilisateurs/beneficiaires/dominiqueByrde]] matin 2x4 et 1x4 (16h-20h) - toutes les heures envoyée à [[virginieBarrientos]]
 
 100521  [[notes/departements/D_GestionDomicile]] 14h Kashai rue du collège 24 carouge Maximus 15 cartons scotch pour GM et affaires personnelle déterminé ce qu'on garde au GM assistante nous aide [[anthonySpinardi]] 6x2
 
-040521 [[notes/departements/D_GestionDomicile]] Sutterlet Mary-José Avenue du Lignon 8 [[notes/equipements/vehicules/Maximus]] suffit dit [[notes/equipements/utilisateurs/yannickNgoma]] 
+040521 [[notes/departements/D_GestionDomicile]] Sutterlet Mary-José Avenue du Lignon 8 [[notes/equipements/vehicules/Maximus]] suffit dit [[notes/utilisateurs/beneficiaires/yannickNgoma]] 
 Clé au logement dans GD
 Équipement CB - Canape convertible mais a tirer, pas autrement et informer Mme 
 Table basse de salon petite en verre si possible sinon en bois clair
@@ -115,15 +115,15 @@ Table basse de salon petite en verre si possible sinon en bois clair
 
 010421 [[notes/departements/D_GestionDomicile]] Olmari Odile [[dionAgushi]][[kylianCavagna]][[thibaudRossetti]][[anthonyMahamat]] 5p 7h30-12h30
 
-310321 [[notes/departements/D_GestionDomicile]] Hartranft [[anthonyMahamat]] [[justinMisha]] [[adamJendoubi]] [[dionAgushi]] [[notes/equipements/utilisateurs/gilFerrari]] 6p 7h30-12h30
+310321 [[notes/departements/D_GestionDomicile]] Hartranft [[anthonyMahamat]] [[justinMisha]] [[adamJendoubi]] [[dionAgushi]] [[notes/utilisateurs/beneficiaires/gilFerrari]] 6p 7h30-12h30
 
-300321 [[notes/departements/D_GestionDomicile]] Dussoix Madelaine [[dionAgushi]][[anthonyMahamat]] livraisons [[kylianCavagna]][[adamJendoubi]][[notes/equipements/utilisateurs/gaelSullice]]débarras 4p 4h30
+300321 [[notes/departements/D_GestionDomicile]] Dussoix Madelaine [[dionAgushi]][[anthonyMahamat]] livraisons [[kylianCavagna]][[adamJendoubi]][[notes/utilisateurs/beneficiaires/gaelSullice]]débarras 4p 4h30
 
-290321 seve Département des espaces verts avenue de châtelaine 43 [[kylianCavagna]] [[adamJendoubi]] [[anthonyMahamat]] [[notes/equipements/utilisateurs/gaelSullice]] [[notes/equipements/utilisateurs/denisWeidmann]] 5p 7h30-12h
+290321 seve Département des espaces verts avenue de châtelaine 43 [[kylianCavagna]] [[adamJendoubi]] [[anthonyMahamat]] [[notes/utilisateurs/beneficiaires/gaelSullice]] [[notes/utilisateurs/beneficiaires/denisWeidmann]] 5p 7h30-12h
 
-260321 [[notes/departements/D_GestionDomicile]] [[notes/equipements/utilisateurs/maximeChiavaroli]] waldvogelAndree 8h vider [[notes/equipements/vehicules/Maximus]] Av. St. Cecile 3 Meyrin
+260321 [[notes/departements/D_GestionDomicile]] [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] waldvogelAndree 8h vider [[notes/equipements/vehicules/Maximus]] Av. St. Cecile 3 Meyrin
 
-260321 [[notes/departements/D_GestionDomicile]] [[notes/equipements/utilisateurs/maximeChiavaroli]] marraRoberto rez 2 camions benne 48bis rue de la Terrassière 1207
+260321 [[notes/departements/D_GestionDomicile]] [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] marraRoberto rez 2 camions benne 48bis rue de la Terrassière 1207
 
 250321 [[notes/departements/D_GestionDomicile]] wrzosowskiGregor 4p 7h3012h30-13h30-17h
 
@@ -145,8 +145,8 @@ Table basse de salon petite en verre si possible sinon en bois clair
 
 050221 Rosa préparation au déménagement à la place 8h30 [[notes/departements/D_GestionDomicile]]
 
-070121 Suhner comme convenu avec [[notes/equipements/utilisateurs/pascalTaib]], pris bibliothèque et petit meuble d'angle le reste reconditionné dans deux palettes grillagées.
+070121 Suhner comme convenu avec [[notes/utilisateurs/beneficiaires/pascalTaib]], pris bibliothèque et petit meuble d'angle le reste reconditionné dans deux palettes grillagées.
 
-060121 13h Nadia Comment Fouad 11 chemin des fraisiers Grand-Lancy 1212 6e ascenseur 0798011230 7 cartons une armoire démontée, 1 table basse, table à manger, 1 canapé, 1 lit double à démontrer, prendre visseuse, une palette grillagée, plus 4 simple et film. Ok payé 120chf pour environ 6m3 ne plus accepter de démonter les affaires vu avec [[gillesChervet]]
+060121 13h Nadia Comment Fouad 11 chemin des fraisiers Grand-Lancy 1212 6e ascenseur 0798011230 7 cartons une armoire démontée, 1 table basse, table à manger, 1 canapé, 1 lit double à démontrer, prendre visseuse, une palette grillagée, plus 4 simple et film. Ok payé 120chf pour environ 6m3 ne plus accepter de démonter les affaires vu avec [[notes/utilisateurs/beneficiaires/gillesChervet]]
 
 040121 situation Guex Roger 7 personnes une demie journée

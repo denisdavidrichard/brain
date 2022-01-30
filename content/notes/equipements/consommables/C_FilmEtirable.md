@@ -1,13 +1,17 @@
-[[notes/zones/rangementsPratique]]
+---
+title: "Film étirable"
+---
 
-[[SOS-dem]] 14,95chf  filmEtirableGrand par lot de 6
+[Agenda](notes/AgendaMaJournee.md) 
+## Infos:
+[rangementsPratique](notes/zones/rangementsPratique.md)\
+[SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md) 14,95chf  filmEtirableGrand par lot de 6\
+[landi](notes/utilisateurs/fournisseurs/landi.md) 22chf 22580,01\
+[jumbo](notes/utilisateurs/fournisseurs/jumbo.md)\
+[edmondBaud](notes/utilisateurs/fournisseurs/edmondBaud.md) 25chf\
+[[notes/utilisateurs/fournisseurs/soniaCouture]] 500chf réutilisable
 
-[[landi]] 22chf 22580.01 
+## A faire: 
 
-[[jumbo]]
-
-[[edmondBaud]] 25chf 
-
-070721 prototype [[notes/equipements/consommables/C_FilmEtirable]] textile [[soniaCouture]] rapporter et demandé autre avec chute pour être dans la tarification des 500chf si pas possible envoyer mail à [[gillesChervet]]
-
-280621 un contact à [[notes/equipements/utilisateurs/pascalTaib]] ma aborder pour du film et commande de carton, la commande au film brûlé que c'est nous...
+## Historique:
+280621 un contact à [pascalTaib](notes/utilisateurs/beneficiaires/pascalTaib.md) ma aborder pour du film et commande de carton, la commande au film brûlé que c'est nous...

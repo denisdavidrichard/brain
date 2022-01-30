@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 160821 [[notes/equipements/utilisateurs/laurentVonBergen]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 160821 [[notes/utilisateurs/beneficiaires/laurentVonBergen]]

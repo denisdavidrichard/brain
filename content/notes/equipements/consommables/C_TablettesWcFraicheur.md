@@ -1,1 +1,5 @@
-[[jumbo]] 3,75chf 1x 
+---
+title: "Tablettes Wc Fraicheur"
+---
+
+[jumbo](notes/utilisateurs/fournisseurs/jumbo.md) 3,75chf 1x 

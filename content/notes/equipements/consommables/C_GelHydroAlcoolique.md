@@ -1,12 +1,17 @@
-[[notes/zones/magasinVetementsRuche]] fait maison 1891,5ml
+---
+title: "Gel hydro-alcoolique"
+---
 
-[[prodega]] Désinfectant rapide 5L + 320ml 39,80chf 
+
+[magasinVetementsRuche](notes/zones/magasinVetementsRuche.md) fait maison 1891,5ml
+
+[prodega](notes/utilisateurs/fournisseurs/prodega.md) Désinfectant rapide 5L + 320ml 39,80chf 
 
 Recette:
-1. [[notes/equipements/consommables/C_Ethanol96%]] : 835 ml
-2. [[notes/equipements/consommables/C_PeroxydeHydrogène]] 3% : 42 ml
-3. [[notes/equipements/consommables/C_Glycérol]] 98% : 14,5 ml 
-4. [[notes/equipements/consommables/C_EauBouillie]] 1000ml
+1.  [C_Ethanol96](notes/equipements/consommables/C_Ethanol96.md) : 835 ml
+2. [C_PeroxydeHydrogène](notes/equipements/consommables/C_PeroxydeHydrogène.md) 3% : 42 ml
+3. [C_Glycérol](notes/equipements/consommables/C_Glycérol.md) 98% : 14,5 ml 
+5. [C_EauBouillie](notes/equipements/consommables/C_EauBouillie.md) 1000ml
 Quantité totale 1891,5ml
 
 10L coute 21.65chf donc c'est 2.2chf le litre si on arrondi

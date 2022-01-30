@@ -1,3 +1,7 @@
-[[notes/zones/migrosBalexert]] alcoolBruler 2,80chf 
+---
+title: "Alcool à bruler"
+---
 
-[[jumbo]] alcoolBruler 2,80chf 
+[migros](notes/utilisateurs/fournisseurs/migros.md) alcoolBruler 2,80chf 
+
+[jumbo](notes/utilisateurs/fournisseurs/jumbo.md) alcoolBruler 2,80chf 

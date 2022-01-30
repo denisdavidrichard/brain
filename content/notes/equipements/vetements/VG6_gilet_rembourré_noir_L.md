@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_GiletsRembourrés]] [[notes/equipements/utilisateurs/pascalTaib]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_GiletsRembourrés]] [[notes/utilisateurs/beneficiaires/pascalTaib]]

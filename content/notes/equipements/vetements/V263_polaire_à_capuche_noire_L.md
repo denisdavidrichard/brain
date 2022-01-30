@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/equipements/utilisateurs/malikIbrahimAbdi]]
+[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/utilisateurs/beneficiaires/malikIbrahimAbdi]]

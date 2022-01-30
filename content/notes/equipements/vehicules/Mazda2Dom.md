@@ -13,7 +13,7 @@ Huile moteur:
 Huile hydraulique:
 Huile pont arrière:
 Liquide de refroidissement:
-[[notes/equipements/vehicules/ExpertisesVisitesOCV]]: 050618 131014 080910
+ExpertisesVisitesOCV: 050618 131014 080910
 
 ## Afaire 
 

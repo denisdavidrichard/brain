@@ -2,8 +2,8 @@
 title: "Pacman"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
 Infos: Toyota Dyna 150 3.0 - 2000\
 Type vehicule: 3TA3 471\
 Num chassis: JT131LYM208001993\
@@ -24,7 +24,7 @@ Pneu secours: 185R14C Kormoran Van pro Winter\
 Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)\
 ExpertisesVisitesOCV: 180319 220716 190813
 
-## Afaire
+## Afaire:
 
-## Historique
-100320 [[notes/equipements/vehicules/pneusClaude]] changement pneu avant gauche 78chf
+## Historique:
+100320 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) changement pneu avant gauche 78chf

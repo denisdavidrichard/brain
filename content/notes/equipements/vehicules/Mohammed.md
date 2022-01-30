@@ -2,7 +2,8 @@
 title: "Mohammed"
 ---
 
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Tricycles](notes/equipements/vehicules/C_Tricycles.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Tricycles](notes/equipements/vehicules/C_Tricycles.md)\
 Infos: Kyburu DXP 2\
 Type véhicule: 6KD201\
 Num chassis: TCK616741C8404933\
@@ -14,11 +15,11 @@ Pneu ar droit:\
 Pneu ar gauche:\
 ExpertisesVisitesOCV: 050520
 
-## Afaire 
+## Afaire:
 
-## Historique
-020221 [[EV_VolantsGuidons]] bouge vu et resserrer par [[notes/equipements/utilisateurs/fredericDetraz]]
+## Historique:
+020221 [EV_VolantsGuidons](notes/equipements/vehicules/EV_VolantsGuidons.md) bouge vu et resserrer par fredericDetraz
 
-200820 [[EV_Suspensions]] problème suspension ça va car ressorts. Vu [[notes/equipements/utilisateurs/fredericDetraz]] trop de graisse sur les ressorts.
+200820 [[notes/equipements/vehicules/EV_Suspensions]] problème suspension ça va car ressorts. Vu fredericDetraz trop de graisse sur les ressorts.
 
-090621 [[EV_VolantsGuidons]] problème direction bouge 0448664040
+090621 [EV_VolantsGuidons](notes/equipements/vehicules/EV_VolantsGuidons.md) problème direction bouge 0448664040

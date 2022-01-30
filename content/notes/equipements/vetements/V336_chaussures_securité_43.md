@@ -4,4 +4,4 @@
 [[yohannFrommherz]]
 040121 [[thibaudRossetti]]
 [[notes/equipements/vetements/christopherSubbanose]]
-[[notes/equipements/utilisateurs/denisWeidmann]] (hug)
+[[notes/utilisateurs/beneficiaires/denisWeidmann]] (hug)

@@ -1,4 +1,4 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 061221 [[notes/equipements/utilisateurs/sachaGascaen]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 061221 [[notes/utilisateurs/beneficiaires/sachaGascaen]]
 251021 [[raphaelFoglia]]
 181021 [[marioMigliore]]
 150321 [[kylianCavagna]]

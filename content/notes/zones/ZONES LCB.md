@@ -59,5 +59,5 @@
 
 [[notes/zones/zoneSousTente]]
 
-[[notes/departements/D_GardeMeubles 1]]
+[D_GardeMeubles](notes/departements/D_GardeMeubles.md)
 

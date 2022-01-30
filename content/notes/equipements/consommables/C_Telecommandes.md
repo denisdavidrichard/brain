@@ -1,7 +1,9 @@
-[[L_Consommables]]
+---
+title: "Télécommandes"
+---
 
 
-[[notes/equipements/consommables/C_TelecommandeRideauRuche]]
+[C_TelecommandeRideauRuche](notes/equipements/consommables/C_TelecommandeRideauRuche.md)
 
 
-[[EV_Telecommandes]]
+[EV_Telecommandes](notes/equipements/vehicules/EV_Telecommandes.md)

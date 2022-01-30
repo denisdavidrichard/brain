@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Gilets]] [[notes/equipements/utilisateurs/chadaMatuyaku]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Gilets]] [[notes/utilisateurs/beneficiaires/chadaMatuyaku]]

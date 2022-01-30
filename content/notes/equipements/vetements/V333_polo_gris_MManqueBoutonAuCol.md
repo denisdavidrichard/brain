@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_PolosGris]] [[notes/equipements/utilisateurs/georginaNdanema]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_PolosGris]] [[notes/utilisateurs/beneficiaires/georginaNdanema]]

@@ -1,1 +1,1 @@
-[[prodega]] 5 paires chf
+[[notes/utilisateurs/fournisseurs/prodega]] 5 paires chf

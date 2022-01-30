@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_CeinturesDorsale]] [[gillesChervet]] 
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_CeinturesDorsale]] [[notes/utilisateurs/beneficiaires/gillesChervet]] 

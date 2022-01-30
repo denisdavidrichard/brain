@@ -2,8 +2,8 @@
 title: "Hiace"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Fourgons](notes/equipements/vehicules/C_Fourgons.md) [Camionnettes](notes/equipements/vehicules/C_Camionnettes.md)\
 Infos: Toyota Hiace 2.7 4WD\
 Type vehicule: 3TA378M\
 Num chassis: JT121UK2900001894\
@@ -19,21 +19,22 @@ Pneu arrière gauche: \
 Pneu avant gauche: \
 ExpertisesVisitesOCV: 210220 210917
 
-## Réparer le siège conducteur avec mousse et gaffer et Peu av gauche hiace [Afaire](notes/statut/Afaire.md)
+## Afaire: 
+Réparer le siège conducteur avec mousse et gaffer et Peu av gauche hiace [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
-071221 [[notes/equipements/vehicules/EV_Feux]] changement [[notes/equipements/consommables/C_AmpouleH4]] côté gauche [[ampouleW5W]] côté droit.
+071221 [EV_Feux](notes/equipements/vehicules/EV_Feux.md) changement [C_AmpouleH4](notes/equipements/consommables/C_AmpouleH4.md) côté gauche [C_AmpouleW5W](notes/equipements/consommables/C_AmpouleW5W.md) côté droit.
 
-011121 [[notes/equipements/vehicules/garageAnken]] souflets de cardan avant changés 
+011121 [garageAnken](notes/equipements/vehicules/garageAnken.md) souflets de cardan avant changés 
 
-190521 [[notes/departements/D_IntendanceTechnique]] [[etienneMagnenat]] 07h30 Souder tige filetage rampe 
+190521 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) etienneMagnenat 07h30 Souder tige filetage rampe 
 
-230920 [[notes/equipements/vehicules/garageAnken]] apporter au garage Anken le matin  090920  logo injecteur de nouveau allumé...
+230920 [garageAnken](notes/equipements/vehicules/garageAnken.md) apporter au garage Anken le matin  090920  logo injecteur de nouveau allumé...
 
-120820 [[notes/equipements/vehicules/EV_BatteriesAuPlomb]] changement 166.9chf car mise en charge pas concluante
+120820 [EV_BatteriesAuPlomb](notes/equipements/vehicules/EV_BatteriesAuPlomb.md) changement 166.9chf car mise en charge pas concluante
 
-060820 [[notes/equipements/vehicules/garageAnken]] sonde échappement voyant moteur ne revient pas pour l'instant :)
+060820 [garageAnken](notes/equipements/vehicules/garageAnken.md) sonde échappement voyant moteur ne revient pas pour l'instant :)
 
-090720 [[notes/departements/D_IntendanceTechnique]] changement tapis arrière et [[notes/equipements/vehicules/EV_AjoutMateriel]] nouvelle copie carte grise
+090720 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) changement tapis arrière et [EV_AjoutMateriel](notes/equipements/vehicules/EV_AjoutMateriel.md) nouvelle copie carte grise
 
-150420 [[notes/equipements/vehicules/EV_AjoutLiquide]] [[notes/equipements/consommables/C_HuileMoteur10w40]] ajout
+150420 [EV_AjoutLiquide](notes/equipements/vehicules/EV_AjoutLiquide.md) [C_HuileMoteur10w40](notes/equipements/consommables/C_HuileMoteur10w40.md) ajout

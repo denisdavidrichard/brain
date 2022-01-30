@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/equipements/utilisateurs/maximeChiavaroli]]
+[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/utilisateurs/beneficiaires/maximeChiavaroli]]

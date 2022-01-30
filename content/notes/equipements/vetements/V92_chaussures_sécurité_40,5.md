@@ -1,5 +1,5 @@
 [[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 250122 [[notes/statut/S_Libre]]
-030122 [[notes/equipements/utilisateurs/julienEberhard]]
-131221 [[notes/equipements/utilisateurs/loïcRossero]]
+030122 [[notes/utilisateurs/beneficiaires/julienEberhard]]
+131221 [[notes/utilisateurs/beneficiaires/loïcRossero]]
 251021 [[edgarCostaQuiala]] 
 281019 [[ilanWoarden]]

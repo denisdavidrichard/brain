@@ -2,8 +2,8 @@
 title: "Sirion"
 ---
 
-## Infos
-[Véhicules Engins](notes/equipements/vehicules/L_VehiculesEngins.md) [Voitures](notes/equipements/vehicules/C_Voitures.md)\
+## Infos:
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Voitures](notes/equipements/vehicules/C_Voitures.md)\
 Infos: Daihatsu Sirion 1.3 - 2010\
 Type vehicule: 1DB1 51\
 Num chassis: JDAM301S001115093\
@@ -19,20 +19,20 @@ Pneu ar gauche: Barum Polaris 5 175/65R14 (hiver)\
 Pneu av gauche: Barum Polaris 5 175/65R14 (hiver)\
 ExpertisesVisitesOCV: 270918
 
-## Afaire 
+## Afaire:
 
-## Historique
-141221 [[notes/equipements/vehicules/pneusClaude]] sur demande de [[gillesChervet]] j'ai commandé 4 pneus Barum Polaris 5 TTC 290chf (bonne longévité) [[notes/equipements/utilisateurs/danielSarraco]] ira les faire monter.
+## Historique:
+141221 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) sur demande de gillesChervet j'ai commandé 4 pneus Barum Polaris 5 TTC 290chf (bonne longévité) danielSarraco ira les faire monter.
 
-180521 [[notes/equipements/vehicules/EV_AjoutLiquide]] lave glace
+180521 [EV_AjoutLiquide](notes/equipements/vehicules/EV_AjoutLiquide.md) lave glace
 
-070820 [[notes/departements/D_IntendanceTechnique]] changement pile télécommande
+070820 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) changement pile télécommande
 
-310720 [[notes/departements/D_IntendanceTechnique]] [[notes/equipements/vehicules/EV_BatteriesAuPlomb]] chargée
+310720 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) [EV_BatteriesAuPlomb](notes/equipements/vehicules/EV_BatteriesAuPlomb.md) chargée
 
-100320 [[notes/equipements/vehicules/pneusClaude]] changement pneu arrière gauche 63chf - 24 mois garantie [[mohammedMohamud]]
+100320 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) changement pneu arrière gauche 63chf - 24 mois garantie mohammedMohamud
 
-250718 [[notes/equipements/vehicules/EV_Pneus 1]] 4 pneus couper 484.65chf
+250718 [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) 4 pneus couper 484.65chf
 
 
 

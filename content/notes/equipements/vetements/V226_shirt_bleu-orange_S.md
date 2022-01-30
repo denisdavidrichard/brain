@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Shirt_bleu-orange]] [[notes/equipements/utilisateurs/julienEberhard]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Shirt_bleu-orange]] [[notes/utilisateurs/beneficiaires/julienEberhard]]

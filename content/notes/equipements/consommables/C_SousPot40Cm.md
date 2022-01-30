@@ -1,1 +1,1 @@
-1,5chf [[landi]]
+1,5chf [[notes/utilisateurs/fournisseurs/landi]]

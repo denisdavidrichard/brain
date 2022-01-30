@@ -1,1 +1,1 @@
-[[jumbo]] 
+[[notes/utilisateurs/fournisseurs/jumbo]] 

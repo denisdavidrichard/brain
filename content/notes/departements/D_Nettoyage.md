@@ -1,4 +1,4 @@
-[[Zweb/AgendaMaJournee]]
+[[notes/AgendaMaJournee]]
 
 #### Afaire 
 

@@ -2,7 +2,7 @@
 title: "C26_cleCasierRuche"
 ---
 
-[Clés](notes/equipements/cles/C_Clés.md) [Casiers Ruche](notes/equipements/consommables/C_CasierRuche.md) [loïcRossero](notes/equipements/utilisateurs/loïcRossero.md)\
+[Clés](notes/equipements/cles/C_Clés.md) [Casiers Ruche](notes/equipements/consommables/C_CasierRuche.md) [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)\
 emericGonzalez\
 280621 javierSzymanski\
 110621 corentinBOUDARD\

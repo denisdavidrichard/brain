@@ -1,5 +1,8 @@
+---
+title: "En lien avec la formation"
+---
 
-[[Zweb/AgendaMaJournee]]
+[Agenda](notes/AgendaMaJournee.md)
 
 #### [[notes/statut/Afaire]] Prendre contact avec sandro de la pharmacie [[HUG]] pour une visite et [[vincentHeinzen]] pour les [[sig]]
 
@@ -21,6 +24,6 @@
 210421 [[cahierChargesLogisticien]] pour [[laurentPeillex]] envoyé par whatsapp
 
 [[notes/departements/D_Formations]]
-020321 10H00 Formation pour usage des codes à [[notes/departements/D_GardeMeubles 1]]
+020321 10H00 Formation pour usage des codes à [[notes/departements/D_GardeMeubles]]
 
 120121 8h Formation sprinkler Halle Juliette prendre les clés jet sous pression curtage canalisation. Ok

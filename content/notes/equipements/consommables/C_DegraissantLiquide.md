@@ -1,3 +1,5 @@
-[[L_Consommables]]
+---
+title: "Dégraissant liquide"
+---
 
-[[notes/zones/migrosBalexert]] 3,20chf ?ml 
+[migros](notes/utilisateurs/fournisseurs/migros.md) 3,20chf ml 

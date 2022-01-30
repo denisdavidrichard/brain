@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_GiletsRembourrés]] [[notes/equipements/utilisateurs/maximeChiavaroli]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_GiletsRembourrés]] [[notes/utilisateurs/beneficiaires/maximeChiavaroli]]

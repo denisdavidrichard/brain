@@ -1,12 +1,15 @@
-[[Zweb/AgendaMaJournee]]
+---
+title: "En lien avec la brocante"
+---
 
-#### Afaire 
+[Agenda](notes/AgendaMaJournee.md) 
+## Infos:
 
-### Historique
-250122 [[notes/equipements/consommables/C_GantsNitrile]] M et L
+## A faire: 
 
-041221 paiement bibliothèque vendu lors de l'intervention Harrison Jacqueline 30chf [[laurentPeillex]]
+## Historique:
+250122 [GantsNitrile](notes/equipements/consommables/C_GantsNitrile.md) M et L
 
-100621 [[notes/equipements/utilisateurs/sandraGarcia]] [[notes/equipements/consommables/C_GantsNitrile]] 100xM [[zoneTextile]] et 100xL [[notes/zones/zoneTriRuche]]
+041221 paiement bibliothèque vendu lors de l'intervention Harrison Jacqueline 30chf à laurentPeillex
 
-020920 Donner masques chirurgicale à la @brocante 2e fois
+100621  [GantsNitrile](notes/equipements/consommables/C_GantsNitrile.md) M et L

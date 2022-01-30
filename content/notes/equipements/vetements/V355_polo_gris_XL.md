@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_PolosGris]] [[notes/equipements/utilisateurs/malikIbrahimAbdi]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_PolosGris]] [[notes/utilisateurs/beneficiaires/malikIbrahimAbdi]]

@@ -1,13 +1,13 @@
-[[Zweb/AgendaMaJournee]]
+[[notes/AgendaMaJournee]]
 
 Quotidiennes
 [[machineCafe]]
 [[notes/equipements/laveVaisselleSmeg]]
-[[notes/procedure/poulailler]]
+[[notes/formation/poulailler]]
 [[sanitaires]]
 
 Hebdomadaires
-[[notes/equipements/utilisateurs/loïcRossero]]
+[[notes/utilisateurs/beneficiaires/loïcRossero]]
 [[notes/equipements/vetements/danielPreviti]]
 [[notes/equipements/vetements/pascalNoel]]
 Nettoyage bureaux
@@ -21,11 +21,11 @@ Trimestrielle
 Nettoyage et reapprovisionnement appartement ferme cavi
 
 Semestriel
-Evaluation [[notes/equipements/utilisateurs/loïcRossero]]
+Evaluation [[notes/utilisateurs/beneficiaires/loïcRossero]]
 
 Annuelles
 [[hivernagePlomberie]]
-Expertise [[notes/procedure/Sprinkler]]
+Expertise [[notes/formation/Sprinkler]]
 Déclaration déchets annuel
 Bilan de fin d'année
-Contrôle des siennes et panneaux d'évacuation et fausse sceptique [[notes/departements/D_GardeMeubles 1]]
+Contrôle des siennes et panneaux d'évacuation et fausse sceptique [[notes/departements/D_GardeMeubles]]

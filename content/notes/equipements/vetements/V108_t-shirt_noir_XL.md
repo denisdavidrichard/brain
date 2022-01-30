@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Tshirts]] [[notes/equipements/utilisateurs/malikIbrahimAbdi]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Tshirts]] [[notes/utilisateurs/beneficiaires/malikIbrahimAbdi]]
