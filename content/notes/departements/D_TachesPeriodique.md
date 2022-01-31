@@ -17,7 +17,7 @@ title: "Taches périodiques"
 ## Mensuelles:
 [EntretienVehicules](notes/departements/D_EntretienVehicules.md)
 Transpalette
-[DechetsIndustrielsOrdinaireSpeciauxSIG](DechetsIndustrielsOrdinaireSpeciauxSIG)
+[DechetsIndustrielsOrdinaireSpeciauxSIG](notes/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
 [CompresseurRuche](notes/equipements/consommables/C_CompresseurRuche.md)
 ## Trimestrielles:
 Nettoyage et reapprovisionnement appartement ferme cavi

@@ -39,7 +39,7 @@
 
 
 
-260221 [[DechetsIndustrielsOrdinaireSpeciauxSIG]] 320
+260221 [[notes/DechetsIndustrielsOrdinaireSpeciauxSIG]] 320
 
 030221 [[notes/equipements/consommables/GD_PapierCartonMelange1-02]] 400 
 

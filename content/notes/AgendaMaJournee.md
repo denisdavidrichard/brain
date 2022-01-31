@@ -2,7 +2,7 @@
 title: "Agenda"
 ---
 
-En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
+En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles: [private-note](private/private-note.md)
 
 ![Agenda](/notes/images/planning.jpg)
 
@@ -11,7 +11,9 @@ lundi
 
 310122 Equiper:
 - [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md)
-- 
+- [lenyLambert](notes/utilisateurs/beneficiaires/lenyLambert.md)
+- [estebanPereyra](notes/utilisateurs/beneficiaires/estebanPereyra.md)
+- [fnaneTesfay](notes/utilisateurs/beneficiaires/fnaneTesfay.md)
 
 310122 Bosson 4 8ème:
 - prendre peinture satinée
@@ -22,7 +24,7 @@ lundi
 
 310122 [Afaire](notes/statut/Afaire.md) Redemander les macarons handicapés dit à [yannickNgoma](notes/utilisateurs/beneficiaires/yannickNgoma.md)
 
-310122 [DechetsIndustrielsOrdinaireSpeciauxSIG](DechetsIndustrielsOrdinaireSpeciauxSIG)
+310122 [DechetsIndustrielsOrdinaireSpeciauxSIG](notes/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
 
 mardi 
 010222 gestion des déchets liquide médicaments.
@@ -44,7 +46,7 @@ samedi
 050222
 
 dimanche 
-060222
+060222 11h Parents
 
 lundi 
 070222
@@ -62,7 +64,7 @@ vendredi
 110222
 
 samedi 
-120222
+120222 petits enfants 
 
 dimanche 
 130222
@@ -104,7 +106,7 @@ vendredi
 250222
 
 samedi 
-260222
+260222 13h13 Cathy et Pierre
 
 dimanche 
 270222

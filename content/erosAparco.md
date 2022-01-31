@@ -1,4 +1,0 @@
----
-title: "Eros Aparco"
----
-
