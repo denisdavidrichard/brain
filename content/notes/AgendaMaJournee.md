@@ -2,7 +2,7 @@
 title: "Agenda"
 ---
 
-En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles: [private-note](private/private-note.md)
+En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
 
 ![Agenda](/notes/images/planning.jpg)
 
