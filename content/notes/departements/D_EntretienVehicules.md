@@ -34,7 +34,7 @@ Véhicules | Mois dernier [[notes/equipements/vehicules/serviceCB]] | si "x" (n'
 ## A faire: 
 
 ## Historique:
-170122 Benne jaune à La Halle Juliette, attention à bien sangler les portes arrières car elles s'ouvrent etienneMagnenat nous allons devoir trouver une solution pour securiser celles-ci. avec photo gillesChervet
+260122 Benne jaune à La Halle Juliette sangle posée. gillesChervet Prendra le véhicule un de ces vendredi pour revoir le système de fermeture.
 
 181121 Chariot et transpalette rouge
 
@@ -44,7 +44,7 @@ Véhicules | Mois dernier [[notes/equipements/vehicules/serviceCB]] | si "x" (n'
 
 270521 [C_CléManoeuvre](notes/equipements/consommables/C_CléManoeuvre.md) mise
 
-270521 [[notes/equipements/consommables/C_LameScieSabre]] mise 
+270521 [C_LameScieSabre](notes/equipements/consommables/C_LameScieSabre.md) mise 
 
 180521 terminé [equipementBoxesBennes](notes/equipements/vehicules/equipementBoxesBennes.md) 
 

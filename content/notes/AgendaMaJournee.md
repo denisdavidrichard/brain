@@ -7,11 +7,13 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/images/planning.jpg)
 
 lundi 
+310122 demande à maximeChiavaroli pour [lorenzoMeo](notes/utilisateurs/beneficiaires/lorenzoMeo.md) affaires 
+
 310122 Equiper:
-- [lucienPfister](notes/utilisateurs/lucienPfister.md)
+- [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md)
 - 
 
-310122 Bosson 4:
+310122 Bosson 4 8ème:
 - prendre peinture satinée
 - plâtre pour boucher les trous
 - papier verre
@@ -19,6 +21,8 @@ lundi
 - caisse à outils
 
 310122 [Afaire](notes/statut/Afaire.md) Redemander les macarons handicapés dit à [yannickNgoma](notes/utilisateurs/beneficiaires/yannickNgoma.md)
+
+310122 [DechetsIndustrielsOrdinaireSpeciauxSIG](DechetsIndustrielsOrdinaireSpeciauxSIG)
 
 mardi 
 010222 gestion des déchets liquide médicaments.
@@ -34,7 +38,7 @@ jeudi
 030222
 
 vendredi 
-040222
+040222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 samedi 
 050222
