@@ -6,32 +6,20 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 ![Agenda](/notes/images/planning.jpg)
 
-lundi 
-310122 demande à maximeChiavaroli pour [lorenzoMeo](notes/utilisateurs/beneficiaires/lorenzoMeo.md) affaires 
 
-310122 Equiper:
-- [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md)
-- [lenyLambert](notes/utilisateurs/beneficiaires/lenyLambert.md)
-- [estebanPereyra](notes/utilisateurs/beneficiaires/estebanPereyra.md)
-- [fnaneTesfay](notes/utilisateurs/beneficiaires/fnaneTesfay.md)
-
-310122 Bosson 4 8ème:
-- prendre peinture satinée
-- plâtre pour boucher les trous
-- papier verre
-- lame de cutter
-- caisse à outils
-
-310122 [Afaire](notes/statut/Afaire.md) Redemander les macarons handicapés dit à [yannickNgoma](notes/utilisateurs/beneficiaires/yannickNgoma.md)
 
 310122 [DechetsIndustrielsOrdinaireSpeciauxSIG](notes/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
 
 mardi 
+[Jack](notes/equipements/vehicules/Jack.md) costa et signer
+
 010222 gestion des déchets liquide médicaments.
 
 010222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
 
 mercredi 
+020222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
+
 020222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
 
 020222 contacter monsieur Grobetti
@@ -76,13 +64,13 @@ mardi
 150222
 
 mercredi 
-160222
+160222 8h [ericSaloukvadze](notes/utilisateurs/ericSaloukvadze.md) si bien espacer tous les 6 mois
 
 jeudi 
 170222
 
 vendredi 
-180222
+180222 rdv idéal 9h30 départ [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md) [tremplinFerme](tremplinFerme) 13
 
 samedi 
 190222

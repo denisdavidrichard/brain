@@ -2,6 +2,9 @@
 title: "Vêtements"
 ---
 
+## Derniers équipement délivré
+Cliquez ici [[notes/departements/D_Equipements]]
+
 ## EPI
 1. [Lunettes protection](notes/equipements/vetements/V_LunettesProtection.md)
 2. [Protections auditive](notes/equipements/vetements/V_ProtectionsAuditive.md)

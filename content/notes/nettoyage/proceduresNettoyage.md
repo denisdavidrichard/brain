@@ -8,7 +8,7 @@ Cliquez sur le type de nettoyage que vous devez effectuer:
 
 Bureaux
 La ferme 13 et 15
-Cantine
-Sanitaires
+[Cantine](notes/formation/P_NettoyageCantine.md)
+[Sanitaires](notes/nettoyage/P_Sanitaires.md)
 
 Résidences

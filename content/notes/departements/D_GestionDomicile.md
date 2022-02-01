@@ -8,7 +8,22 @@ title: "Gestion domicile"
 ## A faire: procédure de nettoyage pour les résidences [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
-280122 9h 4 rue des Bossons 2h1p
+
+310122-280122 9h 4 rue des Bossons 8ème 
+ (points en suspends traités) 10h1p:
+- prendre peinture satinée
+- plâtre pour boucher les trous 
+- papier verre
+- lame de cutter
+- caisse à outils
+
+270122 Schwitter 4h
+- Grande quantité d'aliments et médicaments perimés (environ 180kg)
+- Toilette et baignoire vraiment sale
+- Tartre au points d'eaux
+- Aspiré pladond, rideaux et derrière les portes car beaucoup de poussière (dépoussièrage des biblots pas fait)
+- Retourner pour dégivrer et nettoyer les figos appeler Mme Gomes le matin avant d'intervenir pour qu'elle coupe le courant des frigos (fusible éclairage)
+- Question aussi des repas, mange presque pas, mais voisine aussi inquiète, car si elle s'alimente seule ce n'est pas une solution saine. Réduire la fréquence des livraisons repas peu être une solution.
 
 180122  situation Hanselmann nous avons aidé monsieur pour ça bibliothèque et les cartons 5h2p 
 
@@ -16,7 +31,7 @@ title: "Gestion domicile"
 
 221221 [[Bugnons14_12e]]
 
-141221  [[ericSaloukvadze]]
+141221  [[notes/utilisateurs/ericSaloukvadze]]
 
 301121 [[notes/departements/D_EquipePratique]] Woodtli Benjamin 3p5h
 

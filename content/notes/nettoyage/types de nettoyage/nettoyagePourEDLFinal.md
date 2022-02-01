@@ -20,10 +20,10 @@ La priorité est de commencer par les points qui prennent du temps et d'éviter 
 Pour cela il nous faut un produit avec un potentiel d'hydrogène "ph" de 8 à 14 ou un détergent alcalin. On dégraisse avant de détartrer car le "ph" des produits détartrant n'est pas éfficace contre la graisse a moins que vous utilisez de produits mixtes.
 
 Les éléments à dégraisser (cliquez dessus pour plus d'explications):
-- [Four](notes/nettoyage/zones%20et%20matériaux/four.md)
 - [Frigo](notes/nettoyage/zones%20et%20matériaux/frigo.md)
-- [Plaques de cuisson](notes/nettoyage/zones%20et%20matériaux/plaquesCuisson.md)
 - [Hottes](notes/nettoyage/zones%20et%20matériaux/hotteCuisine.md)
+- [Plaques de cuisson](notes/nettoyage/zones%20et%20matériaux/plaquesCuisson.md)
+- [Four](notes/nettoyage/zones%20et%20matériaux/four.md)
 Bien lire les instruction du fabricant car ces produits décapent.
 
 ## Détartrer
@@ -46,19 +46,18 @@ L'idéale est à l'eau avec du détergent universel et une raclette
 ## Terminer les points de suspend
 Rincer, sécher et remettre à sa place
 
+
 ## Désinfection des points de contact
 Passer du plus propre au plus sale les points de contact. Changer régulièrement les faces du chiffons pour ne pas faire de la contamination croisée
 
-## Sortir le matériel et contrôle finale avant nettoyage du sol
-- [x] L'aspirateur passer sur les toiles coins et mûrs et dans les tiroirs?
-- [ ] Tiroirs, sont-ils vides et nettoyé?
-- [ ] Les points de contact sont-ils désinfectés?
-- [ ] Est-ce que de l'eau coule?
-- [ ] Est-ce que les fenêtres sont-elles fermés?
-- [ ] Est-ce que les lumières sont bien éteintes?
+## Nettoyage du sol
+S'il y a des maques sur le sol, identifier si c'est dû à une forte utilisation de produit. Dans une tel situation il ne faut pas ajouter de produit, un nettoyage suffit. Nettoyer le sol du plus éloigné en s'approchant de la porte de sortie
 
-## Nettoyage du sol, fermer et ranger
-Une fois que tout est contrôlé. on peut faire le sol du plus éloigné et s'approchant de la porte et en terminant par celle-ci
+## Autocontrôle
+Il est important de vérifier certains [points d'autocontrôle](notes/formation/P_PointsAutocontroleNettoyageDB.md) avant de quitter le logement.
+
+## Fermer et ranger
+Une fois que tout est contrôlé. on peut  et en terminant par celle-ci
 
 Un dernier coup d'oeil avant de fermer la porte. Tout est éteint et fermé, si oui, on ferme la porte et on verrouille.
 

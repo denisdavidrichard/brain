@@ -1,4 +1,4 @@
-[[notes/departements/D_Equipements]]
+[[notes/departements/L_Equipements]]
 
 
 

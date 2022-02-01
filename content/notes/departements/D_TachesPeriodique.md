@@ -7,7 +7,7 @@ title: "Taches périodiques"
 [[notes/nettoyage/machineCafe]]
 [laveVaisselleSmeg](notes/equipements/laveVaisselleSmeg.md)
 [poulailler](notes/formation/poulailler.md)
-[sanitaires](notes/nettoyage/sanitaires.md)
+[P_Sanitaires](notes/nettoyage/P_Sanitaires.md)
 ## Hebdomadaires:
 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
 [danielPreviti](notes/equipements/vetements/danielPreviti.md)
@@ -20,6 +20,7 @@ Transpalette
 [DechetsIndustrielsOrdinaireSpeciauxSIG](notes/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
 [CompresseurRuche](notes/equipements/consommables/C_CompresseurRuche.md)
 ## Trimestrielles:
+Nettoyage appartement [ericSaloukvadze](notes/utilisateurs/ericSaloukvadze.md)
 Nettoyage et reapprovisionnement appartement ferme cavi
 ## Semestrielles:
 Evaluation [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
