@@ -23,6 +23,8 @@ ExpertisesVisitesOCV: 210220 210917
 Réparer le siège conducteur avec mousse et gaffer et Peu av gauche hiace [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+020222 [serviceCB](notes/equipements/vehicules/serviceCB.md)
+
 071221 [EV_Feux](notes/equipements/vehicules/EV_Feux.md) changement [C_AmpouleH4](notes/equipements/consommables/C_AmpouleH4.md) côté gauche [C_AmpouleW5W](notes/equipements/consommables/C_AmpouleW5W.md) côté droit.
 
 011121 [garageAnken](notes/equipements/vehicules/garageAnken.md) souflets de cardan avant changés 

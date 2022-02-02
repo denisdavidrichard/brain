@@ -26,7 +26,7 @@ ExpertisesVisitesOCV: 021220 060218 310715
 protège roue touche la roue et pot d'échappement à refixer [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
-260122 réparation pneu avant droit
+260122 réparation [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) avant droit
 
 281121 [cherchéVehicule](notes/statut/cherchéVehicule.md)
 

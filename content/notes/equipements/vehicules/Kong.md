@@ -21,9 +21,11 @@ Pneu arrière gauche: Uniroyal Snow Max 2 tyre 225/65R16C\
 Pneu avant gauche: Uniroyal Snow Max 2 tyre 225/65R16C\
 ExpertisesVisitesOCV: 011020 140715
 
-## Afaire:
+## Afaire: remettre le diable de l'économat [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+020222 [serviceCB](notes/equipements/vehicules/serviceCB.md)
+
 241221 [EV_AjoutMateriel](notes/equipements/vehicules/EV_AjoutMateriel.md) [C_TelecommandeRideauRuche](notes/equipements/consommables/C_TelecommandeRideauRuche.md)
 
 301021 [EV_Feux](notes/equipements/vehicules/EV_Feux.md) feux arrière de gabarit 

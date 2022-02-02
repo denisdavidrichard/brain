@@ -13,7 +13,7 @@ Huile moteur: [C_HuileMoteur10w40](notes/equipements/consommables/C_HuileMoteur1
 Huile hydraulique:\
 Huile pont arrière:\
 Liquide de refroidissement:\
-Pression pneus av et ar\
+Pression pneus av 4,6 et ar 2,8\
 Pneu avant droit:\
 Pneu arrière droit ext:\
 Pneu arrière droit int:\
@@ -24,9 +24,11 @@ Pneu secours:\
 ExpertisesVisitesOCV: 310812
 
 ## Afaire: 
-Demander pour expertises [Afaire](notes/statut/Afaire.md)
+Demander pour expertises et mettre clé de manoeuvre [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+020222 [serviceCB](notes/equipements/vehicules/serviceCB.md) ajout: scotch, protection matelas, 3 grands cones, gants de travail, wd40, copie carte-grise
+
 271021 [[notes/utilisateurs/fournisseurs/bockerLift]] revenu de Zoffingen [[notes/utilisateurs/beneficiaires/xavierBerral]]
 
 200321 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) Changement de la roue du monte meubles ar droit

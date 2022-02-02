@@ -3,28 +3,20 @@ title: "Agenda"
 ---
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
 
-![Agenda](notes/pieces_jointes/images/planning.jpg)
-
-
-
-310122 [DechetsIndustrielsOrdinaireSpeciauxSIG](notes/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
-
-mardi 
-[Jack](notes/equipements/vehicules/Jack.md) costa et signer
-
-010222 gestion des déchets liquide médicaments.
-
-010222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
-mercredi 
-020222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
-
-020222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
-
-020222 contacter monsieur Grobetti
+![Agenda](/notes/pieces_jointes/images/planning.jpg)
 
 jeudi 
-030222
+030222 [P_Sanitaires](notes/nettoyage/P_Sanitaires.md) et [P_NettoyageCantine](notes/formation/P_NettoyageCantine.md)
+
+030222 gestion des déchets liquide médicaments.
+
+030222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
+
+030222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
+
+030222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
+
+030222 contacter monsieur Grobetti
 
 vendredi 
 040222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
@@ -42,7 +34,7 @@ mardi
 080222
 
 mercredi 
-090222
+090222 8h AUBERT P Av. des Grandes-Communes 24 / 1213 One 2e
 
 jeudi 
 100222

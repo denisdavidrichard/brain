@@ -24,6 +24,8 @@ ExpertisesVisitesOCV: 230119
 ajouter la pharmacie [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+020222 [serviceCB](notes/equipements/vehicules/serviceCB.md)
+
 050122 9h45 ExpertisesVisitesOCV piste 7 passé
 
 291221 [garageAnken](notes/equipements/vehicules/garageAnken.md) entretien gaz naturel et nettoyage chassis en vu de la ExpertisesVisitesOCV 

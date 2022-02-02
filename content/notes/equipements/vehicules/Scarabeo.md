@@ -12,7 +12,7 @@ Charge utile: 105\
 Huile moteur: [C_HuileMoteurYaccoMoto4T5W-40](notes/equipements/consommables/C_HuileMoteurYaccoMoto4T5W-40.md)\
 Huile pont arrière:\
 Liquide de refroidissement:\
-Pression pneus av et ar 3bar\
+Pression pneus av 1,9 et ar 2,75\
 Pneu av:\
 Pneu ar:\
 ExpertisesVisitesOCV: 051219

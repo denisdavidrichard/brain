@@ -12,7 +12,7 @@ Charge utile: 410\
 Huile moteur: [C_HuileMoteur5w30](notes/equipements/consommables/C_HuileMoteur5w30.md)\
 Huile pont arrière:\
 Liquide de refroidissement:\
-Pression pneus av et ar\
+Pression pneus av 2 et ar 2\
 Pneu av droit: Barum Polaris 5 175/65R14 (hiver)\
 Pneu ar droit: Barum Polaris 5 175/65R14 (hiver)\
 Pneu ar gauche: Barum Polaris 5 175/65R14 (hiver)\
