@@ -1,10 +1,9 @@
 ---
 title: "Agenda"
 ---
-
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
 
-![Agenda](/notes/images/planning.jpg)
+![Agenda](notes/pieces_jointes/images/planning.jpg)
 
 
 

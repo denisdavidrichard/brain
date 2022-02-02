@@ -4,7 +4,7 @@ title: "Poulailler"
 
 [Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
-
+Procédure: [[notes/formation/P_Poulailler]]
 ## A faire: 
 
 ## Historique:

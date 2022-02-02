@@ -1,11 +1,11 @@
 ---
-title: "Nettoyage en vu de l'EDL final"
+title: "Nettoyage type IEPA"
 ---
 
 ## Faire un tour de la situation, identifier les points importants
 Il est nécessaire de bien se renseigner avant d'agir. Par moment un simple coup de balais peut suffir. 
 
-Une fois que vous avez identifier les points importants vous allez pouvoir prendre les matériel adapté pour agir rapidement et efficacement. 
+Une fois que vous avez identifier les points importants (exemple prendre photo avec le portable) vous allez pouvoir prendre les matériel adapté pour agir rapidement et efficacement. Le points en photo dont vous avez des doute partagez-les à votre supérieur et passer à d'autres points en attendant une réponse.
 
 Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philosophie du nettoyage](notes/nettoyage/philosophieNettoyage.md)
 
@@ -33,7 +33,8 @@ Les éléments à détarter (cliquez dessus pour plus d'explications):
 - La cuvette des WC
 - Les robinets
 - Baignoire
-
+## Crochets, vis, scotch et autocollant
+Retirer ceux qui ne sont pas d'origine dans le logement. En cas de doute informez en votre supérieur.
 ## Aspirer
 Les angles du plafond si toiles d'arraignées. Puis les murs si forte poussière et ensuite le sol
 
