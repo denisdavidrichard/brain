@@ -11,7 +11,7 @@ Plaque: 82037\
 Charge utile: 90\
 Huile pont arrière:\
 Liquide de refroidissement:\
-Pression pneus av et ar\
+Pression pneus av 2,3 et ar 2,5\
 Pneu av:\
 Pneu ar:\
 ExpertisesVisitesOCV: 150621 230615

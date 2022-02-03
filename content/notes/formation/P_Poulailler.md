@@ -5,20 +5,18 @@ title: "Entretien du poulailler"
 ## Prendre le matériel
 | Marche à suivre | Photo |
 |---|---|
-|1.1 Remplir d'eau l'arrosoir sous l'évier de la cantine | ![I_poulaillerArrosoir](notes/pieces_jointes/images/i_poulailler/I_poulailler-1-1et5-1.jpg) |
-	|1.2 Emporter aussi une boîte a oeufs vide dans le meuble de cuisine à côté de la porte cantine | ![I_poulaillerBoiteOeufs](/notes/pieces_jointes/images/i_poulailler/I_poulailler2.jpg) |
-
-
+|1.1 Remplir d'eau l'arrosoir sous l'évier de la cantine | ![I_poulaillerArrosoir](/notes/pieces_jointes/images/i_poulailler/I_poulailler-1-1et5-1.jpg) |
+|1.2 Emporter aussi une boîte a oeufs vide dans le meuble de cuisine à côté de la porte cantine | ![I_poulaillerBoiteOeufs](/notes/pieces_jointes/images/i_poulailler/I_poulailler2.jpg) |
 
 ## Petit poulailler
 | Marche à suivre | Photo |
 |---|---|
 |2.1 Aller au petit poulailler pour commencer | ![I_poulaillerAllerPetitPoulailler](/notes/pieces_jointes/images/i_poulailler/I_poulailler3.jpg)|
-	|2.2 Pour ouvrir dévérouiller le mousqueton à clé|![I_poulaillerOuvrirPetitPoulailler](/notes/pieces_jointes/images/i_poulailler/I_poulailler4et9.jpg)|
-	|2.3 Nettoyer et remplir le petit abrevoir d'eau. Pour se faire retourner l'abreuvoir et déviser de moins d'un quart de tour l'assiette jaune.|![I_poulaillerNettoyerRemplirPetitAbreuvoir](/notes/pieces_jointes/images/i_poulailler/I_poulailler5.jpg)|
-|2.4 Remettre l'assiette jaune et vérifier qu'elle soie bien connectée à la cloche. |![I_poulaillerFermerPetitAbreuvoir](/notes/pieces_jointes/images/i_poulailler/I_poulailler6.jpg)|
+|2.2 Pour ouvrir dévérouiller le mousqueton à clé|![I_poulaillerOuvrirPetitPoulailler](/notes/pieces_jointes/images/i_poulailler/I_poulailler4et9.jpg)|
+|2.3 Nettoyer et remplir le petit abrevoir d'eau. Pour se faire retourner l'abreuvoir et déviser de moins d'un quart de tour l'assiette jaune.|![I_poulaillerNettoyerRemplirPetitAbreuvoir](/notes/pieces_jointes/images/i_poulailler/I_poulailler5.jpg)|
+|2.4 Remettre l'assiette jaune et vérifier qu'elle soie bien connectée à la cloche. |![I_poulailler-2-4](/notes/pieces_jointes/images/i_poulailler/I_poulailler-2-4.jpg)|
 |2.5 Prendre la petite coupelle de nourriture pour aller la nettoyer et la remplir au grand poulailler|![I_poulaillerPrendreCoupelleGrainePetitPoulailler](/notes/pieces_jointes/images/i_poulailler/I_poulailler7.jpg)|
-|2.6 Une fois par semaine prendre le plastique avec la litière de BRF, regarder s'il y a beaucoup de déjection, si oui prendre|![I_poulaillerUneFoisSemaineChangerLitiereBRF](notes/pieces_jointes/images/i_poulailler/I_poulailler8.jpg)|
+|2.6 Une fois par semaine prendre le plastique avec la litière de BRF, regarder s'il y a beaucoup de déjection, si oui prendre|![I_poulaillerUneFoisSemaineChangerLitiereBRF](/notes/pieces_jointes/images/i_poulailler/I_poulailler8.jpg)|
 |2.7 Ne pas oublier de refermer le grillage du petit poulailler|![I_poulaillerOuvrirPetitPoulailler](/notes/pieces_jointes/images/i_poulailler/I_poulailler4et9.jpg)|
 |2.8 Vider la litière dans le conteneur devant le grand poulailler|![I_poulaillerViderLitiereConteneurComposteVert](/notes/pieces_jointes/images/i_poulailler/I_poulailler10.jpg)|
 
@@ -26,8 +24,9 @@ title: "Entretien du poulailler"
 | Marche à suivre | Photo |
 |---|---|
 |3.1.2 Après avoir ouvert le grillage du grand poulailler vous pouvez inserter le piquet du grillage dans le troue à cet effet à côté du conteneur et du chemin d'entrée|![I_poulaillerOuvrirFermerSasPoulailler](/notes/pieces_jointes/images/i_poulailler/I_poulailler-3-1-1.jpg)|
-|3.1.2 Nettoyer la coupelle à graines|![I_poulaillerNettoyerGrandeCoupelleNourriture](notes/pieces_jointes/images/i_poulailler/I_poulailler11.jpg)||
-|3.2 Evacuer l'eau|![I_poulaillerSecherGrandeCoupelleNourriture](/notes/pieces_jointes/images/i_poulailler/I_poulailler12.jpg)|
+|3.1.2 Nettoyer la coupelle à graines|![I_poulaillerNettoyerGrandeCoupelleNourriture](/notes/pieces_jointes/images/i_poulailler/I_poulailler11.jpg)||
+|3.2.1 Evacuer l'eau|![I_poulaillerSecherGrandeCoupelleNourriture](/notes/pieces_jointes/images/i_poulailler/I_poulailler12.jpg)|
+|3.2.2 Vous pouvez aussi vous servir de la brosser pour nettoayer l'abreuvoir|![I_poulaillerNettoyerGrandAbreuvoir](notes/pieces_jointes/images/i_poulailler/I_poulailler-3-2-2.jpg)|
 |3.3 Prendre les graine dans le fut bleu celui avec le doseur dedans pour avoir une bonne rotation des graines (FIFO)|![I_poulaillerPrendreGraineDansFutBleu](/notes/pieces_jointes/images/i_poulailler/I_poulailler13.jpg)|
 |3.4 Poser la coupelle rectangulaire sous le poulailler s'il pleut et ailleur dans un coin propre s'il ne pleut pas.|![I_poulaillerDonnerNourritureGrandeCoupelle](/notes/pieces_jointes/images/i_poulailler/I_poulailler14.jpg)|
 |3.5 Nettoyer la coupelle du petit poulailler|![I_poulaillerNettoyerPetiteCoupelleNourriture](/notes/pieces_jointes/images/i_poulailler/I_poulailler15.jpg)|
@@ -46,7 +45,7 @@ title: "Entretien du poulailler"
 |4.5.2 Prenez aussi ce qui est tombé en retirant les planches|![I_poulaillerNettoyerPelleResteCacaTerre](/notes/pieces_jointes/images/i_poulailler/I_poulailler-4-5-2.jpg)|
 |4.6 Une fois que les planches et l'échelle n'ont plus les déjections volumineuse prendre le seau de terre de diatomée et remplir la moitié du goblet qui se trouve dedans. Cela devrait suffir pour tout le poulailler|![I_poulaillerPrendreTerreDiatomee](/notes/pieces_jointes/images/i_poulailler/I_poulailler24.jpg)|
 |4.7 Sopoudrer un peu la terre sur les zones bien salies|![I_poulaillerRepartirTerreDiathomee](/notes/pieces_jointes/images/i_poulailler/I_poulailler25.jpg)|
-|4.8 Disperser la terre avec la pelle et continer sur l'autre planche|![I_poulaillerTerreDiatomeeRepartirPelle](notes/pieces_jointes/images/i_poulailler/I_poulailler-4-8.jpg)|4.8.2 Noublier
+|4.8 Disperser la terre avec la pelle et continer sur l'autre planche|![I_poulaillerTerreDiatomeeRepartirPelle](/notes/pieces_jointes/images/i_poulailler/I_poulailler-4-8.jpg)|4.8.2 Noublier
 |4.9 Aussi mettre la terre dans le grand poulailler|![I_poulaillerInterieurGrandPoulaillerTerreDiatomee](/notes/pieces_jointes/images/i_poulailler/I_poulailler27.jpg)|
 |4.10 Pour l'intérieur du poulailler vous pouvez utiliser la truelle de jardinage|![I_poulaillerNettoyerInterieurGrandPoulailler](/notes/pieces_jointes/images/i_poulailler/I_poulailler28.jpg)|
 |4.11 Utilisez la pelle pour retirer la paille du pondoir et verser la paille dans le seau que vous avez déjà commencé à remplir|![I_poulaillerPondoirChangerPaille](/notes/pieces_jointes/images/i_poulailler/I_poulailler4_11.jpg)|
