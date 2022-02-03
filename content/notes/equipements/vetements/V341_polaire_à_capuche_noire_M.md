@@ -1,3 +1,7 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/statut/S_Perdu]]
-140621 [[léoHafner]]
-[[francisAllemann]]
+---
+title: "V341_polaire_à_capuche_noire_M"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_CardigansPullsPolairesCapuche](V_CardigansPullsPolairesCapuche.md) [S_Perdu](notes/statut/S_Perdu.md)\
+140621 léoHafner\
+francisAllemann

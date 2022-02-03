@@ -1,4 +1,8 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/statut/S_Libre]]
-[[notes/utilisateurs/beneficiaires/maximeChiavaroli]]
-221021 [[stephanieTsafack]]
-[[schneggPatrick]]
+---
+title: "V274_polaire_à_capuche_noire_L"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_CardigansPullsPolairesCapuche](V_CardigansPullsPolairesCapuche.md) 030222 [malikIbrahimAbdi](notes/utilisateurs/beneficiaires/malikIbrahimAbdi.md)\
+maximeChiavaroli\
+221021 stephanieTsafack\
+schneggPatrick

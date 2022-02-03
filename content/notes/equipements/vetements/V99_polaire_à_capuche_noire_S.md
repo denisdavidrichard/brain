@@ -1,3 +1,7 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/utilisateurs/beneficiaires/Jean-SébastienMartin]]
-220221 [[dylanHoulmann]]
-240820 [[justinMisha]]
+---
+title: "V99_polaire_à_capuche_noire_S"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_CardigansPullsPolairesCapuche](V_CardigansPullsPolairesCapuche.md) [Jean-SébastienMartin](notes/utilisateurs/beneficiaires/Jean-SébastienMartin.md)\
+220221 dylanHoulmann\
+240820 justinMisha

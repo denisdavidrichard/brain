@@ -15,4 +15,5 @@ Cliquez ici [[notes/departements/D_Equipements]]
 
 ## Equipement
 1. [Pantalons de travail](notes/equipements/vetements/V_PantalonsDeTravail.md)
-2. 
+2. [Cardigans polaires à capuche](V_CardigansPullsPolairesCapuche)
+3. [Veste polaire noire](notes/equipements/vetements/V_VestePolaireNoire.md)

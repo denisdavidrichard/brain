@@ -1,1 +1,5 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestePolaireNoire]] [[notes/utilisateurs/beneficiaires/brunaGianoli]]
+---
+title: "V302_vestePolaireNoire_XS"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_VestePolaireNoire](notes/equipements/vetements/V_VestePolaireNoire.md) [brunaGianoli](notes/utilisateurs/beneficiaires/brunaGianoli.md)

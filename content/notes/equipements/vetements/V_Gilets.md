@@ -2,11 +2,10 @@
 title: "Gilets"
 ---
 
-
-giletFinNoir
-Engel
-Model: 5810-254
-121496
+giletFinNoir\
+Engel\
+Model: 5810-254\
+121496\
 50chf + 25chf logo
 
 Gilets bleu-orange [[notes/statut/Afaire]]

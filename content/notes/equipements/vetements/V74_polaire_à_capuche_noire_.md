@@ -1,1 +1,5 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/utilisateurs/beneficiaires/pascalTaib]]
+---
+title: "V74_polaire_à_capuche_noire_"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_CardigansPullsPolairesCapuche](V_CardigansPullsPolairesCapuche.md) [pascalTaib](notes/utilisateurs/beneficiaires/pascalTaib.md)

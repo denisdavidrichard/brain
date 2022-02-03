@@ -6,11 +6,11 @@ title: "En lien avec l'entretien des véhicules"
 ## Infos:
 |Véhicules|Mois dernier [service CB](notes/equipements/vehicules/serviceCB.md)| si "x" (n'est pas encore mis dans le véhicule) suivi par: V (pour Vignette 22) D (pour désinfectant main) B (pour bétadine pharmacie du véhicule) |
 |---:|:---:|:---|
-|[Asterix](notes/equipements/vehicules/Asterix.md)|071221|xV D xB| 
+|[Asterix](notes/equipements/vehicules/Asterix.md)|071221|V D xB| 
 |[Obelix](notes/equipements/vehicules/Obelix.md)|020222|V D B|
 |[King](notes/equipements/vehicules/King.md)|151221|V D B|
 |[Kong](notes/equipements/vehicules/Kong.md)|020222|V D xB|
-|[Black](notes/equipements/vehicules/Black.md)|221221|xV D B|
+|[Black](notes/equipements/vehicules/Black.md)|221221|V D B|
 |[Jack](notes/equipements/vehicules/Jack.md)|071221|V xD xB|
 |[Glouton](notes/equipements/vehicules/Glouton.md)|141221|V D B|
 |[WallE](notes/equipements/vehicules/WallE.md)|071221|V D xB|
@@ -24,7 +24,7 @@ title: "En lien avec l'entretien des véhicules"
 |[Sirion](notes/equipements/vehicules/Sirion.md)|141221|V D|
 |[Trevis](notes/equipements/vehicules/Trevis.md)|141221|V D|
 |[Scarabeo](notes/equipements/vehicules/Scarabeo.md) | |xV|
-|[ScooterBMWEvo](notes/equipements/vehicules/ScooterBMWEvo.md)|  |xV|
+|[ScooterBMWEvo](notes/equipements/vehicules/ScooterBMWEvo.md)|  |V|
 |[Jousson](notes/equipements/vehicules/Jousson.md)|  |xV| 
 |[Mustapha](notes/equipements/vehicules/Mustapha.md)|  |rien|
 |[Mohammed](notes/equipements/vehicules/Mohammed.md)|  |rien|

@@ -2,20 +2,20 @@
 title: "Nettoyage de la Cantine"
 ---
 
+301219
 ## Les bases du nettoyage:
 Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philosophie du nettoyage](notes/nettoyage/philosophieNettoyage.md)
 ## Préparation du matériel:
 | Marche à suivre | Photo |
 |---|---|
-|1.1 Tout le matériel doit se trouver dans le tiroir nettoyage.|x|
-|1.2 Et dans le coin de la pièce avec le balais, la pelle et la ramassoir.|x|
+|1.1 Tout le matériel doit se trouver dans le tiroir nettoyage.||
+|1.2 Et dans le coin de la pièce avec le balais, la pelle et la ramassoir.||
 |1.3 S'il manque du matériel allez voir à la buander dans la caisse bleue "cantine" sur l'étagère avec les caisses bleues au-dessus des machines à laver.||
 ## Sécuriser:
 | Marche à suivre | Photo |
 |---|---|
-|2.1 Poser le panneau sol glissant devant la porte qui donne du SAS.|x|
+|2.1 Poser le panneau sol glissant qui se trouve dans le tiroir nettoyage devant la porte qui donne du SAS et aisser un courant d'air passer pour renouveler l'air de la pièce.||
 |2.2 Monter les store pour laisser la lumière entrer et mieux voir (télécommande au secrétariat, demandez si vous ne comprenez pas le schèma des stores).||
-|2.3 Laisser un courant d'air passer pour renouveler l'air de la pièce.||
 ## Dispatcher:
 | Marche à suivre | Photo |
 |---|---|
@@ -24,7 +24,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 ## Dépoussièrage:
 | Marche à suivre | Photo |
 |---|---|
-|4.1 Si toile d'araigner, passer le balais deçu.|x| 
+|4.1 Si toile d'araigner, passer le balais deçu.|| 
 |4.2 Puis balayer la pièce.||
 |4.3 Faire de petits tas si trop de saletée||
 ## Vider la lave vaisselle:
@@ -34,8 +34,8 @@ Si pas déjà vidé vous pouvez le vider.\
 |5.1 Si vaisselle propre charger la vaisselle à l'arrière ou dessous de manière à ce que l'ancien sorte avant (FIFO).||
 |5.2 Bien mettre la vaisselle dans les paniers||
 |5.3 Charger correctement les panier dans le lave-vaisselle||
-|5.4 Choisir le programme assiettes sale 4min|x|
-|5.5 Maintenez play pour démarrer le programme|x|
+|5.4 Choisir le programme assiettes lavage rinçage 4min||
+|5.5 Maintenez play pour démarrer le programme||
 ## Réapprovisionner:
 | Marche à suivre | Photo |
 |---|---|
@@ -44,11 +44,11 @@ Si pas déjà vidé vous pouvez le vider.\
 ## Nettoyage:
 | Marche à suivre | Photo |
 |---|---|
-|7.1 Utiliser le fond du double seaux blanc pour le [double seau nettoyage à l'eau](notes/formation/P_NettoyageSurfaceAvecFondDoubleSeaux.md)|x|
+|7.1 Utiliser le fond du double seaux blanc pour le [double seau nettoyage à l'eau](notes/formation/P_NettoyageSurfaceAvecFondDoubleSeaux.md)||
 |7.2 Nettoyer les zones du haut vers le bas. 1. Meubles muraux (portes) 2. Appareils (sodastream, bouilloire, micro-ondes, machine à café) 3. Plans de travail 4. Tables 5. Chaises||
 |7.3 Commencer par les bords détourage puis nettoyer l'intérieur||
-|7.4 Utilisation du [[P_NettoyageDoubleSeaux]]|x|
-|7.5 Commencer par tous les bords de la pièce puis de la zone la plus éloignée et nettoyer en reculant vers la sortie pour ne pas remarcher sur les zones nettoyées|x|
+|7.4 Utilisation du [[P_NettoyageDoubleSeaux]]||
+|7.5 Commencer par tous les bords de la pièce puis de la zone la plus éloignée et nettoyer en reculant vers la sortie pour ne pas remarcher sur les zones nettoyées||
 ## Finaliser:
 | Marche à suivre | Photo |
 |---|---|

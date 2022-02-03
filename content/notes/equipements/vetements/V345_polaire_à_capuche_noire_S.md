@@ -1,1 +1,5 @@
-[[notes/equipements/L_Vetements]] [[V_CardigansPullsPolairesCapuche]] [[notes/utilisateurs/beneficiaires/samuelBorges]]
+---
+title: "V345_polaire_à_capuche_noire_S"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_CardigansPullsPolairesCapuche](V_CardigansPullsPolairesCapuche.md) [samuelBorges](notes/utilisateurs/beneficiaires/samuelBorges.md)

@@ -1,1 +1,5 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestePolaireNoire]] [[notes/equipements/vetements/pascalNoel]]
+---
+title: "V294_vestePolaireNoire_XS"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_VestePolaireNoire](notes/equipements/vetements/V_VestePolaireNoire.md) [pascalNoel](notes/equipements/vetements/pascalNoel.md)
