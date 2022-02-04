@@ -8,6 +8,10 @@ title: "Dernière personnes équipées"
 ## A faire: 
 
 ## Historique:
+060222 [marcoLycuong](marcoLycuong.md)
+
+060222 [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md)
+
 310122 [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md) juste [gants de travail](notes/equipements/vetements/V_GantsTravail.md) et [protections auditive](notes/equipements/vetements/V_ProtectionsAuditive.md)\
 [lenyLambert](notes/utilisateurs/beneficiaires/lenyLambert.md) à rendre pour le 040122\
 [estebanPereyra](notes/utilisateurs/beneficiaires/estebanPereyra.md) à rendre pour le 040122\

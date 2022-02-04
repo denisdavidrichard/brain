@@ -27,6 +27,10 @@ Acide muriatique\
 Deux petites poubelles pour les sanitaires
 
 ## Historique:
+040222 [C_GelHydroAlcoolique](notes/equipements/consommables/C_GelHydroAlcoolique.md)
+
+030222 [C_GelHydroAlcoolique](notes/equipements/consommables/C_GelHydroAlcoolique.md)
+
 250122 [[notes/equipements/consommables/C_portectionChaussureSecurite]] x200
 
 250122 [C_miniBetadine](notes/equipements/consommables/C_miniBetadine.md) x10

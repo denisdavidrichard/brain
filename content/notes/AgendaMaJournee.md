@@ -4,34 +4,25 @@ title: "Agenda"
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
 
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
-
-jeudi 
-030222 [P_Sanitaires](notes/nettoyage/P_Sanitaires.md) et [P_NettoyageCantine](notes/formation/P_NettoyageCantine.md)
-
-030222 gestion des déchets liquide médicaments.
-
-030222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
-030222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
-
-030222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
-
-030222 contacter monsieur Grobetti
-
-vendredi 
-040222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
-
 samedi 
 050222
 
 dimanche 
 060222 11h Parents
 
+060222 gestion des déchets liquide médicaments.
+
 lundi 
-070222
+070222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
 
 mardi 
-080222
+080222 contacter monsieur Grobetti
+
+080222 [P_Sanitaires](notes/nettoyage/P_Sanitaires.md) et [P_NettoyageCantine](notes/formation/P_NettoyageCantine.md)
+
+080222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
+
+080222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
 
 mercredi 
 090222 8h AUBERT P Av. des Grandes-Communes 24 / 1213 One 2e
@@ -40,7 +31,9 @@ jeudi
 100222
 
 vendredi 
-110222
+110222  Mettre [marcoLycuong](marcoLycuong.md) au planning pour la prépa le 140222
+
+110222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 samedi 
 120222 petits enfants 
@@ -238,7 +231,7 @@ dimanche
 170422
 
 lundi 
-180422
+180422 7h30 [[cyrilLieberherr]] jusqu'au 270522
 
 mardi 
 190422
@@ -250,7 +243,7 @@ jeudi
 210422
 
 vendredi 
-220422
+220422 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md) cours CIE planning semaine pro
 
 samedi 
 230422
@@ -259,19 +252,19 @@ dimanche
 240422
 
 lundi 
-250422
+250422 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md) 8h30 Gestion des marchandise CIE3 CFC F MAR 2022-MA-2 Poste 1 : Colis / Recyclage - Marly
 
 mardi 
 260422
 
 mercredi 
-270422
+270422 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md) 8h30 Gestion des marchandise CIE3 CFC F MAR 2022-MA-2 Poste 2 : Commissionnement - Marly
 
 jeudi 
-280422
+280422 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md) 8h30 Gestion des marchandise CIE3 CFC F MAR 2022-MA-2 Poste 3 : Sécuriser les charges - Marly
 
 vendredi 
-290422
+290422 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md) 8h30 Gestion des marchandise CIE3 CFC F MAR 2022-MA-2 Poste 4 : Plan de chargement - Marly
 
 samedi 
 300422
