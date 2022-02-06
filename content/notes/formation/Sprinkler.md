@@ -1,3 +1,10 @@
+---
+title: "Sprinkler"
+---
+
+## Formation
+160121
+
 100321 Hauteurs dans le contrat GM envoyé par mail à [[notes/utilisateurs/beneficiaires/gillesChervet]] et WhatsApp [[notes/utilisateurs/beneficiaires/pascalTaib]]
 
 030321 0800 Restitution de l'installation sprinklers de la [[notes/departements/D_GardeMeubles]]

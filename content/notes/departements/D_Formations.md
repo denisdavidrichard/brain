@@ -7,15 +7,15 @@ title: "En lien avec la formation"
 #### [[notes/statut/Afaire]] Prendre contact avec sandro de la pharmacie [[HUG]] pour une visite et [[vincentHeinzen]] pour les [[sig]]
 
 ### Historique
-081221 [[Formation gerbeur à timon]] questionnaire terminé
+081221 [[notes/GerbeurTimonCategorieSPermisInterne]] questionnaire terminé
 
-051121 prise de dernières photos et mise en page de la [[Formation gerbeur à timon]]
+051121 prise de dernières photos et mise en page de la [[notes/GerbeurTimonCategorieSPermisInterne]]
 
-041121 séance photos pour [[Formation gerbeur à timon]]
+041121 séance photos pour [[notes/GerbeurTimonCategorieSPermisInterne]]
 
-041121 création de la carte de permis [[Formation gerbeur à timon]]
+041121 création de la carte de permis [[notes/GerbeurTimonCategorieSPermisInterne]]
 
-031121 écriture du scénario [[Formation gerbeur à timon]]
+031121 écriture du scénario [[notes/GerbeurTimonCategorieSPermisInterne]]
 
 170521 [[notes/departements/D_Formations]] 15h Caroline autorisation d'exploiter. Agent d'exploitation. Évaluations ok
 

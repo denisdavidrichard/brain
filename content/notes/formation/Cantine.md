@@ -2,7 +2,6 @@
 title: "Cantine"
 ---
 
-# Formation
 ## Les bases du nettoyage:
 | Marche à suivre | Photo |
 |---|---|
@@ -69,4 +68,4 @@ Si pas déjà vidé vous pouvez le vider.
 |8.7 Signez de vos initiales la feuille de suivi.|![I_Cantine8-7](/notes/pieces_jointes/images/i_nettoyage/i_cantine/I_Cantine8-7.jpg)| 
 ## Merci
 Les utilisateurs de la cantine vous remercient:)
-# Historique
+### Historique

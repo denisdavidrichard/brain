@@ -1,1 +1,5 @@
-LVM Activ 10L [[notes/utilisateurs/fournisseurs/Meinen]] 
+---
+title: "Détergent lave-vaisselle industriel"
+---
+
+LVM Activ 10L [Meinen](notes/utilisateurs/fournisseurs/Meinen.md) 

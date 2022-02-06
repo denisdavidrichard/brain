@@ -1,1 +1,5 @@
-Self-Sechant 10L - [[notes/utilisateurs/fournisseurs/Meinen]] ph2,5 (acide)
+---
+title: "Liquide de rincage industriel"
+---
+
+Self-Sechant 10L - [Meinen](notes/utilisateurs/fournisseurs/Meinen.md) ph2,5 (acide)

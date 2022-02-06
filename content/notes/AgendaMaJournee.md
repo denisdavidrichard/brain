@@ -4,16 +4,12 @@ title: "Agenda"
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
 
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
-samedi 
-050222
-
-dimanche 
-060222 11h Parents
-
-060222 gestion des déchets liquide médicaments.
-
 lundi 
 070222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
+
+070222 gestion des déchets liquide médicaments.
+
+070222 [malikIbrahimAbdi](notes/utilisateurs/beneficiaires/malikIbrahimAbdi.md) [V263_polaire_à_capuche_noire_L](notes/equipements/vetements/V263_polaire_à_capuche_noire_L.md)
 
 mardi 
 080222 contacter monsieur Grobetti
@@ -60,7 +56,7 @@ samedi
 190222
 
 dimanche 
-200222
+200222 parents
 
 lundi 
 210222
