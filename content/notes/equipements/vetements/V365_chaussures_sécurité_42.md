@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 281021 [[bicherFuat]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 281021 [[notes/utilisateurs/beneficiaires/bicherFuat]]

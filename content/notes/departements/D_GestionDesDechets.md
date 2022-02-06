@@ -26,8 +26,8 @@ Piles lithium/alcaline ok
 
 200720 [[notes/departements/D_GestionDesDechets]] Installer une palette grillager à côté des pneus pour pet, pneus, radios, gaz, marbre, etc au quai
 
-190720 [[notes/departements/D_GestionDesDechets]] [[laurentPeillex]] [Pet.ch](http://Pet.ch) demander un conteneur finalement pas demandé car pas pratique.
+190720 [[notes/departements/D_GestionDesDechets]] [[notes/utilisateurs/beneficiaires/laurentPeillex]] [Pet.ch](http://Pet.ch) demander un conteneur finalement pas demandé car pas pratique.
 
-160720 [[notes/departements/D_GestionDesDechets]] [[notes/utilisateurs/beneficiaires/fredericMercader]] [[marcoVanDerBen]] mettre un point de recyclage pet au tri
+160720 [[notes/departements/D_GestionDesDechets]] [[notes/utilisateurs/beneficiaires/fredericMercader]] marcoVanDerBen mettre un point de recyclage pet au tri
 
 090720 [[notes/departements/D_GestionDesDechets]]  Métaux précieux RecDem: 9h repris 5 paloxes plus 30 à 50kg d'etain (pour selon eux payer le transport @marcoVanDerBen  temoin)

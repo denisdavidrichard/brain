@@ -27,7 +27,7 @@ V191_gants_impérméable_rouge_S [[notes/statut/S_Libre]]
 
 V161_gants_impérméable_rouge_L  [[samirRamadani]]
 
-V168_gants_impérméable_rouge_L [[notes/equipements/vetements/suhaybAbdi]]
+V168_gants_impérméable_rouge_L [[notes/utilisateurs/beneficiaires/suhaybAbdi]]
 
 V169_gants_impérméable_rouge_L [[notes/utilisateurs/beneficiaires/denisWeidmann]]
 

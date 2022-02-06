@@ -21,7 +21,7 @@ title: "En lien avec la formation"
 
 050521 12h [[notes/departements/D_IntendanceTechnique]] formation entretien gerbeur Joma ok
 
-210421 [[cahierChargesLogisticien]] pour [[laurentPeillex]] envoyé par whatsapp
+210421 [[cahierChargesLogisticien]] pour [[notes/utilisateurs/beneficiaires/laurentPeillex]] envoyé par whatsapp
 
 [[notes/departements/D_Formations]]
 020321 10H00 Formation pour usage des codes à [[notes/departements/D_GardeMeubles]]

@@ -18,7 +18,7 @@ lundi
 mardi 
 080222 contacter monsieur Grobetti
 
-080222 [P_Sanitaires](notes/nettoyage/P_Sanitaires.md) et [P_NettoyageCantine](notes/formation/P_NettoyageCantine.md)
+080222 [P_Sanitaires](notes/nettoyage/P_Sanitaires.md) et [Cantine](notes/formation/Cantine.md)
 
 080222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
 
@@ -31,7 +31,7 @@ jeudi
 100222
 
 vendredi 
-110222  Mettre [marcoLycuong](marcoLycuong.md) au planning pour la prépa le 140222
+110222  Mettre [marcoLycuong](notes/utilisateurs/beneficiaires/marcoLycuong.md) au planning pour la prépa le 140222
 
 110222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
@@ -48,7 +48,7 @@ mardi
 150222
 
 mercredi 
-160222 8h [ericSaloukvadze](notes/utilisateurs/ericSaloukvadze.md) si bien espacer tous les 6 mois
+160222 8h [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md) si bien espacer tous les 6 mois
 
 jeudi 
 170222
@@ -231,7 +231,7 @@ dimanche
 170422
 
 lundi 
-180422 7h30 [[cyrilLieberherr]] jusqu'au 270522
+180422 7h30 [[notes/utilisateurs/beneficiaires/cyrilLieberherr]] jusqu'au 270522
 
 mardi 
 190422

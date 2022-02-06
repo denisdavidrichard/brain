@@ -8,7 +8,7 @@ Model: 5810-254\
 121496\
 50chf + 25chf logo
 
-Gilets bleu-orange [[notes/statut/Afaire]]
+Gilets bleu-orange
 
 V126_gilet_bleu-orange_L [[notes/statut/S_Libre]]
 
@@ -44,7 +44,7 @@ V124_gilet_bleu-orange_M [[notes/statut/S_Libre]]
 
 V125_gilet_bleu-orange_M [[notes/statut/S_Libre]]
 
-V33_gilet_bleu-orange_xl [[notes/utilisateurs/beneficiaires/malikIbrahimAbdi]]
+V33_gilet_bleu-orange_xl [malikIbrahimAbdi](notes/utilisateurs/beneficiaires/malikIbrahimAbdi.md)
 
 V35_gilet_bleu-orange_S [[notes/statut/S_Libre]]
 

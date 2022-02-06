@@ -6,7 +6,7 @@
 
 130421 [[notes/utilisateurs/fournisseurs/GESDEC]][[notes/utilisateurs/beneficiaires/gillesChervet]] envoyé les 2 documents Excel.
 
-290321 Ordinateur Microsoft Excel whatsapp [[virginieBarrientos]] ok
+290321 Ordinateur Microsoft Excel whatsapp [[notes/utilisateurs/beneficiaires/virginieBarrientos]] ok
 
 240321 mail envoyé au [[notes/utilisateurs/fournisseurs/GESDEC]]
 

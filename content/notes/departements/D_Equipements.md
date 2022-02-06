@@ -8,7 +8,7 @@ title: "Dernière personnes équipées"
 ## A faire: 
 
 ## Historique:
-060222 [marcoLycuong](marcoLycuong.md)
+060222 [marcoLycuong](notes/utilisateurs/beneficiaires/marcoLycuong.md)
 
 060222 [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md)
 
@@ -47,7 +47,7 @@ title: "Dernière personnes équipées"
 
 020921 0725 alejandroBasconMartin
 
-300821 0800 [abdesselamNoamal](notes/equipements/vetements/abdesselamNoamal.md)
+300821 0800 [abdesselamNoamal](notes/utilisateurs/beneficiaires/abdesselamNoamal.md)
 
 300821 0725 jonathanGonzalezGomez
 
@@ -85,7 +85,7 @@ title: "Dernière personnes équipées"
 
 030521 jilaniVacca
 
-190421 7h15 [danielPreviti](notes/equipements/vetements/danielPreviti.md)
+190421 7h15 [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
 
 150321 7h15 kylianCavagna
 

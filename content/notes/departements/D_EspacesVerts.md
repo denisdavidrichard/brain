@@ -23,7 +23,7 @@ title: "En lien avec les espaces verts"
 
 230421 [[notes/departements/D_EspacesVerts]] chercher copeaux de bois à chemin de douves 8h30 0041 79 433 49 93
 
-220421 [[notes/departements/D_EspacesVerts]] refaire les clôtures poulailler avec barres métallique et retirer les poteau inutiles et refixer ceux qui on besoin puis les mauvaises herbes
+220421 [[notes/departements/D_EspacesVerts]] refaire les clôtures [poulailler](notes/formation/Poulailler.md) avec barres métallique et retirer les poteau inutiles et refixer ceux qui on besoin puis les mauvaises herbes
 
 190421 [[notes/departements/D_GardeMeubles]][[notes/departements/D_EspacesVerts]]ce chercher BRF au chemin des douves 022 388 55 00 prendre RDV département environnement. Passé la cmd
 

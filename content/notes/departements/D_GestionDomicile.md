@@ -31,7 +31,7 @@ title: "Gestion domicile"
 
 221221 [[Bugnons14_12e]]
 
-141221  [[notes/utilisateurs/ericSaloukvadze]]
+141221  [[notes/utilisateurs/beneficiaires/ericSaloukvadze]]
 
 301121 [[notes/departements/D_EquipePratique]] Woodtli Benjamin 3p5h
 
@@ -73,7 +73,7 @@ Cave 551 étagères et bidet à remonter ?!!! 5p x 5h
 300821 Frauchiger photo [[notes/utilisateurs/beneficiaires/maximeChiavaroli]] manque Meuble à chaussures
 Meuble TV moins de 170cm WhatsApp
 
-270821 déménagement Frauchiger Josiane [[kylianCavagna]] 8h [[notes/utilisateurs/beneficiaires/loïcRossero]] 8h30 [[notes/equipements/vetements/pascalNoel]] 3h [[notes/utilisateurs/beneficiaires/ndulaNlandu]] 8h30 [[notes/utilisateurs/beneficiaires/laurentVonBergen]] 8h [[notes/utilisateurs/beneficiaires/denisWeidmann]] 8h30
+270821 déménagement Frauchiger Josiane [[kylianCavagna]] 8h [[notes/utilisateurs/beneficiaires/loïcRossero]] 8h30 [[notes/utilisateurs/beneficiaires/pascalNoel]] 3h [[notes/utilisateurs/beneficiaires/ndulaNlandu]] 8h30 [[notes/utilisateurs/beneficiaires/laurentVonBergen]] 8h [[notes/utilisateurs/beneficiaires/denisWeidmann]] 8h30
 Armoire deux porte environ 70cm de large ok
 Petit frigo congélateur ok
 Porte monteau mural ok
@@ -110,7 +110,7 @@ Porte monteau mural ok
 
 140521  Trincat 4p 2h
 
-110521  kashai vider et nettoyer cave avec [[notes/utilisateurs/beneficiaires/dominiqueByrde]] matin 2x4 et 1x4 (16h-20h) - toutes les heures envoyée à [[virginieBarrientos]]
+110521  kashai vider et nettoyer cave avec [[notes/utilisateurs/beneficiaires/dominiqueByrde]] matin 2x4 et 1x4 (16h-20h) - toutes les heures envoyée à [[notes/utilisateurs/beneficiaires/virginieBarrientos]]
 
 100521   14h Kashai rue du collège 24 carouge Maximus 15 cartons scotch pour GM et affaires personnelle déterminé ce qu'on garde au GM assistante nous aide [[anthonySpinardi]] 6x2
 

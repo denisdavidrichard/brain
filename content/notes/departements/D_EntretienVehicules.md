@@ -18,6 +18,7 @@ title: "En lien avec l'entretien des véhicules"
 |[Moulinex](notes/equipements/vehicules/Moulinex.md)|150122|V D xB|
 |[Hercule](notes/equipements/vehicules/Hercule.md)|071221|V D|
 |[Maximus](notes/equipements/vehicules/Maximus.md)|171221|V D B|
+|[MazdaE2000](notes/equipements/vehicules/MazdaE2000.md)|040222|V D B|
 |[Hiace](notes/equipements/vehicules/Hiace.md)|020222|V D B|
 |[Doblo](notes/equipements/vehicules/Doblo.md)|020222|V D B|
 |[Caddy](notes/equipements/vehicules/Caddy.md)||V D B|

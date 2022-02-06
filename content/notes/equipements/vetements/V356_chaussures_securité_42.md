@@ -1,5 +1,5 @@
 [[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] [[notes/statut/S_Libre]]
-[[notes/equipements/vetements/michaelFerreira]]
+[[notes/utilisateurs/beneficiaires/michaelFerreira]]
 [[menélikShizzle]]
 020921 [[alejandroBasconMartin]]
 [[notes/utilisateurs/beneficiaires/madiJorge]]

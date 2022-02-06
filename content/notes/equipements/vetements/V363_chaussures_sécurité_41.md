@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 261021 [[notes/equipements/vetements/pascalNoel]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] 261021 [[notes/utilisateurs/beneficiaires/pascalNoel]]

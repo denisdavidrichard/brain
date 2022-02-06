@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_PolosNoirs]] [[juanAlbo]][[notes/statut/S_Perdu]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_PolosNoirs]] [[notes/utilisateurs/beneficiaires/juanAlbo]][[notes/statut/S_Perdu]]

@@ -1,4 +1,8 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_VestesHiverNoires]] [[notes/statut/S_Libre]]
-280920 [[dionAgushi]]
-281019 [[ilanWoarden]]
-[[notes/utilisateurs/beneficiaires/denisWeidmann]]
+---
+title: "V8_veste_hiver_noire_XS"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_VestesHiverNoires](notes/equipements/vetements/V_VestesHiverNoires.md) [S_Libre](notes/statut/S_Libre.md)\
+280920 dionAgushi\
+281019 ilanWoarden\
+denisWeidmann

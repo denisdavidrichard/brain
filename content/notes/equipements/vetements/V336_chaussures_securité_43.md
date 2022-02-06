@@ -3,5 +3,5 @@
 030521 [[jilaniVacca]]
 [[yohannFrommherz]]
 040121 [[thibaudRossetti]]
-[[notes/equipements/vetements/christopherSubbanose]]
+[[notes/utilisateurs/beneficiaires/christopherSubbanose]]
 [[notes/utilisateurs/beneficiaires/denisWeidmann]] (hug)

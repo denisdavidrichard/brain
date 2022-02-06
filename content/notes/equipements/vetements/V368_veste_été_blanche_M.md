@@ -1,1 +1,1 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Veste_été_noir-blanche]] [[notes/equipements/vetements/pascalNoel]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Veste_été_noir-blanche]] [[notes/utilisateurs/beneficiaires/pascalNoel]]

@@ -1,5 +1,5 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] [[notes/equipements/vetements/michaelFerreira]]
-[[notes/equipements/vetements/pascalNoel]]
+[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] [[notes/utilisateurs/beneficiaires/michaelFerreira]]
+[[notes/utilisateurs/beneficiaires/pascalNoel]]
 110621 [[corentinBOUDARD]]
 270521 [[mustafaMuhamad]] 
-[[notes/equipements/vetements/suhaybAbdi]]
+[[notes/utilisateurs/beneficiaires/suhaybAbdi]]

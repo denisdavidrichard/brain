@@ -2,7 +2,7 @@
 title: "Masque de protection"
 ---
 
-V165_masque_3m_aura [[notes/equipements/vetements/suhaybAbdi]]
+V165_masque_3m_aura [[notes/utilisateurs/beneficiaires/suhaybAbdi]]
 
 V166_masque_3m_aura [[samirRamadani]]
 
