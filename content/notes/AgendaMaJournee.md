@@ -47,7 +47,7 @@ mercredi
 160222 8h [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md) si bien espacer tous les 6 mois
 
 jeudi 
-170222
+170222 9h [stephaneEsposito](stephaneEsposito.md) 
 
 vendredi 
 180222 rdv idéal 9h30 départ [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md) [tremplinFerme](tremplinFerme) 13
