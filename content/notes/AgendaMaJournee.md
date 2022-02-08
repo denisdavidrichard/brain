@@ -4,27 +4,23 @@ title: "Agenda"
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
 
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
-lundi 
-070222 [viansone](notes/utilisateurs/fournisseurs/viansone.md) RDV pour contrôle de l'installation se renseigner sur le RDV annuel année dernière mars [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
+[D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
 
-070222 gestion des déchets liquide médicaments.
+mercredi
+090222 gestion des déchets liquide médicaments. Affiche
 
-070222 [malikIbrahimAbdi](notes/utilisateurs/beneficiaires/malikIbrahimAbdi.md) [V263_polaire_à_capuche_noire_L](notes/equipements/vetements/V263_polaire_à_capuche_noire_L.md)
+090222 [SanitairesBrocanteRuche](notes/nettoyage/SanitairesBrocanteRuche.md) et [Cantine](notes/zones/Cantine.md)
 
-mardi 
-080222 contacter monsieur Grobetti
+090222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
 
-080222 [P_Sanitaires](notes/nettoyage/P_Sanitaires.md) et [Cantine](notes/formation/Cantine.md)
-
-080222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
-080222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
-
-mercredi 
+090222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
+ 
 090222 8h AUBERT P Av. des Grandes-Communes 24 / 1213 One 2e
 
+090222 photos GC reunion Pratique
+
 jeudi 
-100222
+100222 ndula tube lumineux [Sprinkler](notes/equipements/Sprinkler.md) ne fonctionne pas correctement.
 
 vendredi 
 110222  Mettre [marcoLycuong](notes/utilisateurs/beneficiaires/marcoLycuong.md) au planning pour la prépa le 140222
@@ -47,7 +43,7 @@ mercredi
 160222 8h [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md) si bien espacer tous les 6 mois
 
 jeudi 
-170222 9h [stephaneEsposito](stephaneEsposito.md) 
+170222 9h [stephaneEsposito](notes/utilisateurs/stephaneEsposito.md) 
 
 vendredi 
 180222 rdv idéal 9h30 départ [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md) [tremplinFerme](tremplinFerme) 13

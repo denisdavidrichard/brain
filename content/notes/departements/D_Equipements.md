@@ -12,7 +12,7 @@ title: "Dernière personnes équipées"
 
 060222 [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md)
 
-310122 [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md) juste [gants de travail](notes/equipements/vetements/V_GantsTravail.md) et [protections auditive](notes/equipements/vetements/V_ProtectionsAuditive.md)\
+310122 [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md) juste [gants de travail](notes/equipements/vetements/L_GantsTravail.md) et [protections auditive](notes/equipements/vetements/V_ProtectionsAuditive.md)\
 [lenyLambert](notes/utilisateurs/beneficiaires/lenyLambert.md) à rendre pour le 040122\
 [estebanPereyra](notes/utilisateurs/beneficiaires/estebanPereyra.md) à rendre pour le 040122\
 [fnaneTesfay](notes/utilisateurs/beneficiaires/fnaneTesfay.md) à rendre pour le 

@@ -1,4 +1,6 @@
-[[notes/AgendaMaJournee]]
+---
+title: "Gestion des déchets"
+---
 
 #### Afaire
 

@@ -27,6 +27,6 @@ Pour lire le [manuel](https://drive.google.com/file/d/1Je_wGZVlBH8JlBZxbfICmbHcC
 ### Consommable
 1. [Liquide de rincagel](/notes/equipements/consommables/C_LiquideRincageIndustriel.md)
 2. [Détergent industriel](/notes/equipements/consommables/C_DetergentLaveVaisselleIndustriel.md)
-3. [Sel](notes/C_SelLaveVaisselle.md)
+3. [Sel](notes/equipements/consommables/C_SelLaveVaisselle.md)
 ## Historique:
 250122 mis du sel fin dans la machine le voyant est tout de suite parti.

@@ -36,7 +36,7 @@ title: "Landi"
 
 180821 [[C_MelangeGrainesPoulesPondeuses]] [[C_PapierWC]] [[C_PapierMenage]] x4 [[C_SousPot40Cm]]
 
-270421 [[V_LunettesProtection]] [[V_GantsTravail]] L 1x5
+270421 [[V_LunettesProtection]] [[notes/equipements/vetements/L_GantsTravail]] L 1x5
 
 160321 [[C_PharmacieVéhicule]] [[C_Robinet3-4Gardena]] [[C_Sac110L]] x5
 

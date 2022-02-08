@@ -386,7 +386,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 240720  [[notes/equipements/consommables/C_HousseMatelas]] [[notes/utilisateurs/fournisseurs/jumbo]] 6x2
 
-240720  sable [[notes/utilisateurs/fournisseurs/landi]] [Poulailler](notes/formation/Poulailler.md) 25kg 2x
+240720  sable [[notes/utilisateurs/fournisseurs/landi]] [Poulailler](notes/zones/Poulailler.md) 25kg 2x
 
 240720  [[notes/utilisateurs/fournisseurs/landi]] spray anti-guèpes [[notes/departements/D_IntendanceTechnique]] 2x
 
@@ -396,7 +396,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 240720 [[notes/utilisateurs/fournisseurs/landi]] assiette rectangulaire style pot de fleurs airmétique à la base 2x 
 
-240720 [Poulailler](notes/formation/Poulailler.md) [[notes/equipements/consommables/C_LessiveSoude]] 
+240720 [Poulailler](notes/zones/Poulailler.md) [[notes/equipements/consommables/C_LessiveSoude]] 
 
 240720  [[notes/departements/D_EspacesVerts]] [[notes/utilisateurs/fournisseurs/landi]] brûleur mauvaises herbes
 

@@ -5,4 +5,4 @@
 ### Historique
 221221 390kg
 
-010621 [[notes/DechetsIndustrielsOrdinaireSpeciauxSIG]] 360kg
+010621 [[notes/gestionDechets/DechetsIndustrielsOrdinaireSpeciauxSIG]] 360kg
