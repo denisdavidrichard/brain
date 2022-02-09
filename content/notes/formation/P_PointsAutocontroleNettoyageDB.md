@@ -3,6 +3,7 @@ title: "Points d'autocontrôle lors de nettoyage"
 ---
 
 # Autocontrôle de nettoyage
+Mettre une croix si c'est fait et tracer si pas besoin de faire.
 ## Dégraisser:
 - [ ] Bouche d'aération cuisine
 - [ ] Bouche d'aération salle de bain
@@ -13,31 +14,33 @@ title: "Points d'autocontrôle lors de nettoyage"
 - [ ] Mur à côté de la cuisinière
 ## Détartrer:
 - [ ] Eviers et robinets
-- [ ] Baignoire
+- [ ] Baignoire/douche
 - [ ] Cuvette WC
 - [ ] Bas cuvette
 ## Divers:
-- [ ] Porte entrée
-- [ ] Derrière les portes
+- [ ] Scotchs/autocollants/crochets portes
+- [ ] " murs cuisine
+- [ ] " murs salle de bain
 - [ ] Luminaires retirés et remplacés par douilles/ampoules
 - [ ] Trous rebouchés
 - [ ] Retouches peintures
 ## Aspirer, dépoussiérer, laver:
-- [ ] Coins plafond?
-- [ ] Murs?
-- [ ] Prises d'aspiration salle de bain, cuisine?
-- [ ] Cadres de portes?
-- [ ] Tiroirs?
-- [ ] Prises?
-- [ ] Radiateurs?
-- [ ] Au sol derrière les portes?
-- [ ] Vitres, Miroirs?
-- [ ] Chromes séchés pour qu'ils brillent?
-- [ ] Balcon et cave balayés?
+- [ ] Coins plafond
+- [ ] Murs
+- [ ] Prises d'aspiration salle de bain, cuisine
+- [ ] Cadres de portes
+- [ ] Tiroirs
+- [ ] Prises et interrupteurs
+- [ ] Radiateurs
+- [ ] Au sol
+- [ ] Derrière les portes
+- [ ] Vitres, Miroirs
+- [ ] Séchage chromes cuisine et salle de bain
+- [ ] Balcon et cave balayés
+- [ ] Placards ouverts et vidés
 ## Sécurité:
-- [ ] Fenêtres sont-elles fermées?
-- [ ] Lumières éteintent?
-- [ ] Les points d'eau fermés, WC ne continue pas à se vider?
-- [ ] Frigo débranché et ouvert?
-- [ ] Porte d'entrée fermée?
-- [ ] Clés posées où il faut?
+- [ ] Fenêtres fermées
+- [ ] Lumières éteintent
+- [ ] Points d'eau fermés, WC ne continue pas à se vider
+- [ ] Frigo débranché et **ouvert**
+- [ ] Pas de matériel oublié

@@ -8,6 +8,7 @@ title: "Gestion domicile"
 ## A faire: procédure de nettoyage pour les résidences [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+090222 8h AUBERT P Av. des Grandes-Communes 24 / 1213 One 2e
 
 310122-280122 9h 4 rue des Bossons 8ème 
  (points en suspends traités) 10h1p:

@@ -6,21 +6,12 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
 
-mercredi
-090222 gestion des déchets liquide médicaments. Affiche
-
-090222 [SanitairesBrocanteRuche](notes/nettoyage/SanitairesBrocanteRuche.md) et [Cantine](notes/zones/Cantine.md)
-
-090222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
-090222 prendre rdv avec les EPI pour [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md)
- 
-090222 8h AUBERT P Av. des Grandes-Communes 24 / 1213 One 2e
-
-090222 photos GC reunion Pratique
-
 jeudi 
 100222 ndula tube lumineux [Sprinkler](notes/equipements/Sprinkler.md) ne fonctionne pas correctement.
+
+100222 [SanitairesBrocanteRuche](notes/nettoyage/SanitairesBrocanteRuche.md) et [Cantine](notes/zones/Cantine.md)
+
+100222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
 
 vendredi 
 110222  Mettre [marcoLycuong](notes/utilisateurs/beneficiaires/marcoLycuong.md) au planning pour la prépa le 140222

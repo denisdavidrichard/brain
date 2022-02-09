@@ -22,7 +22,7 @@ title: "Landi"
 
 161221 [[C_Paille6kg]] x2
 
-131221 [[notes/equipements/consommables/GD_PapierCartonMelange1-02]] x2 [[C_GoupilleSecurité]] 6x45mm [[C_Sac110L]] x10
+131221 [[notes/equipements/consommables/GD_PapierCartonMelange1-02et4]] x2 [[C_GoupilleSecurité]] 6x45mm [[C_Sac110L]] x10
 
 031221 [[C_PapierMenage]] x2 [[selDeneigement]] [[C_MelangeGrainesPoulesPondeuses]]  [[C_RubaliseRougeBlanche500m]] [[C_HuileMoteur10w40]]
 

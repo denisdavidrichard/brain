@@ -5,7 +5,7 @@ title: "Eternit"
 ## Sur le sujet:
 [Article du Temps](https://www.letemps.ch/economie/eternit-matiere-darchitecte)
 ## Zone de dépôt à la ruche:
-Dernière la benne à [papiers-cartons](/notes/equipements/consommables/GD_PapierCartonMelange1-02.md)
+Dernière la benne à [papiers-cartons](notes/equipements/consommables/GD_PapierCartonMelange1-02et4.md)
 ![i_eternit1](/notes/pieces_jointes/images/i_gestonDechets/i_eternit/i_eternit1.jpg)1.1 Si terre dans les pots videz la dans le conteneur (1)
 1.2 Si pas le temps d'emballer poser les pots vidés de leur terre sur la palette (2)
 1.3 Si déjà vidés et emballés dans sac ou film avec l'inscription "A" à mettre directement en conteneur (3), 
