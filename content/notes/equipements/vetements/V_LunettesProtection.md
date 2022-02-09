@@ -2,13 +2,20 @@
 title: "Lunettes de protection"
 ---
 
-[[notes/utilisateurs/fournisseurs/lyreco]] 5,90chf delta plus 9,883,829
+## Infos:
+Demander à un encadrant qu'il vous prenne un paire au [magasin vêtements de la ruche](notes/zones/magasinVetementsRuche.md)
 
-[[notes/utilisateurs/fournisseurs/landi]] 4,95chf 
+## Tailles:
+universel
+## Fournisseur:
+[lyreco](notes/utilisateurs/fournisseurs/lyreco.md) 5,90chf delta plus 9,883,829
+
+[landi](notes/utilisateurs/fournisseurs/landi.md) 4,95chf 
 
 #### Afaire
 
 ### Historique
+080222 [Pacman](notes/equipements/vehicules/Pacman.md)
 
-270421 [[notes/equipements/vehicules/Moulinex]]
+270421 [Moulinex](notes/equipements/vehicules/Moulinex.md)
 

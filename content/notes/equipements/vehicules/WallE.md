@@ -22,10 +22,11 @@ Pneu arrière droit ext: 185R14C Hankook Winter RW06\
 Pneu avant droit: 185R14C Toyo Observe Van\
 ExpertisesVisitesOCV: 021220 060218 310715
    
-## Afaire:
-protège roue touche la roue et pot d'échappement à refixer [Afaire](notes/statut/Afaire.md)
+## Afaire:protège roue touche la roue et pot d'échappement à refixer [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+080222 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) mis toutes les roues du [Moulinex](notes/equipements/vehicules/Moulinex.md) sur le [WallE](notes/equipements/vehicules/WallE.md)
+
 260122 réparation [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) avant droit
 
 281121 [cherchéVehicule](notes/statut/cherchéVehicule.md)

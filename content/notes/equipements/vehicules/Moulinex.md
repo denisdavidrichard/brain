@@ -23,11 +23,9 @@ Pneu arrière gauche ext: 185R14C Barum Snovanis 2\
 Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)\
 ExpertisesVisitesOCV: 130219 070416 260913 091210
 
-## Afaire: 
-Courroie d'accessoires usée\ 
-bougie de préchauffage (abordé au [garageAnken](notes/equipements/vehicules/garageAnken.md)) [Afaire](notes/statut/Afaire.md)
-
 ## Historique:
+080222 RIP
+
 210122 n'est pas passé la visite le chassis et percé à plusieurs endroits [garageAnken](notes/equipements/vehicules/garageAnken.md) doit revenir à nous avec un devis précis. A première vu nous sommes à bas mot à 2500 + 500 chf de frais.
 
 150122 apporté au [garageAnken](notes/equipements/vehicules/garageAnken.md) [ExpertisesVisitesOCV](notes/equipements/vehicules/ExpertisesVisitesOCV.md) 

@@ -2,24 +2,27 @@
 title: "Points d'autocontrôle lors de nettoyage"
 ---
 
-# Points d'autocontrôle lors du nettoyage
+# Autocontrôle de nettoyage
 ## Dégraisser:
-- [ ] Frigo?
-- [ ] Hotte?
-- [ ] Plaque de cuisson?
-- [ ] Four?
-- [ ] Mure à côté de la cuisinière?
+- [ ] Bouche d'aération cuisine
+- [ ] Bouche d'aération salle de bain
+- [ ] Frigo
+- [ ] Hotte
+- [ ] Plaque de cuisson
+- [ ] Four
+- [ ] Mur à côté de la cuisinière
 ## Détartrer:
-- [ ] Eviers et robinets?
-- [ ] Baignoire?
-- [ ] Cuvette WC?
-- [ ] Bas cuvette?
-## Clous et scotch et luminères retirés:
-- [ ] Porte entrée?
-- [ ] Derrière les portes?
-- [ ] Luminaires retirés et remplacés par douilles?
-- [ ] Faut-il reboucher ou faire des retouches peinutres?
-## Aspirer, dépoussiérer:
+- [ ] Eviers et robinets
+- [ ] Baignoire
+- [ ] Cuvette WC
+- [ ] Bas cuvette
+## Divers:
+- [ ] Porte entrée
+- [ ] Derrière les portes
+- [ ] Luminaires retirés et remplacés par douilles/ampoules
+- [ ] Trous rebouchés
+- [ ] Retouches peintures
+## Aspirer, dépoussiérer, laver:
 - [ ] Coins plafond?
 - [ ] Murs?
 - [ ] Prises d'aspiration salle de bain, cuisine?
