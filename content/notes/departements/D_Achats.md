@@ -21,7 +21,7 @@ title: "En lien avec les achats"
 ## A faire: 
 Crochets feuillard pet\
 Pile cr2032\
-[migros](notes/utilisateurs/fournisseurs/migros.md) [C_CremeDetergente](notes/equipements/consommables/C_CremeDetergente.md) 4x\
+[migros](notes/utilisateurs/fournisseurs/migros.md) [cremeDetergente](notes/equipements/consommables/cremeDetergente.md) 4x\
 Brita avec filtre Coco 171220 filtre au fond\
 Acide muriatique\
 Deux petites poubelles pour les sanitaires
@@ -241,7 +241,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 010621 [[notes/equipements/consommables/C_DegraissantLiquide]] 6x
 
-010621 [[notes/equipements/consommables/C_AlcoolBruler]] [[notes/utilisateurs/fournisseurs/migros]] 3x
+010621 [[notes/equipements/consommables/alcoolBruler]] [[notes/utilisateurs/fournisseurs/migros]] 3x
 
 010621 [[notes/equipements/consommables/C_PenderieCartonMoyenne]] [[notes/utilisateurs/fournisseurs/SOS-dem]] 5x 
 
@@ -261,7 +261,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 050521 [[notes/equipements/consommables/C_RubaliseRougeBlanche500m]] [[notes/utilisateurs/fournisseurs/landi]] 4x
 
-050521 [[notes/equipements/consommables/C_AlcoolBruler]] [[notes/utilisateurs/fournisseurs/migros]] 10x
+050521 [[notes/equipements/consommables/alcoolBruler]] [[notes/utilisateurs/fournisseurs/migros]] 10x
 
 270421 [[notes/equipements/consommables/C_BrosseWC]] [[notes/utilisateurs/fournisseurs/ikea]] 2x
 
@@ -293,7 +293,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 160321  [[notes/utilisateurs/fournisseurs/SOS-dem]] [[notes/utilisateurs/fournisseurs/landi]] 
 
-160321 [[notes/equipements/consommables/C_AlcoolBruler]] [[notes/utilisateurs/fournisseurs/jumbo]] 2x 
+160321 [[notes/equipements/consommables/alcoolBruler]] [[notes/utilisateurs/fournisseurs/jumbo]] 2x 
 
 160321 [[notes/equipements/consommables/C_SangleACliquet]] [[notes/utilisateurs/fournisseurs/jumbo]] 2x 
 

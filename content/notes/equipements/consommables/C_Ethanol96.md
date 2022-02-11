@@ -2,4 +2,4 @@
 title: "Ethanol 96%"
 ---
 
-[C_AlcoolBruler](notes/equipements/consommables/C_AlcoolBruler.md) 1L 2,80chf 
+[alcoolBruler](notes/equipements/consommables/alcoolBruler.md) 1L 2,80chf 

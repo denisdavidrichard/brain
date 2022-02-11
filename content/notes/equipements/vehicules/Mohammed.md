@@ -3,7 +3,7 @@ title: "Mohammed"
 ---
 
 ## Infos:
-[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Tricycles](notes/equipements/vehicules/C_Tricycles.md)\
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Tricycles](notes/equipements/vehicules/C_KyburzDXP.md)\
 Infos: Kyburu DXP 2\
 Type véhicule: 6KD201\
 Num chassis: TCK616741C8404933\

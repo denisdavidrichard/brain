@@ -15,7 +15,7 @@ Prendre un bout de papier et noter le nom du véhicule. Indiquer les km et les v
 - [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)
 - [Fourgons](notes/equipements/vehicules/C_Fourgons.md)
 - [Voitures](notes/equipements/vehicules/C_Voitures.md)
-- [Tricycles](notes/equipements/vehicules/C_Tricycles.md)
+- [Tricycles](notes/equipements/vehicules/C_KyburzDXP.md)
 - [Scooters](notes/equipements/vehicules/C_Scooters.md)
 ## Lumières:
 - Phares de croisement

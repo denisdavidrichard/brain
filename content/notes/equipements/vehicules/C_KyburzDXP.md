@@ -1,13 +1,14 @@
 ---
-title: "Tricycles"
+title: "Kyburz DXP"
 ---
 
 [Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
-Equipements | Sous le siège | Top case
-:--- | --- | --- 
- |  |  
- |  |  
+### Sous le siège
+[Housse documents véhicule](notes/equipements/consommables/C_HousseDocumentVéhicule.md)
+### Dans le coffre
+[Pharmacie véhicule](notes/equipements/consommables/C_PharmacieVéhicule.md)
+
  
 ## A faire: 
 

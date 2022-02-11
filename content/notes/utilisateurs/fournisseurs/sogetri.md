@@ -6,15 +6,12 @@ title: "Sogetri"
 
 ## Infos:
 ### Reçus, bons, quittances:
-Lorsque vous avez vidés votre camion vous recevez une quittance.
+Lorsque vous avez vidé le camion vous recevez une quittance.
 ![i_bonSogetri1](/notes/pieces_jointes/images/i_gestonDechets/i_bonQuittance/i_bonSogetri1.jpg)
-Utiliser le [carnet kilomètres du vehicule](/notes/equipements/carnetkilometresvehiculed.md) et son stylo. (1) verifier que le type de déchet correspond à ce que vous avez vidés. Puis signez (2).
+Utiliser le [carnet kilomètres du vehicule](/notes/equipements/carnetkilometresvehiculed.md) et son stylo. (1) verifier que le type de déchet correspond à ce que vous avez vidés. Puis signez (2).\
+Une fois au [quai](notes/zones/Z_QuaiRuche.md) déposer le reçu dans la pelle sous les clés des véhicules.
 
-| Marche à suivre | Photo |
-|---|---|
-|2.1 Lorsque vous êtes de retour à la ruche allez au secrétariat et prenez le classeur déchets dans l'armoire.|![i_bonSogetri2](/notes/pieces_jointes/images/i_gestonDechets/i_bonQuittance/i_bonSogetri2.jpg)|
-|2.2 Plier le bon en deux pour centrer les trous avec la perforatrice.|![I_bonSogetri2-1](/notes/pieces_jointes/images/i_gestonDechets/i_bonQuittance/I_bonSogetri2-1.jpg)|
-|2.3 Classer la quittance au-dessus des autres à la section "Sogetri"|![i_bonSogetri2-2](/notes/pieces_jointes/images/i_gestonDechets/i_bonQuittance/i_bonSogetri2-2.jpg)|
+
 ## Afaire
 
 ## Historique

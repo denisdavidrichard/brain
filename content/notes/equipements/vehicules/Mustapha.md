@@ -3,8 +3,8 @@ title: "Mustapha"
 ---
 
 ## Infos:
-[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Tricycles](notes/equipements/vehicules/C_Tricycles.md)\
-Infos: Kyburu DXP 1\
+[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Tricycles](notes/equipements/vehicules/C_KyburzDXP.md)\
+Infos: Kyburz DXP 1\
 Type véhicule: 6KD201\
 Num chassis: TCK616741C8404900\
 Plaque: 40567\

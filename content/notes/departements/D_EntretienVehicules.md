@@ -11,11 +11,10 @@ title: "En lien avec l'entretien des véhicules"
 |[King](notes/equipements/vehicules/King.md)|151221|V D B|
 |[Kong](notes/equipements/vehicules/Kong.md)|020222|V D xB|
 |[Black](notes/equipements/vehicules/Black.md)|221221|V D B|
-|[Jack](notes/equipements/vehicules/Jack.md)|071221|V xD xB|
+|[Jack](notes/equipements/vehicules/Jack.md)|071221|V D B|
 |[Glouton](notes/equipements/vehicules/Glouton.md)|141221|V D B|
 |[WallE](notes/equipements/vehicules/WallE.md)|071221|V D xB|
 |[Pacman](notes/equipements/vehicules/Pacman.md)|071221|V D B|
-|[Moulinex](notes/equipements/vehicules/Moulinex.md)|150122|V D xB|
 |[Hercule](notes/equipements/vehicules/Hercule.md)|071221|V D|
 |[Maximus](notes/equipements/vehicules/Maximus.md)|171221|V D B|
 |[MazdaE2000](notes/equipements/vehicules/MazdaE2000.md)|040222|V D B|
@@ -27,8 +26,8 @@ title: "En lien avec l'entretien des véhicules"
 |[Scarabeo](notes/equipements/vehicules/Scarabeo.md) | |xV|
 |[ScooterBMWEvo](notes/equipements/vehicules/ScooterBMWEvo.md)|  |V|
 |[Jousson](notes/equipements/vehicules/Jousson.md)|  |xV| 
-|[Mustapha](notes/equipements/vehicules/Mustapha.md)|  |rien|
-|[Mohammed](notes/equipements/vehicules/Mohammed.md)|  |rien|
+|[Mustapha](notes/equipements/vehicules/Mustapha.md)|  |B|
+|[Mohammed](notes/equipements/vehicules/Mohammed.md)|  |B|
 |[RemorqueGM](notes/equipements/vehicules/RemorqueGM.md)|051021|rien|
 |[RemorqueFerraille](notes/equipements/vehicules/RemorqueFerraille.md)|051021|rien|
 

@@ -3,7 +3,6 @@ title: "Moulinex"
 ---
 
 ## Infos:
-[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Camions benne](notes/equipements/vehicules/C_CamionsBenne.md)\
 Infos: Toyota Dyna 150 3.0 - 1999\
 Type vehicule: 3TA3 47\
 Num chassis: JT131LYM208000476\

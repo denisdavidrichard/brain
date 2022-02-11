@@ -6,14 +6,11 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
 
-jeudi 
-100222 ndula tube lumineux [Sprinkler](notes/equipements/Sprinkler.md) ne fonctionne pas correctement.
-
-100222 [SanitairesBrocanteRuche](notes/nettoyage/SanitairesBrocanteRuche.md) et [Cantine](notes/zones/Cantine.md)
-
-100222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
 vendredi 
+110222 [SanitairesBrocanteRuche](notes/nettoyage/SanitairesBrocanteRuche.md) et [Cantine](notes/zones/Cantine.md)
+
+110222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
+
 110222  Mettre [marcoLycuong](notes/utilisateurs/beneficiaires/marcoLycuong.md) au planning pour la prépa le 140222
 
 110222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.

@@ -38,9 +38,9 @@
 
 [[notes/zones/zoneArrivagesRuche]]
 
-[[notes/zones/zoneTriRuche]]
+[[notes/zones/ZtriRuche]]
 
-[[notes/zones/zoneQuaiRuche]]
+[[notes/zones/Z_QuaiRuche]]
 
 - [[notes/zones/stockageBasQuai]]
 - [[notes/zones/stockageHautQuai]]

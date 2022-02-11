@@ -11,6 +11,8 @@ title: "En lien avec le garde-meubles"
 190821 Mamie Paulette 2.5+2.5+2.5+2.5 donc 10m3 
 
 ## Historique:
+100222 ndula tube lumineux [Sprinkler](notes/equipements/Sprinkler.md) ne fonctionne pas correctement. retrait en ce jour.
+
 141221 réunion pour reprendre les points importants à revoir.
 
 241121 M. Bardelli Christian viendra mercredi 24 à 9h

@@ -4,7 +4,7 @@ title: "Installation de nettoyage pour résidence"
 
 ## Matériel:
 - [Panier](notes/equipements/consommables/C_PanierNettoyage.md) pour les produits et le nettoyage 
-- [Crème détergente](notes/equipements/consommables/C_CremeDetergente.md)
+- [Crème détergente](notes/equipements/consommables/cremeDetergente.md)
 - [Dégraissant liquide](notes/nettoyage/produits/degraissantLiquide.md)
 - [Vaporisateur pour vitres](notes/nettoyage/produits/vaporisateurVitres.md)
 - [Vaporisateur de désinfection](notes/nettoyage/produits/vaporisateurDesinfectant.md)
