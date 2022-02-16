@@ -12,7 +12,7 @@ title: "Taches périodiques"
 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
 [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
 [pascalNoel](notes/utilisateurs/beneficiaires/pascalNoel.md)
-[Bureaux](notes/nettoyage/N_Bureaux.md)
+[Bureaux](notes/nettoyage/bureauxRuche.md)
 [Sprinkler](notes/equipements/Sprinkler.md)
 ## Mensuelles:
 [EntretienVehicules](notes/departements/D_EntretienVehicules.md)

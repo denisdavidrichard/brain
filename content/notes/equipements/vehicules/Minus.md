@@ -3,7 +3,7 @@ title: "Minus"
 ---
 
 ## Infos
-[[notes/equipements/vehicules/L_VehiculesEngins]] [S_Vendu](notes/statut/S_Vendu.md)
+[S_Vendu](notes/statut/S_Vendu.md)
 Infos: Suzuki Carry - 2000
 Type vehicule: 3SH6 01
 Num chassis: JSAFDA32V00106403

@@ -1,9 +1,8 @@
 ---
-title: "Scooter BMW Evo"
+title: "Scooter BMW Evo blanc"
 ---
 
 ## Infos:
-[D_EntretienVehicules](notes/departements/D_EntretienVehicules.md) [Scooters](notes/equipements/vehicules/C_Scooters.md)\
 Infos: BMW C evolution - 2015\
 Type vehicule: 6BA4 80\
 Num chassis: WB10C0304FZ320166\
@@ -19,4 +18,6 @@ ExpertisesVisitesOCV: 150621 230615
 ## Afaire:
 
 ## Historique:
+040122: [S_Vendu](notes/statut/S_Vendu.md)
+
 270122: le scooter a des problèmes pour charger la batterie apporté au garage

@@ -23,7 +23,7 @@ Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)\
 ExpertisesVisitesOCV: 130219 070416 260913 091210
 
 ## Historique:
-080222 RIP
+080222 [S_Vendu](notes/statut/S_Vendu.md)
 
 210122 n'est pas passé la visite le chassis et percé à plusieurs endroits [garageAnken](notes/equipements/vehicules/garageAnken.md) doit revenir à nous avec un devis précis. A première vu nous sommes à bas mot à 2500 + 500 chf de frais.
 

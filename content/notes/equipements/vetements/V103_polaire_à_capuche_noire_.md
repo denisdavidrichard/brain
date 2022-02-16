@@ -2,4 +2,4 @@
 title: "V103_polaire_à_capuche_noire_"
 ---
 
-[L_Vetements](notes/equipements/L_Vetements.md) [V_CardigansPullsPolairesCapuche](notes/equipements/vetements/V_CardigansPullsPolairesCapuche.md) [gaelSullice](notes/utilisateurs/beneficiaires/gaelSullice.md)
+[S_Vendu](notes/statut/S_Vendu.md) le 110222 gaelSullice 

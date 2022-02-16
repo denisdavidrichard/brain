@@ -2,11 +2,10 @@
 title: "En lien avec l'entretien des véhicules"
 ---
 
-[Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
 |Véhicules|Mois dernier [service CB](notes/equipements/vehicules/serviceCB.md)| si "x" (n'est pas encore mis dans le véhicule) suivi par: V (pour Vignette 22) D (pour désinfectant main) B (pour bétadine pharmacie du véhicule) |
 |---:|:---:|:---|
-|[Asterix](notes/equipements/vehicules/Asterix.md)|071221|V D xB| 
+|[Asterix](notes/equipements/vehicules/Asterix.md)|071221|V D B| 
 |[Obelix](notes/equipements/vehicules/Obelix.md)|020222|V D B|
 |[King](notes/equipements/vehicules/King.md)|151221|V D B|
 |[Kong](notes/equipements/vehicules/Kong.md)|020222|V D xB|
@@ -16,16 +15,16 @@ title: "En lien avec l'entretien des véhicules"
 |[WallE](notes/equipements/vehicules/WallE.md)|071221|V D xB|
 |[Pacman](notes/equipements/vehicules/Pacman.md)|071221|V D B|
 |[Hercule](notes/equipements/vehicules/Hercule.md)|071221|V D|
-|[Maximus](notes/equipements/vehicules/Maximus.md)|171221|V D B|
-|[MazdaE2000](notes/equipements/vehicules/MazdaE2000.md)|040222|V D B|
-|[Hiace](notes/equipements/vehicules/Hiace.md)|020222|V D B|
-|[Doblo](notes/equipements/vehicules/Doblo.md)|020222|V D B|
-|[Caddy](notes/equipements/vehicules/Caddy.md)||V D B|
-|[Sirion](notes/equipements/vehicules/Sirion.md)|141221|V D|
-|[Trevis](notes/equipements/vehicules/Trevis.md)|141221|V D|
-|[Scarabeo](notes/equipements/vehicules/Scarabeo.md) | |xV|
-|[ScooterBMWEvo](notes/equipements/vehicules/ScooterBMWEvo.md)|  |V|
-|[Jousson](notes/equipements/vehicules/Jousson.md)|  |xV| 
+|[Maximus](notes/equipements/vehicules/Maximus.md)|171221|V D B M|
+|[MazdaE2000](notes/equipements/vehicules/MazdaE2000.md)|040222|V D B M|
+|[Hiace](notes/equipements/vehicules/Hiace.md)|020222|V D B M|
+|[Doblo](notes/equipements/vehicules/Doblo.md)|020222|V D B xM|
+|[Caddy](notes/equipements/vehicules/Caddy.md)||V D B M|
+|[Sirion](notes/equipements/vehicules/Sirion.md)|141221|V D M|
+|[Trevis](notes/equipements/vehicules/Trevis.md)|141221|V D M|
+|[Scarabeo](notes/equipements/vehicules/Scarabeo.md) | |V|
+|[BMWEvoGris](BMWEvoGris.md)|  |V|
+|[Jousson](notes/equipements/vehicules/Jousson.md)|  |xV Pascal va la mettre| 
 |[Mustapha](notes/equipements/vehicules/Mustapha.md)|  |B|
 |[Mohammed](notes/equipements/vehicules/Mohammed.md)|  |B|
 |[RemorqueGM](notes/equipements/vehicules/RemorqueGM.md)|051021|rien|

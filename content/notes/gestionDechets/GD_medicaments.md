@@ -10,7 +10,7 @@ title: "Médicaments"
 ## Marche à suivre
 Si vous n'avez pas le permis pour les chariots élévateur demander à un encadrant de descendre la palette et la mettre en zone d'[arrivage](/notes/zones/zoneArrivagesRuche.md).\
 Demander à un encadrant pour qu'il vous ouvre le [conteneur médicaments](/notes/gestionDechets/conteneurMedicaments.md).
-![I_Medicaments1](/notes/pieces_jointes/images/i_gestonDechets/i_dechetsSpeciaux/i_medicaments/I_Medicaments1.jpg)
+![I_Medicaments1](/notes/pieces_jointes/images/i_gestionMatieres/i_dechetsSpeciaux/i_medicaments/I_Medicaments1.jpg)
 1. Prendre trois caisses, une pour mettre le papier, une autre pour verser les médicaments du conteneur du [conteneur médicaments](/notes/gestionDechets/conteneurMedicaments.md) (3) et une dernière pour les recyclables (4).
 2. Sortir un sac du paloxe de médiacaments pour les médicaments valable à destination de la [pharmacie Bedat](/notes/utilisateurs/fournisseurs/pharmacieBedat.md).
 3. Poser la caisser des médicaments sur le rebord du paloxe.

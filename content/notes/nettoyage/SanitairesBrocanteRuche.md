@@ -2,6 +2,7 @@
 title: "Sanitaires brocante ruche"
 ---
 
+[[F_EnCours]]
 ## Les bases du nettoyage:
 Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philosophie du nettoyage](/notes/nettoyage/philosophieNettoyage.md)
 ## Préparer le matériel:
@@ -10,12 +11,12 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 |1.1 Aller au local de nettoyage (si fermé demander la clé à un encadrant)|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires1-1.jpg)|
 |1.2 Prendre 5 chiffons rouge et le mettre dans la petite caisse verte|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires1-2.jpg)|
 |1.3 Prendre la petit caisse IFCO verte avec les vaporisateurs et la mettre sur la caisse nettoyage [sol glissant](/notes/formation/A_solGlissant.md) ou se trouve le [double seaux](/notes/formation/P_DoubleSeaux.md)|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires1-3.jpg)|
-|1.4 Si plus de chiffons prenez déjà le chariot avec les deux caisses et le [double seaux](/notes/formation/P_DoubleSeaux.md) poser le devant les sanitaires|x|
-|1.5 Profiter de prendre les 6 linges sales des sanitaire si vous devez descendre au sous-sol à la [buanderie](/notes/zones/buanderieRuche.md)  pour aller chercher des [chiffons](/notes/nettoyage/outils/typeChiffonsNettoyage.md)|x|
+|1.4 Si plus de chiffons prenez déjà le chariot avec les deux caisses et le [double seaux](/notes/formation/P_DoubleSeaux.md) poser le devant les sanitaires|![I_Sanitaires1-4_2-1](notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires1-4_2-1.jpg)|
+|1.5 Profiter de prendre les 6 linges sales des sanitaire si vous devez descendre au sous-sol à la [buanderie](/notes/zones/buanderieRuche.md)  pour aller chercher des [chiffons](/notes/nettoyage/outils/typeChiffonsNettoyage.md)|![I_Sanitaires1-5_8-3-2](notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires1-5_8-3-2.jpg)|
 ## Sécuriser:
 | Marche à suivre | Photo |
 |---|---|
-|2.1 Poser visiblement le panneau "sol glissant" devant la zone à nettoyer|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires2-1.jpg)|
+|2.1 Poser visiblement le panneau "sol glissant" devant la zone à nettoyer|![](notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires1-4_2-1.jpg)|
 |2.2 Si possible aérer|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires2-2.jpg)|
 |2.3 Mettre les gants et les lunettes|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires2-3.jpg)|
 ## Détartrer:
@@ -27,11 +28,11 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 |---|---|
 |4.1 Vider les poubelles|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires4-1.jpg)|
 |4.2 S'il y a des tenues de travail les mettre au vestiaire|![](/notes/pieces_jointes/images/i_nettoyage/i_cantine/I_Cantine3-2.jpg)|
-|4.3 S'il y a des matières recyclables les poser dans les bonnes poubelle au "point de recyclage devant le secretariat"|![](/notes/pieces_jointes/images/i_nettoyage/i_cantine/I_Cantine3-1.jpg)|
+|4.3 S'il y a des matières recyclables les poser dans les bonnes poubelle au "point de recyclage devant le secretariat"|![I_PointRecyclage1](notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
 ## Dépoussièrage:
 | Marche à suivre | Photo |
 |---|---|
-|5.1 Si toile d'araigner, passer le mop sec avec le manche du balais du double seaux.|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires5-1.jpg)|
+|5.1 Si toile d'araigner, passer le balai|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires5-1.jpg)|
 ## Nettoyage:
 | Marche à suivre | Photo |
 |---|---|
@@ -50,7 +51,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 |8.1-2 Ajouter les liquides dans les différents distributeur.|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires8-1-2.jpg)|
 |8.2-1 Ajouter 3-4 rouleaux de papier WC dans chaque meuble de sous-évier.|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires8-2-1.jpg)|
 |8.3.1||
-|8.3.2 Descendre et monter les linges des sanitaires et prendre des armoires un grand linge pour la douche du local buanderie.|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires8-3-2.jpg)|
+|8.3.2 Descendre et monter les linges des sanitaires et prendre des armoires un grand linge pour la douche du local buanderie.|![](notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires1-5_8-3-2.jpg)|
 |8.3.3|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires8-3-3.jpg)|
 |8.3.4|![](/notes/pieces_jointes/images/i_nettoyage/i_sanitaires/I_Sanitaires8-3-4.jpg)|
 |8.2-2 Ajouter 3-4 rouleaux de papier WC dans chaque meuble de sous-évier.||

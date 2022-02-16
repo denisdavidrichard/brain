@@ -2,6 +2,7 @@
 title: "Point de recyclage couloir Ruche"
 ---
 
+![I_PointRecyclage1](notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)
 ## Matériel requis
 | Marche à suivre | Photo |
 |---|---|
@@ -9,6 +10,20 @@ title: "Point de recyclage couloir Ruche"
 ## Matériel à monter au quai
 | Marche à suivre | Photo |
 |---|---|
+|2.1 Déplacer le chariot avec les éléments de recyclage||
+|2.2 Pour la poubelle dincinérable vous pouvez vous servir du diable||
+|2.3 Faites un premier stop au déchets spéciaux si vous avez des produits à déposer||
+|2.4 Commencer par les éléments les plus grand exemple incinéré||
+|2.5 Attaquez-vous ensuite au papier carton||
+|2.6 Puis les piles||
+|2.7 Il y a aussi des tubes luminescents pars moment avec les piles||
+|2.8 Sortez du métal le cuivre l'étain et le laiton||
+|2.9 Une fois que tu les bacs sont vidés ont peux passer un coup de chiffon dessus||
+|3.0 Au point de recyclage en peux passer un coup de balai||
+|3.1 Après le appelle une balayette ranger le matériel à sa place||
+
+
+|2.1 Sac de PET compléter avec les sacs du bas||
 |2.1 Sac de PET compléter avec les sacs du bas||
 |2.2 Fermer les sacs pleins et les empiler||
 |2.3 Si plus de sac remettre un neuf||
