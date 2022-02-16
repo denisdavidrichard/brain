@@ -2,7 +2,7 @@
 title: "Sanitaires brocante ruche"
 ---
 
-[[F_EnCours]]
+[[notes/statut/F_EnCours]]
 ## Les bases du nettoyage:
 Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philosophie du nettoyage](/notes/nettoyage/philosophieNettoyage.md)
 ## Préparer le matériel:

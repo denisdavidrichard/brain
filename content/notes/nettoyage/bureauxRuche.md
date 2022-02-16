@@ -2,7 +2,7 @@
 title: "Nettoyage des bureaux"
 ---
 
-[F_EnCours](F_EnCours.md)
+[F_EnCours](notes/statut/F_EnCours.md)
 
 ![I_NettoyageBureauRuche-1](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-1.jpg)
 ## Les bases du nettoyage:
@@ -15,7 +15,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 |1.3 Si nécessaire aspirer, balayer les toiles d'araignées qui sont en hauteur|![I_NettoyageBureauRuche-4](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-4.jpg)|
 |1.4 Prendre les poubelles et corbeilles papier dessous et à côtés des bureaux|![I_NettoyageBureauRuche-5](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-5.jpg)|
 |1.5 Les vider au [point de recyclage](notes/nettoyage/PointRecyclageRuche.md) et bien les remettre à leur place|![I_PointRecyclage1](notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
-|1.6 S'il n'y a plus de sacs dans la poubelle prendre un rouleau de [sac17L](sac17L.md) au [local  nettoyage](notes/zones/localNettoyage.md) derrière la porte.|x|
+|1.6 S'il n'y a plus de sacs dans la poubelle prendre un rouleau de [sac17L](notes/equipements/sac17L.md) au [local  nettoyage](notes/zones/localNettoyage.md) derrière la porte.|x|
 ## Nettoyage au chiffons:
 | Marche à suivre | Photo |
 |---|---|
@@ -31,7 +31,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 ## Sols:
 | Marche à suivre | Photo |
 |---|---|
-|3.1 Une fois toutes les surfaces nettoyées, vous pouvez passer l'[dysonSecretariat](dysonSecretariat.md) commencer par les bords et les recoins|![I_NettoyageBureauRuche-2](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-2.jpg)|
+|3.1 Une fois toutes les surfaces nettoyées, vous pouvez passer l'[dysonSecretariat](notes/equipements/dysonSecretariat.md) commencer par les bords et les recoins|![I_NettoyageBureauRuche-2](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-2.jpg)|
 |3.2 Commencer par les bords de la pièce|![I_NettoyageBureauRuche-17](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-17.jpg)|
 |3.3 Puis faites l'intérieur en vous dirigeant marche arrière vers la porte|x|
 |3.4 Videz le au point de recyclage en baissant le bouton rouge|![I_NettoyageBureauRuche-19](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-19.jpg)|

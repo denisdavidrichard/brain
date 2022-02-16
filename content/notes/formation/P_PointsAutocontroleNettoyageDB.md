@@ -3,6 +3,7 @@ title: "Points d'autocontrôle lors de nettoyage"
 ---
 
 # Autocontrôle de nettoyage
+https://docs.google.com/document/d/18CaV7ZVRQekhwKqJQbTreSnMCC99LX52_qZXscpRmWw/edit?usp=sharing
 Mettre une croix si c'est fait et tracer si pas besoin de faire.
 ## Dégraisser:
 - [ ] Bouche d'aération cuisine
@@ -17,6 +18,7 @@ Mettre une croix si c'est fait et tracer si pas besoin de faire.
 - [ ] Baignoire/douche
 - [ ] Cuvette WC
 - [ ] Bas cuvette
+- [ ] Plan de travail cuisine inox
 ## Divers:
 - [ ] Scotchs/autocollants/crochets portes
 - [ ] " murs cuisine
@@ -40,7 +42,7 @@ Mettre une croix si c'est fait et tracer si pas besoin de faire.
 - [ ] Placards ouverts et vidés
 ## Sécurité:
 - [ ] Fenêtres fermées
-- [ ] Lumières éteintent
-- [ ] Points d'eau fermés, WC ne continue pas à se vider
+- [ ] Lumières éteintes
+- [ ] Points d'eau fermés, WC ne coule pas
 - [ ] Frigo débranché et **ouvert**
-- [ ] Pas de matériel oublié
+- [ ] Plus rien dans le logement

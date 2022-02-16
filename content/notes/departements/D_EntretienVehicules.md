@@ -23,7 +23,7 @@ title: "En lien avec l'entretien des véhicules"
 |[Sirion](notes/equipements/vehicules/Sirion.md)|141221|V D M|
 |[Trevis](notes/equipements/vehicules/Trevis.md)|141221|V D M|
 |[Scarabeo](notes/equipements/vehicules/Scarabeo.md) | |V|
-|[BMWEvoGris](BMWEvoGris.md)|  |V|
+|[BMWEvoGris](notes/equipements/BMWEvoGris.md)|  |V|
 |[Jousson](notes/equipements/vehicules/Jousson.md)|  |xV Pascal va la mettre| 
 |[Mustapha](notes/equipements/vehicules/Mustapha.md)|  |B|
 |[Mohammed](notes/equipements/vehicules/Mohammed.md)|  |B|
@@ -33,6 +33,8 @@ title: "En lien avec l'entretien des véhicules"
 ## A faire: 
 
 ## Historique:
+160222 enquête RAPP pour OFROU concernant le [WallE](notes/equipements/vehicules/WallE.md)
+
 260122 Benne jaune à La Halle Juliette sangle posée. gillesChervet Prendra le véhicule un de ces vendredi pour revoir le système de fermeture.
 
 181121 Chariot et transpalette rouge

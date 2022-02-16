@@ -6,13 +6,12 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
 
-110222 Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
-mercredi 
-160222 8h [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md) si bien espacer tous les 6 mois
-
 jeudi 
 170222 9h [stephaneEsposito](notes/utilisateurs/stephaneEsposito.md) 
+
+Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
+
+160222 18h [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md) si bien espacer tous les 6 mois
 
 vendredi 
 180222 rdv idéal 9h30 départ [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md) [tremplinFerme](tremplinFerme) 13
