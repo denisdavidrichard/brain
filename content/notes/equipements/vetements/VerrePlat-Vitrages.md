@@ -2,6 +2,6 @@
 title: "Verre plat - vitrages"
 ---
 
-[sogetri](notes/utilisateurs/fournisseurs/sogetri.md)
+[Sogetri](notes/utilisateurs/fournisseurs/Sogetri.md)
 
 ## Historique:

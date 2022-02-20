@@ -4,7 +4,7 @@ title: "En lien avec la formation"
 
 [Agenda](notes/AgendaMaJournee.md)
 
-#### [[notes/statut/Afaire]] Prendre contact avec sandro de la pharmacie [[HUG]] pour une visite et [[vincentHeinzen]] pour les [[sig]]
+#### [[notes/statut/Afaire]] Prendre contact avec sandro de la pharmacie [[HUG]] pour une visite et [[vincentHeinzen]] pour les [[Sig]]
 
 ### Historique
 081221 [[notes/formation/GerbeurTimonCategorieSPermisInterne]] questionnaire terminé

@@ -10,6 +10,6 @@ Ne pas oublier de mettre les deux [calles](/notes/equipements/consommables/C_Cal
 ![PapierCarton](/notes/pieces_jointes/images/i_gestionMatieres/i_papierCarton/I_PapierCarton1.jpg)
 
 ## Transport:
-[sogetri](/notes/utilisateurs/fournisseurs/sogetri.md)
+[Sogetri](notes/utilisateurs/fournisseurs/Sogetri.md)
 
 ## Historique:

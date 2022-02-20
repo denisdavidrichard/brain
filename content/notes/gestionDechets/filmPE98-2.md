@@ -2,7 +2,7 @@
 title: "Film PE 98/2"
 ---
 
-[sogetri](notes/utilisateurs/fournisseurs/sogetri.md)
+[Sogetri](notes/utilisateurs/fournisseurs/Sogetri.md)
 
 ## Recommandations
 Eviter scotch et étiquettes.

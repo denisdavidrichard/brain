@@ -7,12 +7,12 @@ title: "Taches périodiques"
 [[notes/nettoyage/machineCafe]]
 [laveVaisselleSmeg](notes/equipements/laveVaisselleSmeg.md)
 [Poulailler](notes/zones/Poulailler.md)
-[SanitairesBrocanteRuche](notes/nettoyage/SanitairesBrocanteRuche.md)
+[SanitairesBrocanteRuche](notes/nettoyage/types%20de%20nettoyage/SanitairesBrocanteRuche.md)
 ## Hebdomadaires:
 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
 [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
 [pascalNoel](notes/utilisateurs/beneficiaires/pascalNoel.md)
-[Bureaux](notes/nettoyage/Bureaux.md)
+[Bureaux](notes/nettoyage/types%20de%20nettoyage/Bureaux.md)
 [Sprinkler](notes/equipements/Sprinkler.md)
 ## Mensuelles:
 [EntretienVehicules](notes/departements/D_EntretienVehicules.md)

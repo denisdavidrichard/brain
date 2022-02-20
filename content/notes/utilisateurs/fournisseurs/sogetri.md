@@ -2,7 +2,7 @@
 title: "Sogetri"
 ---
 
-[D_GestionDesDechets](/notes/departements/D_GestionDesDechets.md) 
+[GestionDesMatieres](notes/departements/GestionDesMatieres.md) 
 
 ## Infos:
 ### Reçus, bons, quittances:

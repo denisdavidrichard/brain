@@ -2,4 +2,4 @@
 title: "Grobetti"
 ---
 
-Notre conseiller à [sogetri](notes/utilisateurs/fournisseurs/sogetri.md) 
+Notre conseiller à [Sogetri](notes/utilisateurs/fournisseurs/Sogetri.md) 
