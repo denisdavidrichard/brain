@@ -1,17 +1,13 @@
 ---
-title: "Nettoyage type IEPA"
+title: "Nettoyage logements Tremplin ferme"
 ---
 
-## Faire un tour de la situation, identifier les points importants
-Il est nécessaire de bien se renseigner avant d'agir. Par moment un simple coup de balais peut suffir. 
-
+## Faire un tour du logement, identifier les points importants
 Une fois que vous avez identifier les points importants (exemple prendre photo avec le portable) vous allez pouvoir prendre les matériel adapté pour agir rapidement et efficacement. Le points en photo dont vous avez des doute partagez-les à votre supérieur et passer à d'autres points en attendant une réponse.
 
 Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philosophie du nettoyage](notes/nettoyage/philosophieNettoyage.md)
 
 ## Préparer le matériel
-Si vous devais juste passer un coup de balais, pas nécessaire de prendre l'équipement complet.
-
 Si vous n'avez pas d'info, il y a une [liste du matériel à prendre](notes/nettoyage/listeMaterielNettoyage.md) avec soi.
 
 La priorité est de commencer par les points qui prennent du temps et d'éviter de renettoyer après:)

@@ -2,9 +2,9 @@
 
 ### [[notes/zones/ruche]]
 
-[[notes/zones/Z_SecretariatRuche]]
+[[notes/zones/secretariatRuche]]
 
-[[notes/zones/Z_BureauGillesChervetRuche]]
+[[notes/zones/BureauDirectionRuche]]
 
 [[notes/zones/bureauEncadrentsRuche]]
 

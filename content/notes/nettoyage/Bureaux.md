@@ -2,7 +2,10 @@
 title: "Nettoyage des bureaux"
 ---
 
-[F_EnCours](notes/statut/F_EnCours.md)
+## Les différents bureaux:
+[Scretariat](notes/zones/secretariatRuche.md)\
+[Bureau de la direction](notes/zones/BureauDirectionRuche.md)\
+[Bureau des encadrents](notes/zones/bureauEncadrentsRuche.md)
 
 ![I_NettoyageBureauRuche-1](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-1.jpg)
 ## Les bases du nettoyage:
@@ -11,7 +14,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 | Marche à suivre | Photo |
 |---|---|
 |1.1 Prendre le matériel de nettoyage au secrétariat, derrière le bureau à Yannick.|![I_NettoyageBureauRuche-2](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-2.jpg)|
-|1.2 Allumer la lumière pour avoir une meilleure visibilité|![I_NettoyageBureauRuche-3](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-3.jpg)|
+|1.2 Allumer la lumière si nécessaire pour avoir une meilleure visibilité|![I_NettoyageBureauRuche-3](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-3.jpg)|
 |1.3 Si nécessaire aspirer, balayer les toiles d'araignées qui sont en hauteur|![I_NettoyageBureauRuche-4](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-4.jpg)|
 |1.4 Prendre les poubelles et corbeilles papier dessous et à côtés des bureaux|![I_NettoyageBureauRuche-5](notes/pieces_jointes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-5.jpg)|
 |1.5 Les vider au [point de recyclage](notes/nettoyage/PointRecyclageRuche.md) et bien les remettre à leur place|![I_PointRecyclage1](notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
@@ -50,5 +53,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 ## A faire: 
 
 ## Historique:
+
+## Liens utiles:
 
 

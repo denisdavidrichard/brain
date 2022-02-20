@@ -1,6 +1,7 @@
-[Agenda](notes/AgendaMaJournee.md) 
-## Infos:
+ ## Infos:
 
 ## A faire: 
 
 ## Historique:
+
+## Liens utiles:

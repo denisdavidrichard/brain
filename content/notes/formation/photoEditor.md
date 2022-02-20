@@ -9,7 +9,7 @@ title: "photoEditor"
 ## Pour le traitement par lot:
 1. Mettre les photos dans l'ordre souhaité
 2. Choisir plus d'une photo et choisir "Tâche" puis redimensionner
-3. Choisir la taille  1120x840
+3. Choisir la taille  1120x840 l'inverse pour une photo en portrait et 120x120 pour code QR
 4. Conserver les proportions
 5. Choisir la destination
 6. Le nom du fichier et ajouter {#number1#} puis "+"
