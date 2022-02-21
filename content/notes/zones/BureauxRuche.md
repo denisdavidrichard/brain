@@ -10,17 +10,17 @@ title: "Bureaux"
 
 <div align="right">
 
-| Année |...........|![qr_Bureaux](/notes/pieces_jointes/images/i_codeBarres/i_codeQR/qr_Bureaux.jpg)|
+| Année |...........|![Qr_Bureaux](/notes/pieces_jointes/images/i_codeBarres/i_codeQR/Qr_Bureaux.jpg)|
 |---|---|---|
 
 </div>
 
 # Points importants:
-1. Aspirer les toiles d'araignées au plafond. 
-2. Dépoussiérer avec le chiffon de haut en bas (papier ménage pour écrans).
-3. Aspirer le sol
-4. Nettoyage humide au double seaux
-5. Ranger le matériel et parapher la feuille de suivi.
+1. Aspirez les toiles d'araignées au plafond. 
+2. Dépoussiérez avec le chiffon de haut en bas (papier ménage pour écrans).
+3. Aspirez le sol.
+4. Nettoyez avec le double seaux blanc de la cantine.
+5. Rangez le matériel et paraphez la feuille de suivi.
 
 # Suivi:
 

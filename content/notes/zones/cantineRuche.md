@@ -10,17 +10,17 @@ title: "Cantine"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![qr_Cantine](notes/pieces_jointes/images/i_codeBarres/i_codeQR/qr_Cantine.jpg)|
+| Année |...........|Mois|......................|![Qr_Cantine](/notes/pieces_jointes/images/i_codeBarres/i_codeQR/Qr_Cantine.jpg)|
 |---|---|---|---|---|
 
 </div>
 
 # Points importants:
-1. Vider (si propre) et remplir le lave-vaisselle
-2. Nettoyer les surfaces de haut en bas (tiroir, appareils plans, tables, chaises et sol)
-3. Réapprovisionner, gazes, papier ménage, changer sac poubelles et linges (prendre à la buanderie et économat)
-4. Nettoyer le sol avec le chariot double seaux (poser panneau sol glissant)
-5. Parapher la fiche de suivi
+1. Videz (si propre) et remplissez le lave-vaisselle.
+2. Nettoyez les surfaces de haut en bas (tiroir, appareils plans, tables, chaises et sol).
+3. Réapprovisionnez, gazes, papier ménage, changer sac poubelles et linges (prendre à la buanderie et économat).
+4. Nettoyez le sol avec le chariot double seaux (poser panneau sol glissant).
+5. Paraphez la fiche de suivi.
 # Suivi:
 
 <div align="center">
@@ -67,7 +67,7 @@ title: "Cantine"
 ### Dispatcher:
 | Marche à suivre | Photo |
 |---|---|
-|3.1 Recycler les vieux journeaux, boîte de conserve, verres cassés|![I_PointRecyclage1](notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
+|3.1 Recycler les vieux journeaux, boîte de conserve, verres cassés|![I_PointRecyclage1](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
 |3.2 Mettre les vêtements sur les crochets du vestiaire|![I_Cantine3-2](/notes/pieces_jointes/images/i_nettoyage/i_cantine/I_Cantine3-2.jpg)|
 ### Vider la lave vaisselle:
 Si pas déjà vidé vous pouvez le vider.
