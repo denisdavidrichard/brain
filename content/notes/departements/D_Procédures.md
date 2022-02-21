@@ -4,7 +4,7 @@ title: "En lien avec les procédures"
 
 
 
-151221 [[notes/departements/D_Procédures]] [[notes/equipements/laveVaisselleSmeg]]
+151221 [[notes/departements/D_Procédures]] [[notes/equipements/electromenager/laveVaisselleSmegCantine]]
 
 141221 [[notes/departements/D_Procédures]] [[notes/formation/P_AvisTravaux]]
 

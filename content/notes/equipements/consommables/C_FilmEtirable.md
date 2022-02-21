@@ -5,7 +5,7 @@ title: "Film étirable"
 [Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
 [securStorage](notes/utilisateurs/fournisseurs/securStorage.md)450×300 10chf\
-[rangementsPratique](notes/zones/rangementsPratique.md)\
+[RangementsPratique](notes/zones/RangementsPratique.md)\
 [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md) 14,95chf  filmEtirableGrand par lot de 6\
 [landi](notes/utilisateurs/fournisseurs/landi.md) 22chf 22580,01\
 [jumbo](notes/utilisateurs/fournisseurs/jumbo.md)\

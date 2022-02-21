@@ -1,4 +1,4 @@
-[[notes/zones/stockageHautQuai]] [[notes/zones/armoirePratique]] [[notes/zones/troussesOutils]]
+[[notes/zones/StockageHautQuai]] [[notes/zones/ArmoirePratique]] [[notes/zones/CaisseOutils]]
 
 [[notes/utilisateurs/fournisseurs/jumbo]] 6,95chf Dimensions: 150 m x 10 cm miniFilmEtirable article: 1236137 
 

@@ -2,7 +2,7 @@
 title: "Scotch transparant"
 ---
 
-[armoirePratique](notes/zones/armoirePratique.md) [troussesOutils](notes/zones/troussesOutils.md)
+[ArmoirePratique](notes/zones/ArmoirePratique.md) [CaisseOutils](notes/zones/CaisseOutils.md)
 
 [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md) 2,20chf adhésif transparent d’emballage lot de 60
 

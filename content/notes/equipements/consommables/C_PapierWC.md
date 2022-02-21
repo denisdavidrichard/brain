@@ -2,7 +2,7 @@
 title: "Papier WC"
 ---
 
-[economatRuche](notes/zones/economatRuche.md)
+[EconomatRuche](notes/zones/EconomatRuche.md)
 
 [landi](notes/utilisateurs/fournisseurs/landi.md) 6,95chf/20(3couches)=0,35chf article 33270 
 

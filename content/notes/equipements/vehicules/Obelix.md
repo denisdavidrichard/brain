@@ -33,7 +33,7 @@ Demander pour expertises et mettre clé de manoeuvre [Afaire](notes/statut/Afair
 
 200321 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) Changement de la roue du monte meubles ar droit
 
-200321 Récupérer la tige en métal et changé les 2 petits vérins avec la grosse sangle bleue [atelierRuche](notes/zones/atelierRuche.md)
+200321 Récupérer la tige en métal et changé les 2 petits vérins avec la grosse sangle bleue [AtelierRuche](notes/zones/AtelierRuche.md)
 
 160321 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) [C_ExtValve](notes/equipements/consommables/C_ExtValve.md) x2 [C_ExtValve](notes/equipements/consommables/C_ExtValve.md)
 

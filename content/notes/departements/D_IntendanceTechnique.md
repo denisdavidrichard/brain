@@ -8,9 +8,9 @@ title: "En lien avec l'intendance et service technique"
 ## A faire: 
 
 ## Historique:
-141221 [[notes/departements/D_IntendanceTechnique]] [[notes/zones/Z_DechetsSpeciauxRuche]] [[notes/zones/Z_AbriPauseRuche]] [[notes/zones/Z_PlateformeAVerreMarquiseMezzanine]] [[notes/zones/Z_SAS_HalleJ]]
+141221 [[notes/departements/D_IntendanceTechnique]] [[notes/zones/DechetsSpeciauxRuche]] [[notes/zones/AbriPauseRuche]] [[notes/zones/PlateformeAVerreMarquiseMezzanine]] [[notes/zones/SASHalleJuliette]]
 
-131221 [[notes/departements/D_IntendanceTechnique]] [[notes/zones/Z_SAS_HalleJ]] 
+131221 [[notes/departements/D_IntendanceTechnique]] [[notes/zones/SASHalleJuliette]] 
 
 061221 Visseuse 11 batterie 8 et pince à boulon à prendre dans Astérix rangés
 
@@ -20,11 +20,11 @@ title: "En lien avec l'intendance et service technique"
 - tuyau d'évacuation de la machine du restaurant trop long
 - Proposition de café
 
-201121 distributeur d'eau pris dans [[notes/zones/conteneurEspaceVert]] en remplacement du grand cassé
+201121 distributeur d'eau pris dans [[notes/zones/ConteneurEspaceVert]] en remplacement du grand cassé
 
 191121 @25_casierRuche refaite 14,50chf
 
-181121 [[notes/equipements/consommables/C_Balais60cm]] [[notes/zones/ZtriRuche]] et [[notes/departements/D_Brocante]]
+181121 [[notes/equipements/consommables/C_Balais60cm]] [[notes/zones/TriRuche]] et [[notes/departements/D_Brocante]]
 
 [[notes/departements/D_Nettoyage]]
 020721 JACQUOT BEURET Nathalie - lit noir stylo feutre et frigo éponge magique.
@@ -32,15 +32,15 @@ Place Simon Goulart 6 076 316 93 30
 
 180521 [[notes/departements/D_IntendanceTechnique]] Dérouleur air comprimé quai changé
 
-280421 [[notes/departements/D_GestionDomicile]] [[notes/zones/costa]] équipement et photos envoyées à [[notes/utilisateurs/beneficiaires/gillesChervet]]
+280421 [[notes/departements/D_GestionDomicile]] [[notes/zones/Costa]] équipement et photos envoyées à [[notes/utilisateurs/beneficiaires/gillesChervet]]
 
-090421 [[notes/zones/costa]] affiche frigo Gilles 
+090421 [[notes/zones/Costa]] affiche frigo Gilles 
 
-090421 [[notes/zones/costa]][[notes/zones/salleJeux]] Bouchons fermeture évacuation eau 
+090421 [[notes/zones/Costa]][[notes/zones/SalleJeuxCosta]] Bouchons fermeture évacuation eau 
 
-090421 [[notes/zones/costa]][[notes/zones/salleJeux]] Récupérer la peinture
+090421 [[notes/zones/Costa]][[notes/zones/SalleJeuxCosta]] Récupérer la peinture
 
-090321 [[peinture]] [[notes/zones/vaudagne57]] salle de bain pour commencer la peinture de jumbo n'allait pas du tout nous devions prendre la peinture de lux peinture, nous avons bien rincer car les reste de Rocco (lessive décapante) ne permettaient pas l'adhérence de la peinture. Il est important de bien mélanger la peinture pour bien savoir des pigments pas que le dilutif de la peinture.
+090321 [[peinture]] [[notes/zones/Vaudagne57]] salle de bain pour commencer la peinture de jumbo n'allait pas du tout nous devions prendre la peinture de lux peinture, nous avons bien rincer car les reste de Rocco (lessive décapante) ne permettaient pas l'adhérence de la peinture. Il est important de bien mélanger la peinture pour bien savoir des pigments pas que le dilutif de la peinture.
 
 070121 Faire le support à balais et escabeaux en zone de transit en hauteur ok
 

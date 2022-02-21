@@ -1,6 +1,48 @@
 ---
-title: "Lave-vaisselle SMEG"
+title: "Lave-vaisselle SMEG de la Cantine"
 ---
+
+<span style="color:BlueViolet">
+
+# Poste: entretien du lave-vaisselle
+
+</span>
+
+<div align="right">
+
+| Année |...........|Mois|......................|![qr_Sanitaires](notes/pieces_jointes/images/i_codeBarres/i_codeQR/qr_Sanitaires.jpg)|
+|---|---|---|---|---|
+
+</div>
+
+# Points importants:
+
+# Suivi:
+
+<div align="center">
+
+|Mettre numéro du jour|Initiales|Mettre numéro du jour|Initiales|
+|---|---|---|---|
+|LUNDI||LUNDI||
+|MARDI||MARDI||
+|MERCREDI||MERCREDI||
+|JEUDI||JEUDI||
+|VENDREDI||VENDREDI||
+|SAMEDI||SAMEDI||
+|LUNDI||LUNDI||
+|MARDI||MARDI||
+|MERCREDI||MERCREDI||
+|JEUDI||JEUDI||
+|VENDREDI||VENDREDI||
+|SAMEDI||SAMEDI||
+|LUNDI||||
+|MARDI||||
+|MERCREDI||||
+|JEUDI||||
+|VENDREDI||||
+|SAMEDI||||
+
+</div>
 
 ## Utilisation:
 | Marche à suivre | Photo |

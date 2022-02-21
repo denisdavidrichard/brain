@@ -4,15 +4,15 @@ title: "Taches périodiques"
 
 [Agenda](notes/AgendaMaJournee.md) 
 ## Quotidiennes:
-[[notes/nettoyage/machineCafe]]
-[laveVaisselleSmeg](notes/equipements/laveVaisselleSmeg.md)
-[Poulailler](notes/zones/Poulailler.md)
-[SanitairesBrocanteRuche](notes/nettoyage/types%20de%20nettoyage/SanitairesBrocanteRuche.md)
+[[notes/equipements/electromenager/machineCafeCantine]]
+[laveVaisselleSmegCantine](notes/equipements/electromenager/laveVaisselleSmegCantine.md)
+[PoulaillerRuche](notes/zones/PoulaillerRuche.md)
+[SanitairesRuche](notes/zones/SanitairesRuche.md)
 ## Hebdomadaires:
 [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
 [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
 [pascalNoel](notes/utilisateurs/beneficiaires/pascalNoel.md)
-[Bureaux](notes/nettoyage/types%20de%20nettoyage/Bureaux.md)
+[BureauxRuche](notes/zones/BureauxRuche.md)
 [Sprinkler](notes/equipements/Sprinkler.md)
 ## Mensuelles:
 [EntretienVehicules](notes/departements/D_EntretienVehicules.md)

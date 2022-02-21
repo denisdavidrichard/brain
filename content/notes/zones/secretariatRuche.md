@@ -3,7 +3,7 @@ title: "Secretariat de la Ruche"
 ---
 
  ## Infos:
-[L_Zones](notes/zones/L_Zones.md)
+[Zones](notes/zones/Zones.md)
 ## A faire: 
 
 ## Historique:

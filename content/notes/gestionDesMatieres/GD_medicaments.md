@@ -8,7 +8,7 @@ title: "Médicaments"
 3. [masqueFFP2](/notes/equipements/masqueFFP2.md)
 
 ## Marche à suivre
-Si vous n'avez pas le permis pour les chariots élévateur demander à un encadrant de descendre la palette et la mettre en zone d'[arrivage](/notes/zones/zoneArrivagesRuche.md).\
+Si vous n'avez pas le permis pour les chariots élévateur demander à un encadrant de descendre la palette et la mettre en zone d'[arrivage](notes/zones/ArrivagesRuche.md).\
 Demander à un encadrant pour qu'il vous ouvre le [conteneur médicaments](notes/gestionDesMatieres/conteneurMedicaments.md).
 ![I_Medicaments1](/notes/pieces_jointes/images/i_gestionMatieres/i_dechetsSpeciaux/i_medicaments/I_Medicaments1.jpg)
 1. Prendre trois caisses, une pour mettre le papier, une autre pour verser les médicaments du conteneur du [conteneur médicaments](notes/gestionDesMatieres/conteneurMedicaments.md) (3) et une dernière pour les recyclables (4).

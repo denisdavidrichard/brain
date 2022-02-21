@@ -1,1 +1,1 @@
-[[notes/equipements/outils/L_Outils]]hargeurs]] [[notes/zones/magasinVetementsRuche]]mentsRuche]]
+[[notes/equipements/outils/L_Outils]]hargeurs]] [[notes/zones/MagasinVetementsRuche]]mentsRuche]]

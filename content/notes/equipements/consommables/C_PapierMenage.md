@@ -2,7 +2,7 @@
 title: "Papier ménage"
 ---
 
-[economatRuche](notes/zones/economatRuche.md)
+[EconomatRuche](notes/zones/EconomatRuche.md)
 
 [landi](notes/utilisateurs/fournisseurs/landi.md) 4,95/8=0,65chf article 30683 
 

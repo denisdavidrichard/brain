@@ -1,1 +1,1 @@
-[[notes/equipements/outils/L_Outils]]hargeurs]] [[notes/zones/armoirePratique]]rePratique]]
+[[notes/equipements/outils/L_Outils]]hargeurs]] [[notes/zones/ArmoirePratique]]rePratique]]

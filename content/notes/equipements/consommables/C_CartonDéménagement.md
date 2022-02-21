@@ -2,7 +2,7 @@
 title: "Carton de déménagement"
 ---
 
-[stockageBasQuai](notes/zones/stockageBasQuai.md)
+[StockageBasQuai](notes/zones/StockageBasQuai.md)
 
 [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md) 2,40chf/pièce 550x350x300mm par lot de 15
 

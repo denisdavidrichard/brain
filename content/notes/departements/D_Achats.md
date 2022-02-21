@@ -309,7 +309,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 020221 [[notes/equipements/consommables/C_Sac110L]] [[notes/utilisateurs/fournisseurs/landi]] 7x
 
-020221  [[notes/utilisateurs/fournisseurs/landi]] [[notes/zones/tableauOutilsEPI]] Masse ok
+020221  [[notes/utilisateurs/fournisseurs/landi]] [[notes/zones/TableauOutilsEPI]] Masse ok
 
 290121 Film, feuillard 16 mm Toutembal
 [https://www.toutembal.fr/film-etirable-manuel__film-etirable-manuel-transparent_52_PALFILMETIRMANU_c.html](https://www.toutembal.fr/film-etirable-manuel__film-etirable-manuel-transparent_52_PALFILMETIRMANU_c.html)
@@ -326,7 +326,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 200121  [[notes/utilisateurs/fournisseurs/jumbo]] Disque à meuler inox ok et Crochets tableaux fixation au mur ok
 
-140121 [[notes/equipements/consommables/C_PaletteEuro80x120]] [[notes/zones/costa]] 30x
+140121 [[notes/equipements/consommables/C_PaletteEuro80x120]] [[notes/zones/Costa]] 30x
 
 090121 [[decathlon]] [[notes/utilisateurs/beneficiaires/danielSarraco]]  chaussures 44 ok
 
@@ -386,7 +386,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 240720  [[notes/equipements/consommables/C_HousseMatelas]] [[notes/utilisateurs/fournisseurs/jumbo]] 6x2
 
-240720  sable [[notes/utilisateurs/fournisseurs/landi]] [Poulailler](notes/zones/Poulailler.md) 25kg 2x
+240720  sable [[notes/utilisateurs/fournisseurs/landi]] [PoulaillerRuche](notes/zones/PoulaillerRuche.md) 25kg 2x
 
 240720  [[notes/utilisateurs/fournisseurs/landi]] spray anti-guèpes [[notes/departements/D_IntendanceTechnique]] 2x
 
@@ -396,7 +396,7 @@ Pantalon: 3x40, 5x42, 44, 2x46, 2x50, 52, 56 Model: 2810-254 (120284 62chf) ok
 
 240720 [[notes/utilisateurs/fournisseurs/landi]] assiette rectangulaire style pot de fleurs airmétique à la base 2x 
 
-240720 [Poulailler](notes/zones/Poulailler.md) [[notes/equipements/consommables/C_LessiveSoude]] 
+240720 [PoulaillerRuche](notes/zones/PoulaillerRuche.md) [[notes/equipements/consommables/C_LessiveSoude]] 
 
 240720  [[notes/departements/D_EspacesVerts]] [[notes/utilisateurs/fournisseurs/landi]] brûleur mauvaises herbes
 

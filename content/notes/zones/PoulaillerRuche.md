@@ -2,6 +2,21 @@
 title: "Poulailler"
 ---
 
+<span style="color:BlueViolet">
+
+# Poste: entretien du poulailler
+
+</span>
+
+<div align="right">
+
+| Année |...........|Mois|......................|![qr_Sanitaires](notes/pieces_jointes/images/i_codeBarres/i_codeQR/qr_Sanitaires.jpg)|
+|---|---|---|---|---|
+
+</div>
+
+# Points importants:
+
 ## Prendre le matériel
 | Marche à suivre | Photo |
 |---|---|

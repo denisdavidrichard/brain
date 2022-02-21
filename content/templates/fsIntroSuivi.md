@@ -1,10 +1,10 @@
 ---
-title: "Fiche du suivi "
+title: "{{title}}"
 ---
 
 <span style="color:BlueViolet">
 
-## Poste:
+# Poste:
 
 </span>
 
@@ -15,4 +15,4 @@ title: "Fiche du suivi "
 
 </div>
 
-## Points importants:
+# Points importants:

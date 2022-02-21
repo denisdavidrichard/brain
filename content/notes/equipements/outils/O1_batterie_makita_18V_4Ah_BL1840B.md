@@ -1,1 +1,1 @@
-[[notes/equipements/outils/L_Outils]]es/equipements/consommables/C_BatteriesMakita]] [[notes/zones/servanteQuai]]rvanteQuai]] [[notes/statut/Afaire]]
+[[notes/equipements/outils/L_Outils]]es/equipements/consommables/C_BatteriesMakita]] [[notes/zones/ServanteQuai]]rvanteQuai]] [[notes/statut/Afaire]]

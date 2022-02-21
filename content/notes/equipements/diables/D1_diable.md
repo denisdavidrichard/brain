@@ -2,7 +2,7 @@
 title: "Diable 1"
 ---
 
-[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md) [couloirSecretariatRuche](notes/zones/couloirSecretariatRuche.md)
+[L_Diables](notes/equipements/L_Diables.md) [C_ExpressoNew](notes/equipements/consommables/C_ExpressoNew.md) [CouloirSecretariatRuche](notes/zones/CouloirSecretariatRuche.md)
 
 ## Afaire: 
 

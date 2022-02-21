@@ -1,3 +1,3 @@
 
 
-290720 finalisation [[notes/zones/armoireTechnique]]
+290720 finalisation [[notes/zones/ArmoireTechnique]]

@@ -4,4 +4,4 @@ Palettes Jus de pommes
 [[notes/formation/L_DécorationNoelSecretariat]] 
 
 
-[[notes/statut/Afaire]] 140721 [[notes/zones/costa]] récupérer 1 palette grise pour déchets. Et huile pour déchets spéciaux 
+[[notes/statut/Afaire]] 140721 [[notes/zones/Costa]] récupérer 1 palette grise pour déchets. Et huile pour déchets spéciaux 

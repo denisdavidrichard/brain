@@ -2,7 +2,7 @@
 title: "Calle pour véhicule"
 ---
 
-[rangementsEntretienVehicules](notes/zones/rangementsEntretienVehicules.md)
+[RangementsEntretienVehicules](notes/zones/RangementsEntretienVehicules.md)
 
 [jumbo](notes/utilisateurs/fournisseurs/jumbo.md) sabotArretCarStop 16,50chf Art.1074639 
 

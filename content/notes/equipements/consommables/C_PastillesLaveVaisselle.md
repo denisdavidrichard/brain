@@ -2,7 +2,7 @@
 title: "Pastilles lave-vaisselle"
 ---
 
-[localNettoyage](notes/zones/localNettoyage.md)
+[LocalNettoyage](notes/zones/LocalNettoyage.md)
 
 [landi](notes/utilisateurs/fournisseurs/landi.md) bio 100x
 

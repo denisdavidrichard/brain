@@ -1,63 +1,63 @@
 # ZONES LCB
 
-### [[notes/zones/ruche]]
+### [[notes/zones/ZoneRuche]]
 
-[[notes/zones/secretariatRuche]]
+[[notes/zones/SecretariatRuche]]
 
 [[notes/zones/BureauDirectionRuche]]
 
-[[notes/zones/bureauEncadrentsRuche]]
+[[notes/zones/BureauEncadrentsRuche]]
 
-[[notes/zones/casiersRuche]]
+[[notes/zones/CasiersRuche]]
 
-[[notes/zones/Z_promenadeTrousseauRuche]]
+[[notes/zones/PromenadeTrousseauRuche]]
 
-[[notes/zones/Z_DechetsSpeciauxRuche]]
+[[notes/zones/DechetsSpeciauxRuche]]
 
-[[notes/zones/economatRuche]]
+[[notes/zones/EconomatRuche]]
 
-[[notes/zones/buanderieRuche]]
+[[notes/zones/BuanderieRuche]]
 
-[[notes/zones/magasinVetementsRuche]]
+[[notes/zones/MagasinVetementsRuche]]
 
-[[notes/zones/couloirSecretariatRuche]]
+[[notes/zones/CouloirSecretariatRuche]]
 
 [[notes/zones/cantineRuche]]
 
-[[notes/zones/Z_AbriPauseRuche]]
+[[notes/zones/AbriPauseRuche]]
 
-[[notes/zones/sasRuche]]
+[[notes/zones/SasRuche]]
 
-[[notes/zones/caisseBrocanteRuche]]
+[[notes/zones/CaisseBrocanteRuche]]
 
-[[notes/zones/zoneLivraisonsRuche]]
+[[notes/zones/LivraisonsRuche]]
 
-[[notes/zones/zoneMonteChargeRuche]]
+[[notes/zones/MonteChargeRuche]]
 
-- [[notes/zones/tableauPlanchesRuche]]
+- [[notes/zones/TableauPlanchesRuche]]
 
-[[notes/zones/zoneArrivagesRuche]]
+[[notes/zones/ArrivagesRuche]]
 
-[[notes/zones/ZtriRuche]]
+[[notes/zones/TriRuche]]
 
-[[notes/zones/Z_QuaiRuche]]
+[[notes/zones/QuaiRuche]]
 
-- [[notes/zones/stockageBasQuai]]
-- [[notes/zones/stockageHautQuai]]
-- [[notes/zones/etagereCaissesGrises]]
-- [[notes/zones/armoireTechnique]]
-- [[notes/zones/armoirePratique]]
-- [[notes/zones/servanteQuai]]
-- [[notes/zones/rangementsPratique]]
-- [[notes/zones/rangementsEntretienVehicules]]
-- [[notes/zones/tableauOutilsEPI]]
+- [[notes/zones/StockageBasQuai]]
+- [[notes/zones/StockageHautQuai]]
+- [[notes/zones/EtagereCaissesGrises]]
+- [[notes/zones/ArmoireTechnique]]
+- [[notes/zones/ArmoirePratique]]
+- [[notes/zones/ServanteQuai]]
+- [[notes/zones/RangementsPratique]]
+- [[notes/zones/RangementsEntretienVehicules]]
+- [[notes/zones/TableauOutilsEPI]]
 
-[[notes/zones/zoneTransit]]
+[[notes/zones/TransitRuche]]
 
-- [[notes/zones/stockageBasTransit]]
-- [[notes/zones/stockageHautTransit]]
+- [[notes/zones/StockageBasTransit]]
+- [[notes/zones/StockageHautTransit]]
 
-[[notes/zones/zoneSousTente]]
+[[notes/zones/SousTenteRuche]]
 
 [D_GardeMeubles](notes/departements/D_GardeMeubles.md)
 

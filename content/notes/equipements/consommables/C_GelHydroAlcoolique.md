@@ -3,7 +3,7 @@ title: "Gel hydro-alcoolique"
 ---
 
 
-[magasinVetementsRuche](notes/zones/magasinVetementsRuche.md) fait maison 1891,5ml
+[MagasinVetementsRuche](notes/zones/MagasinVetementsRuche.md) fait maison 1891,5ml
 
 [prodega](notes/utilisateurs/fournisseurs/prodega.md) Désinfectant rapide 5L + 320ml 39,80chf 
 

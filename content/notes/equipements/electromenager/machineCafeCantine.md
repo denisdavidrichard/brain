@@ -1,5 +1,5 @@
 ---
-title: "Machine à café"
+title: "Machine à café de la Cantine"
 ---
 
 ## Démarrage de la machine et préparation d'un décaféiné:
