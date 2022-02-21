@@ -32,7 +32,7 @@ Une fois au [quai](notes/zones/QuaiRuche.md) déposer le reçu dans la pelle sou
 
 070421 [[/notes/equipements/consommables/C_PaletteEuro80x120]] x20
 
-160421 [[ferrailleLegere]] 500
+160421 [[notes/gestionDesMatieres/ferrailleLegere]] 500
 
 140421 [[notes/gestionDesMatieres/filsDeCuivreIsolé]] 80
 

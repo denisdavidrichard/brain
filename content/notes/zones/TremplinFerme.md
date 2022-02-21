@@ -2,7 +2,7 @@
 title: "Tremplin"
 ---
 
-[ferme13](ferme13.md)
-[ferme15](ferme15.md)
+[Ferme13](notes/zones/Ferme13.md)
+[Ferme15](notes/zones/Ferme15.md)
 
 [nettoyageTremplin](nettoyageTremplin.md)

@@ -7,7 +7,7 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
 lundi  
-210222 [ferme13](ferme13.md)
+210222 [Ferme13](notes/zones/Ferme13.md)
 - 2× pile AA et AAA
 - Envoyer EDL sms et réimprimer 
 - Liste des inventaire ferme 13
