@@ -10,7 +10,7 @@ title: "Cantine"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![Qr_Cantine](/notes/pieces_jointes/images/i_codeBarres/i_codeQR/Qr_Cantine.jpg)|
+| Année |...........|Mois|......................|![Qr_Cantine](//notes/pieces_jointes/images/i_codeBarres/i_codeQR/Qr_Cantine.jpg)|
 |---|---|---|---|---|
 
 </div>
@@ -67,7 +67,7 @@ title: "Cantine"
 ### Dispatcher:
 | Marche à suivre | Photo |
 |---|---|
-|3.1 Recycler les vieux journeaux, boîte de conserve, verres cassés|![I_PointRecyclage1](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
+|3.1 Recycler les vieux journeaux, boîte de conserve, verres cassés|![I_PointRecyclage1](//notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
 |3.2 Mettre les vêtements sur les crochets du vestiaire|![I_Cantine3-2](/notes/pieces_jointes/images/i_nettoyage/i_cantine/I_Cantine3-2.jpg)|
 ### Vider la lave vaisselle:
 Si pas déjà vidé vous pouvez le vider.
