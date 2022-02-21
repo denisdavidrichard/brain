@@ -4,26 +4,17 @@ title: "Agenda"
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
 
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
-[D_TachesPeriodique](notes/departements/D_TachesPeriodique.md)
+[Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-jeudi 
-170222 9h [stephaneEsposito](notes/utilisateurs/stephaneEsposito.md) 
+lundi  
+210222 [ferme13](ferme13.md)
+- 2× pile AA et AAA
+- Envoyer EDL sms et réimprimer 
+- Liste des inventaire ferme 13
+- Bienvenue logement 
+- Dernière photos
+210222 18h [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md) si bien espacer tous les 6 mois
 
-Revoir les commandes mail avec demande : [](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)[https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html](https://www.toutembal.fr/rubans-adhesifs-d-emballages-pp-pvc__ruban-adhesif-pvc-transparent-large-de-75mm-x-66-m-colis-de-24_32_PVCT75.html)
-
-160222 18h [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md) si bien espacer tous les 6 mois
-
-vendredi 
-180222 rdv idéal 10h30 départ [rabbiaSofia](notes/utilisateurs/rabbiaSofia.md) [tremplinFerme](tremplinFerme) 13
-
-samedi 
-190222
-
-dimanche 
-200222 parents
-
-lundi 
-210222 
 
 mardi 
 220222 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)

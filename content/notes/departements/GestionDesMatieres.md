@@ -9,6 +9,10 @@ title: "Gestion des matières"
 [Serbeco](Serbeco.md)\
 [Retripa](Retripa.md)
 
+## Matières:
+[Papier Carton mélange 1-02et4](notes/equipements/consommables/PapierCartonMelange1-02et4.md)\
+[Eternit](notes/gestionDesMatieres/Eternit.md)
+
 
 ## Historique
 241221 [[notes/utilisateurs/fournisseurs/coop]]

@@ -17,7 +17,7 @@ title: "Taches périodiques"
 ## Mensuelles:
 [EntretienVehicules](notes/departements/D_EntretienVehicules.md)
 Transpalette
-[DechetsIndustrielsOrdinaireSpeciauxSIG](notes/gestionDechets/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
+[DechetsIndustrielsOrdinaireSpeciauxSIG](notes/gestionDesMatieres/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
 [CompresseurRuche](notes/equipements/consommables/C_CompresseurRuche.md)
 ## Trimestrielles:
 Nettoyage appartement [ericSaloukvadze](notes/utilisateurs/beneficiaires/ericSaloukvadze.md)

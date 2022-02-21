@@ -2,7 +2,11 @@
 title: "Fiche du suivi "
 ---
 
+<span style="color:BlueViolet">
+
 ## Poste:
+
+</span>
 
 <div align="right">
 

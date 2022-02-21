@@ -8,10 +8,9 @@ title: "Fiche du suivi des sanitaires"
 
 </span>
 
-
 <div align="right">
 
-| Année |...........|Mois|......................|![qr_Sanitaires](notes/pieces_jointes/images/i_codeBarres/i_codeQR/qr_Sanitaires.jpg)|
+| Année |...........|Mois|......................|![qr_Sanitaires](/notes/pieces_jointes/images/i_codeBarres/i_codeQR/qr_Sanitaires.jpg)|
 |---|---|---|---|---|
 
 </div>
