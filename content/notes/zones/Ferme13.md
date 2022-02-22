@@ -3,7 +3,8 @@ title: "Ferme 13"
 ---
 
 # Photos et inventaire - Ferme 13
-Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nous aide à progresser:)
+Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nous aide à progresser:)\
+*Photos du 21 février 2022*
 ## Hall d'entrée
 ![i_ferme13-1](/notes/pieces_jointes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-1.jpg)
 ## ENTRÉE - ARMOIRE
@@ -137,3 +138,10 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Papier WC
 - [ ] Produit WC
 - [ ] Brosse WC
+## Historique:
+210222:
+- Nettoyage terminé 
+- Revisé seuil porte salle de bain 
+- Pile horloge cuisine ajoutée 
+- Ajout sent bon et papier ménage 
+- Documents et stylo posés
