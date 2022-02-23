@@ -27,4 +27,6 @@ ExpertisesVisitesOCV: 180319 220716 190813
 ## Afaire:
 
 ## Historique:
+220222 14h55 piste 7 Pacman changer les pneus car pas les mêmes et aller à l'ocv.
+
 100320 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) changement pneu avant gauche 78chf

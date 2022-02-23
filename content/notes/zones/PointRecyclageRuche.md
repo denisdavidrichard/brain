@@ -2,55 +2,37 @@
 title: "Point de recyclage couloir Ruche"
 ---
 
-![I_PointRecyclage1](notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)
+![I_PointRecyclage1](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)
 ## Matériel requis
 | Marche à suivre | Photo |
 |---|---|
-|1.1 [Gants de travail](notes/equipements/vetements/L_GantsTravail.md)||
-## Matériel à monter au quai
+|1.1 [Gants de travail](/notes/equipements/vetements/L_GantsTravail.md)|![I_GantsTravail-2](/notes/pieces_jointes/images/i_description/i_vetements/I_GantsTravail-2.jpg)|
+## Prendre le matériel
 | Marche à suivre | Photo |
 |---|---|
-|2.1 Déplacer le chariot avec les éléments de recyclage||
-|2.2 Pour la poubelle dincinérable vous pouvez vous servir du diable||
-|2.3 Faites un premier stop au déchets spéciaux si vous avez des produits à déposer||
-|2.4 Commencer par les éléments les plus grand exemple incinéré||
-|2.5 Attaquez-vous ensuite au papier carton||
-|2.6 Puis les piles||
-|2.7 Il y a aussi des tubes luminescents pars moment avec les piles||
-|2.8 Sortez du métal le cuivre l'étain et le laiton||
-|2.9 Une fois que tu les bacs sont vidés ont peux passer un coup de chiffon dessus||
-|3.0 Au point de recyclage en peux passer un coup de balai||
-|3.1 Après le appelle une balayette ranger le matériel à sa place||
+|Récupérez le papier du secrétariat|![I_PointRecyclage-1](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-1.jpg)|
+|Complétez les corbeille dans une|![I_PointRecyclage-2](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-2.jpg)|
+|Déplacer le chariot avec les éléments de recyclage|![I_PointRecyclage-3](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-3.jpg)|
+|Pour la poubelle d'incinérable vous pouvez vous servir du diable dirigez le diable d'une main et le chariot de l'autre main|![I_PointRecyclage-4](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-4.jpg)|
+|Faites un premier stop au déchets spéciaux si vous avez des produits à déposer (aérosols, liquides inflammables, et autres produits dangereux). Placez les produits dans les bons bacs. Dans cet exemple celui des aérosols|![I_PointRecyclage-5](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-5.jpg)|
+|Puis allez dans la zone [tri](/notes/zones/TriRuche.md) et commencez par les éléments les plus grands exemple le sac dincinérable. À fermer avant de jeter.|![I_PointRecyclage-6](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-6.jpg)|
+|Les sacs 110L se trouvent entre les bacs sur le chariot|![I_PointRecyclage-7](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-7.jpg)|
+|S'il n'y a plus de sac vous pouvez en trouver dans l'armoire pratique au quai, demandez la clé à un encadrant|![I_PointRecyclage-8](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-8.jpg)|
+|Remettez un sac et laisser le diable au sol prêt à partir|![I_PointRecyclage-9](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-9.jpg)|
+|Attaquez-vous ensuite au [papier-carton mélangés 1-02et4](/notes/equipements/consommables/PapierCartonMelange1-02et4.md) à vider dans la benne devans la fenêtre de la zone de tri|![I_PointRecyclage-10](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-10.jpg)|
+|Puis les piles|![I_PointRecyclage-11](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-11.jpg)|
+|Pour celle en lithium mettre dans la caisse à côté|![I_PointRecyclage-12](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-12.jpg)|
+|Puis les CD|![I_PointRecyclage-13](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-13.jpg)|
+|Pour les cannettes en aluminium serrez les et jetez à leur place pour les autres métaux cliquez ici puis videz la ferraille dans la remorque|![I_PointRecyclage-14](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-14.jpg)|
+|Puis le verre avec ses trois déclinaisons. Le verre bouteille|![I_PointRecyclage-15](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-15.jpg)|
+|Le verre transparent|![I_PointRecyclage-16](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-16.jpg)|
+|Les gravats - DCMI|![I_PointRecyclage-17](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-17.jpg)| 
+|Une fois que tous les bacs sont vidés on peux passer un coup de chiffon dessus. Pour cela prendre un chiffon sous les éviers de la zone de tri|![I_PointRecyclage-18](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-18.jpg)|
+|Vaporisez celui-ci avec le produit vitre sur la table de tri ou sur les éviers|![I_PointRecyclage-19](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-19.jpg)|
+|Retournez au point de recyclage|![I_PointRecyclage-20](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-20.jpg)|
+|Prendre le balai et la balayette sur le [support balai de la brocante](SupportBalaiBrocante.md) pour nettoyer la surface de la zone.|![I_PointRecyclage-21](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-21.jpg)|
+|Remettre la corbeille à papier au secrétariat.|![I_PointRecyclage-22](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-22.jpg)|
+|Vérifiez que c'est tout bon.|![I_PointRecyclage1-23](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
+|Paraphez la feuille de suivi||
 
-
-|2.1 Sac de PET compléter avec les sacs du bas||
-|2.1 Sac de PET compléter avec les sacs du bas||
-|2.2 Fermer les sacs pleins et les empiler||
-|2.3 Si plus de sac remettre un neuf||
-|2.4 Pour la clé AGORA demander à Denis||
-|2.5 Compléter le sac de canettes et changer sac si nécessaire||
-## Vider le gros (papier et incinérable)
-| Marche à suivre | Photo |
-|---|---|
-|3.1 Vider les caisses de papier-carton||
-|3.2 Une fois les caisses bien vider les empiler dans un coin||
-|3.3 Vider l'incinérable||
-## Trier les différents type verre
-| Marche à suivre | Photo |
-|---|---|
-|4.1 Verre transparent||
-|4.2 Emballage en verre (bouteille, bocaux)||
-|4.3 Les gravats, incinérable DCMI||
-## Trier les différents types métaux
-| Marche à suivre | Photo |
-|---|---|
-|5.1 Le métaux aimantable (ferraille)||
-|5.2 L'aluminium||
-|5.3 Le cuivre||
-|5.4 Le laiton||
-|5.5 L'étain||
-## Ranger les caisses et le matériel
-| Marche à suivre | Photo |
-|---|---|
-|6.1 Rapporter les caisses au "Point de recyclage"||
-|6.2 Merci||
+[PointRecyclageClients](PointRecyclageClients.md)

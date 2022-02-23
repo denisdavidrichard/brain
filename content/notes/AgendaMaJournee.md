@@ -6,22 +6,12 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-mardi 
-220222 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
-
-220222 1er prendre [Asterix](notes/equipements/vehicules/Asterix.md) 
-
-220222 14h55 piste 7 [Pacman](notes/equipements/vehicules/Pacman.md)
-
-mercredi 
-230222 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
-
-230222 Pas de monte-meuble prendre precaution parbrise demenageuse rendre plusieur palettes grillagées et 2 transpalettes
-
 jeudi 
 240222 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
 
 240222 débarras Favre laisser la moquette
+
+240222 Pacman changer les pneus car pas les mêmes et aller à l'ocv 5 pneus à changer Daniel va s'en charger lorsqu'il a du temps.
 
 vendredi 
 250222 110222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
