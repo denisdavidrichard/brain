@@ -6,13 +6,6 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-jeudi 
-240222 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
-
-240222 débarras Favre laisser la moquette
-
-240222 Pacman changer les pneus car pas les mêmes et aller à l'ocv 5 pneus à changer Daniel va s'en charger lorsqu'il a du temps.
-
 vendredi 
 250222 110222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
@@ -24,7 +17,7 @@ samedi
 260222 13h13 Cathy et Pierre
 
 dimanche 
-270222
+270222 
 
 lundi 
 280222 7h30 [stephaneEsposito](notes/utilisateurs/stephaneEsposito.md)
@@ -32,6 +25,10 @@ lundi
 280122 7h30 [nilaMeyer](nilaMeyer.md)
 
 mardi 
+010322 14h Mascia pedroni pour permaculture
+
+010322 16h Caroline Leamann
+
 010322 résiliation abonnement AppleTV
 
 mercredi 
@@ -50,10 +47,12 @@ dimanche
 060322
 
 lundi 
-070322
+070322 
 
 mardi 
-080322
+080322 7h30 [ViniciusKruger](ViniciusKruger.md)
+
+080322 14h nissan Dom
 
 mercredi 
 090322
@@ -87,7 +86,9 @@ jeudi
 170322 13h30 Visite GESDEC M. Wilhelm Damien 
 
 vendredi 
-180322
+180322 13h15 visite [Sirion](notes/equipements/vehicules/Sirion.md) piste 2
+
+180322 15h visite ruche puis bilan [ViniciusKruger](ViniciusKruger.md)
 
 samedi 
 190322
@@ -180,7 +181,7 @@ dimanche
 170422
 
 lundi 
-180422 7h30 [[notes/utilisateurs/beneficiaires/cyrilLieberherr]] jusqu'au 270522
+180422 7h30 [cyrilLieberherr](notes/utilisateurs/beneficiaires/cyrilLieberherr.md) jusqu'au 270522
 
 mardi 
 190422

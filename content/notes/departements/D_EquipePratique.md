@@ -17,6 +17,14 @@ title: "Fait en lien avec le secteur pratique"
 - Situations
 
 ## Historique:
+240222 sacha et Daniel garage Lignon 10 de vigne 2ème sous sol direct gauche
+
+240222 loïcRossero termine la situation vuilloud cave et meuble cuisine. Ave du gros chêne 41
+
+240222 vincent fnane livraison de 30 cartons 5 caisses broc. Plus aide débarras. Rue des Raclettes 39
+
+240222 débarras Favre laisser la moquette clé posé dans la bal 
+
 101221 Jan Julien prendre 2 conteneurs, 3 poubelles vertes, dans camion benne avec la trousse à outils du Black (Michael) et compléter le GM du Black avec les affaires du hiace chargé couvertures et laisser film dedans sortir tout ce qui ne concerne pas le GM (Loïc) puis partir avec à La Halle Juliette et poser le GM 4p4h
 
 Pellissier en zone de tampon et venir avec 4 palettes grillagées, 6 simples et transpalette sur la situation. (Laurent VB) aider et venir sur la situation. Je vais poser le MM et on commence avec Micheal;) 4p3h

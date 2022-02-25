@@ -13,12 +13,12 @@ Huile hydraulique:\
 Huile pont arrière:\
 Liquide de refroidissement:\
 Pression pneus : AV 4,5 AR 3\
-!!! Pneu avant droit: 195R14C Laufenn fi\
-Pneu arrière droit int: 185R14C Barum Snovanis 2\
-Pneu arrière droit ext: 185R14C Barum Snovanis 2\
-Pneu arrière gauche int: 185R14C Barum Snovanis 2\
-Pneu arrière gauche ext: 185R14C Barum Snovanis 2\
-!!! Pneu avant gauche: 195R14C Laufenn fi\
+Pneu avant gauche: 185R14C Hankook Winter RW06\
+Pneu arrière gauche ext: 185R14C Hankook Winter RW06\
+Pneu arrière gauche int: 185R14C Hankook Winter RW06\
+Pneu arrière droit int: 185R14C Hankook Winter RW06\
+Pneu arrière droit ext: 185R14C Hankook Winter RW06\
+Pneu avant droit: 185R14C Toyo Observe Van\
 Pneu secours: 185R14C Onyx NY-W387 (palette pneus zone transit)\
 ExpertisesVisitesOCV: 130219 070416 260913 091210
 

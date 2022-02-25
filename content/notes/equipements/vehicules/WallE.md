@@ -14,12 +14,12 @@ Huile hydraulique:\
 Huile pont arriere:\
 Liquide de refroidissement:\
 Pression pneus : AV 4,5 AR 3\
-Pneu avant gauche: 185R14C Hankook Winter RW06\
-Pneu arrière gauche ext: 185R14C Hankook Winter RW06\
-Pneu arrière gauche int: 185R14C Hankook Winter RW06\
-Pneu arrière droit int: 185R14C Hankook Winter RW06\
-Pneu arrière droit ext: 185R14C Hankook Winter RW06\
-Pneu avant droit: 185R14C Toyo Observe Van\
+Pneu avant droit: 195R14C Laufenn fi\
+Pneu arrière droit int: 185R14C Barum Snovanis 2\
+Pneu arrière droit ext: 185R14C Barum Snovanis 2\
+Pneu arrière gauche int: 185R14C Barum Snovanis 2\
+Pneu arrière gauche ext: 185R14C Barum Snovanis 2\
+Pneu avant gauche: 195R14C Laufenn fi\
 ExpertisesVisitesOCV: 021220 060218 310715
    
 ## Afaire:protège roue touche la roue et pot d'échappement à refixer [Afaire](notes/statut/Afaire.md)
