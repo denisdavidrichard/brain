@@ -12,3 +12,17 @@ title: "Rubalise rouge et blanche de 500m"
 [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md) 15chf 
 
 [edmondBaud](notes/utilisateurs/fournisseurs/edmondBaud.md) 25chf 
+
+## Historique:
+
+210921 3x
+
+240821 2x
+
+200721 3x
+
+050521 4x
+
+200121 4x
+
+040121 3x 

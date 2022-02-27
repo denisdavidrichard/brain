@@ -6,23 +6,14 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-vendredi 
-250222 110222 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
-
-250222 Fazan Denis reservé dans l'angle pour placer le monte-meuble prendre 1camion benne et 1 demenageuse
-
-250222 [planningCB](planningCB.md) [stephaneEsposito](notes/utilisateurs/stephaneEsposito.md) [nilaMeyer](nilaMeyer.md)
-
-samedi 
-260222 13h13 Cathy et Pierre
-
-dimanche 
-270222 
-
 lundi 
-280222 7h30 [stephaneEsposito](notes/utilisateurs/stephaneEsposito.md)
+[D_Equipements](notes/departements/D_Equipements.md)
 
-280122 7h30 [nilaMeyer](nilaMeyer.md)
+280222 7h30 [stephaneEsposito](notes/utilisateurs/beneficiaires/stephaneEsposito.md)
+
+280122 7h30 [nilaMeyer](notes/utilisateurs/beneficiaires/nilaMeyer.md)
+
+280122 7h30 [monicaPacheco](notes/utilisateurs/beneficiaires/monicaPacheco.md)
 
 mardi 
 010322 14h Mascia pedroni pour permaculture
@@ -38,7 +29,7 @@ jeudi
 030322
 
 vendredi 
-040322
+040322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 samedi 
 050322
@@ -50,7 +41,7 @@ lundi
 070322 
 
 mardi 
-080322 7h30 [ViniciusKruger](ViniciusKruger.md)
+080322 7h30 [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
 
 080322 14h nissan Dom
 
@@ -88,10 +79,10 @@ jeudi
 vendredi 
 180322 13h15 visite [Sirion](notes/equipements/vehicules/Sirion.md) piste 2
 
-180322 15h visite ruche puis bilan [ViniciusKruger](ViniciusKruger.md)
+180322 15h visite ruche puis bilan [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
 
 samedi 
-190322
+190322 13h13 Cathy Pierre à la maison 
 
 dimanche 
 200322

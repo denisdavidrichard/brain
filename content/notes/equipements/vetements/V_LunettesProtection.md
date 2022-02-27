@@ -12,10 +12,11 @@ universel
 
 [landi](notes/utilisateurs/fournisseurs/landi.md) 4,95chf 
 
-#### Afaire
-
 ### Historique
-080222 [Pacman](notes/equipements/vehicules/Pacman.md)
 
-270421 [Moulinex](notes/equipements/vehicules/Moulinex.md)
+020721 4x [landi](notes/utilisateurs/fournisseurs/landi.md)
+
+270421 1x [landi](notes/utilisateurs/fournisseurs/landi.md)
+
+
 

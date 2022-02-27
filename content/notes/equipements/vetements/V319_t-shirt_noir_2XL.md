@@ -1,2 +1,6 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_Tshirts]] [[notes/statut/S_Libre]]
-[[notes/utilisateurs/beneficiaires/juanAlbo]]
+---
+title: "V319_t-shirt_noir_2XL"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_Tshirts](notes/equipements/vetements/V_Tshirts.md) [S_Libre](notes/statut/S_Libre.md)\
+juanAlbo

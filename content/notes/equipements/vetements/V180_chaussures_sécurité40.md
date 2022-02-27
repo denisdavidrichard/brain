@@ -1,5 +1,9 @@
-[[notes/equipements/consommables/C_CasierRuche]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] [[notes/utilisateurs/beneficiaires/ndulaNlandu]]
-300821 [[jonathanGonzalezGomez]]
-010221 [[adamJendoubi]]
-[[enzoMorais]]
-[[aliSaidOsman]]
+---
+title: "V180_chaussures_sécurité40"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_ChaussuresDeSecurite](notes/equipements/vetements/V_ChaussuresDeSecurite.md) [ndulaNlandu](notes/utilisateurs/beneficiaires/ndulaNlandu.md)\
+300821 jonathanGonzalezGomez\
+010221 adamJendoubi\
+enzoMorais\
+aliSaidOsman

@@ -1,5 +1,13 @@
-[[notes/zones/StockageHautQuai]] [[notes/zones/ArmoirePratique]] [[notes/zones/CaisseOutils]]
+---
+title: "Mini film étirable"
+---
 
-[[notes/utilisateurs/fournisseurs/jumbo]] 6,95chf Dimensions: 150 m x 10 cm miniFilmEtirable article: 1236137 
+[StockageHautQuai](notes/zones/StockageHautQuai.md) [[notes/zones/ArmoirePratique]] [[notes/zones/CaisseOutils]]
 
-[[notes/utilisateurs/fournisseurs/SOS-dem]] miniFilmEtirable 4,50chf 150mx10cm lot de 55
+[jumbo](notes/utilisateurs/fournisseurs/jumbo.md) 6,95chf Dimensions: 150 m x 10 cm miniFilmEtirable article: 1236137 
+
+[SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md) miniFilmEtirable 4,50chf 150mx10cm lot de 55
+
+## Historique:
+
+020721 55x

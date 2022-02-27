@@ -31,4 +31,6 @@ ExpertisesVisitesOCV: 240222 180319 220716 190813
 
 220222 14h55 piste 7 Pacman changer les pneus car pas les mêmes et aller à l'ocv.
 
+080222 [V_LunettesProtection](notes/equipements/vetements/V_LunettesProtection.md)
+
 100320 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) changement pneu avant gauche 78chf

@@ -9,4 +9,4 @@ title: "Gestion des aliments"
 ## Historique:
 
 ## Liens utiles:
-[Gestion des matières](notes/departements/GestionDesMatieres.md)
+[Gestion des matières](notes/departements/D_GestionDesMatieres.md)

@@ -15,4 +15,17 @@ title: "Film étirable"
 ## A faire: 
 
 ## Historique:
+
+191121 4x [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md)
+
+011121 6x [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md)
+
+230821 6x [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md)
+
+020721 30x [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md)
+
 280621 un contact à pascalTaib m'a abordé pour du film.  Nous avons parlé de la commande du carton avec le film brûlé, a dit a PT que c'est nous...
+
+170221 72x [SOS-dem](notes/utilisateurs/fournisseurs/SOS-dem.md)
+
+020221 24x [landi](notes/utilisateurs/fournisseurs/landi.md)

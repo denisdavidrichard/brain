@@ -1,4 +1,4 @@
-[[notes/AgendaMaJournee]] [[notes/departements/GestionDesMatieres]]
+[[notes/AgendaMaJournee]] [[notes/departements/D_GestionDesMatieres]]
 
 #### Afaire
 

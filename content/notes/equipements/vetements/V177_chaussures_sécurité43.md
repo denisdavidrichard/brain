@@ -1,4 +1,8 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_ChaussuresDeSecurite]] [[notes/statut/S_Libre]]
-101121 [[steffenRapin]]
-[[notes/utilisateurs/beneficiaires/malikIbrahimAbdi]]
-[[etienneMagnenat]]
+---
+title: "V177_chaussures_sécurité43"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_ChaussuresDeSecurite](notes/equipements/vetements/V_ChaussuresDeSecurite.md) [S_Libre](notes/statut/S_Libre.md)
+101121 steffenRapin\
+malikIbrahimAbdi\
+etienneMagnenat

@@ -2,6 +2,6 @@
 title: "filsDeCuivreIsolé"
 ---
 
-[Sogetri](notes/utilisateurs/fournisseurs/Sogetri.md)
+[Sogetri](notes/gestionDesMatieres/fournisseurGestionDesMatieres/Sogetri.md)
 
 ## Historique:

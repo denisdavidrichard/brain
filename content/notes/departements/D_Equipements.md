@@ -8,6 +8,7 @@ title: "Dernière personnes équipées"
 ## A faire: 
 
 ## Historique:
+
 060222 [marcoLycuong](notes/utilisateurs/beneficiaires/marcoLycuong.md)
 
 060222 [lucienPfister](notes/utilisateurs/beneficiaires/lucienPfister.md)

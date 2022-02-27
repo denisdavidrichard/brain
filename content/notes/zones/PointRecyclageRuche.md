@@ -30,9 +30,9 @@ title: "Point de recyclage couloir Ruche"
 |Une fois que tous les bacs sont vidés on peux passer un coup de chiffon dessus. Pour cela prendre un chiffon sous les éviers de la zone de tri|![I_PointRecyclage-18](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-18.jpg)|
 |Vaporisez celui-ci avec le produit vitre sur la table de tri ou sur les éviers|![I_PointRecyclage-19](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-19.jpg)|
 |Retournez au point de recyclage|![I_PointRecyclage-20](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-20.jpg)|
-|Prendre le balai et la balayette sur le [support balai de la brocante](SupportBalaiBrocante.md) pour nettoyer la surface de la zone.|![I_PointRecyclage-21](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-21.jpg)|
+|Prendre le balai et la balayette sur le [support balai de la brocante](notes/equipements/SupportBalaiBrocante.md) pour nettoyer la surface de la zone.|![I_PointRecyclage-21](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-21.jpg)|
 |Remettre la corbeille à papier au secrétariat.|![I_PointRecyclage-22](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-22.jpg)|
 |Vérifiez que c'est tout bon.|![I_PointRecyclage1-23](/notes/pieces_jointes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
 |Paraphez la feuille de suivi||
 
-[PointRecyclageClients](PointRecyclageClients.md)
+[PointRecyclageClients](notes/gestionDesMatieres/PointRecyclageClients.md)

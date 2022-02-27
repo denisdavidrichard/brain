@@ -27,7 +27,7 @@ Evaluation [loïcRossero](notes/utilisateurs/beneficiaires/loïcRossero.md)
 ## Annuelles:
 [Hivernage](notes/intendance/hivernagePlomberie.md)
 Expertise [Sprinkler](notes/equipements/Sprinkler.md) [viansone](notes/utilisateurs/fournisseurs/viansone.md) prennent contact avec nous.
-Déclaration déchets annuel [GESDEC](notes/utilisateurs/fournisseurs/GESDEC.md)
+Déclaration déchets annuel [GESDEC](notes/gestionDesMatieres/fournisseurGestionDesMatieres/GESDEC.md)
 Bilan de fin d'année
 Contrôle des siennes et panneaux d'évacuation et fausse sceptique [D_GardeMeubles](notes/departements/D_GardeMeubles.md)
 ## A faire: 

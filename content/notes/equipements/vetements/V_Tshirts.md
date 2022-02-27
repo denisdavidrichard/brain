@@ -1,5 +1,5 @@
 ---
-title: "Tshirts"
+title: "T-shirts"
 ---
 
 

@@ -94,3 +94,7 @@ Le numéro pour repasser une commande de café 078 855 62 62 voir avant avec le 
 
 
 ## Historique:
+011221 [gabrielPellegrini](notes/utilisateurs/fournisseurs/gabrielPellegrini.md): 
+- monter la température de la machine de la cantine
+- manque du café 12 sacs
+- tuyau d'évacuation de la machine du restaurant trop long

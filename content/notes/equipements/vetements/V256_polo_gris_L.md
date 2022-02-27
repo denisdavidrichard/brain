@@ -1,1 +1,5 @@
-[[notes/equipements/L_Vetements]] [[notes/equipements/vetements/V_PolosGris]] [[notes/statut/S_Libre]]
+---
+title: "V256_polo_gris_L"
+---
+
+[L_Vetements](notes/equipements/L_Vetements.md) [V_PolosGris](notes/equipements/vetements/V_PolosGris.md) [S_Libre](notes/statut/S_Libre.md)

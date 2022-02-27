@@ -31,6 +31,8 @@ ExpertisesVisitesOCV: 130219 070416 260913 091210
 
 120521 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) box cadenas 
 
+270421 [V_LunettesProtection](notes/equipements/vetements/V_LunettesProtection.md)
+
 230321 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) Pneu ar droit changé car fuit peut-être fuite avec la jante fredericDetraz
 
 170321 fredericDetraz Prise d'air réparée avec du plexiglas vu avec gillesChervet

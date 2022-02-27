@@ -24,8 +24,8 @@ Dernière la benne à [papiers-cartons](notes/equipements/consommables/PapierCar
 |2.8 Pousser en conteneur|![I_Eternit2-8](/notes/pieces_jointes/images/i_gestionMatieres/i_eternit/I_Eternit2-8.jpg)|
 |2.9 En partant remettre les outils dans les espaces et certifier que les conteneurs sont fermés|![i_Eternet2-1_2-9](/notes/pieces_jointes/images/i_gestionMatieres/i_eternit/i_Eternet2-1_2-9.jpg)|
 ## Lorsque tous les conteneurs Eternit sont pleins:
-1. Les charger dans une déménageuse et aller à [Sogetri](notes/utilisateurs/fournisseurs/Sogetri.md).
+1. Les charger dans une déménageuse et aller à [Sogetri](notes/gestionDesMatieres/fournisseurGestionDesMatieres/Sogetri.md).
 2. Sur place annoncer à la balance les conteneurs d'Eternit et demander qu'un employé vous aide avec un chariot élévateur.
 3. Placer les conteneurs sur la ridelle du camion et laisser l'employeur verser le contenu avec le chariot élévateur.
 ## Liens utiles:
-[Gestion des matières](notes/departements/GestionDesMatieres.md)
+[Gestion des matières](notes/departements/D_GestionDesMatieres.md)

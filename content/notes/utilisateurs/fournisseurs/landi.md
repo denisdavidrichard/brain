@@ -5,7 +5,7 @@ title: "Landi"
 [Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
 
-## A faire: [[C_PoubelleVerte240]] x3 [[C_GiletSignalisationJaune]] x3 [[C_TonneauUnivCouv70]] x4 perso [[C_filtreBrita]]
+## A faire: [[notes/equipements/consommables/C_Conteneur240L]] x3 [[C_GiletSignalisationJaune]] x3 [[notes/equipements/consommables/C_SeauTonneauUnivCouv70]] x4 perso [[C_filtreBrita]]
 
 ## Historique:
 170122 [[C_Sac110L]] x10
@@ -39,4 +39,22 @@ title: "Landi"
 270421 [[V_LunettesProtection]] [[notes/equipements/vetements/L_GantsTravail]] L 1x5
 
 160321 [[C_PharmacieVéhicule]] [[C_Robinet3-4Gardena]] [[C_Sac110L]] x5
+
+
+
+240720  sable [PoulaillerRuche](notes/zones/PoulaillerRuche.md) 25kg 2x
+
+240720  pray anti-guèpes [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) 2x
+
+240720  retourner la bâche, coupelle pour nourrir les poules 2x, sortie de gaz, Soufre en poudre.
+
+240720 deux pots de fleurs pour servir la nourriture
+
+
+050820 attrape mouche et tapettes
+
+240720 assiette rectangulaire style pot de fleurs airmétique à la base 2x 
+
+240720  [D_EspacesVerts](notes/departements/D_EspacesVerts.md)  brûleur mauvaises herbes
+
 
