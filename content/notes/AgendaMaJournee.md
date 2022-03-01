@@ -7,9 +7,7 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
 mardi 
-010322 16h Caroline Leamann
-
-010322 résiliation abonnement AppleTV
+010322 16h30 Caroline Leamann
 
 mercredi 
 020322
