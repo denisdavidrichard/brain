@@ -6,8 +6,12 @@ title: "Dernière personnes équipées"
 ## Infos:
 
 ## A faire: 
+280222 7h30 [stephaneEsposito](notes/utilisateurs/beneficiaires/stephaneEsposito.md) pas venu car est en tractation.
+
+280122 7h30 [monicaPacheco](notes/utilisateurs/beneficiaires/monicaPacheco.md) en attente des papiers d'assurance.
 
 ## Historique:
+280122 7h30 [nilaMeyer](notes/utilisateurs/beneficiaires/nilaMeyer.md)
 
 060222 [marcoLycuong](notes/utilisateurs/beneficiaires/marcoLycuong.md)
 

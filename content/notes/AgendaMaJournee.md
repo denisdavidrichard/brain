@@ -6,18 +6,7 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-lundi 
-[D_Equipements](notes/departements/D_Equipements.md)
-
-280222 7h30 [stephaneEsposito](notes/utilisateurs/beneficiaires/stephaneEsposito.md)
-
-280122 7h30 [nilaMeyer](notes/utilisateurs/beneficiaires/nilaMeyer.md)
-
-280122 7h30 [monicaPacheco](notes/utilisateurs/beneficiaires/monicaPacheco.md)
-
 mardi 
-010322 14h Mascia pedroni pour permaculture
-
 010322 16h Caroline Leamann
 
 010322 résiliation abonnement AppleTV
