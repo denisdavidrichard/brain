@@ -13,9 +13,11 @@ mercredi
 020322
 
 jeudi 
-030322
+030322 15h30 nettoyage Lignon 10
 
 vendredi 
+040322 9h Caroline pour potager
+
 040322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 samedi 

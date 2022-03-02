@@ -1,6 +1,6 @@
 <div id="search-container">
     <div id="search-space">
-        <input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search" placeholder="Search for something...">
+        <input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search" placeholder="Tapez ici le mot-clé...">
         <div id="results-container">
         </div>
     </div>
@@ -190,8 +190,8 @@
             // display
             if (finalResults.length === 0) {
                 results.innerHTML = `<button class="result-card">
-                    <h3>No results.</h3>
-                    <p>Try another search term?</p>
+                    <h3>Aucuns résultats trouvés.</h3>
+                    <p>Essayez un autre mot-clé?</p>
                 </button>`
             } else {
                 results.innerHTML = finalResults
