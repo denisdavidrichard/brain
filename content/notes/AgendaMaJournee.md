@@ -54,7 +54,7 @@ dimanche
 130322
 
 lundi 
-140322
+140322 8h débarras regarder au GD EM et NN
 
 mardi 
 150322
