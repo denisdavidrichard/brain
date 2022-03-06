@@ -11,6 +11,15 @@ potager du matin
 fleurs et plantes vivace
 herbes du restaurant
 
+ Sativa, 
+ Budée la ferme plantons.
+
+ Jardin herbes aromatiques.
+ Voile pour garder au chaud.
+ Terreaux et compartiments pour faire pousser les les semis
+
+ Et graines budée.
+
 ## Nous sommes le 1er mars 2022 que pouvons nous planter à cette période de l'année dans les parcs ci-dessus:
 ## En fruits et légumes?
 ### Ensoleillement matin:

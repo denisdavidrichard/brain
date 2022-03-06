@@ -6,7 +6,10 @@ title: "En lien avec la formation"
 
 ## A Faire: [Afaire](notes/statut/Afaire.md) Prendre contact avec sandro de la pharmacie [HUG](notes/utilisateurs/fournisseurs/HUG.md) pour une visite et [vincentHeinzen](notes/utilisateurs/fournisseurs/vincentHeinzen.md) pour les [Sig](notes/gestionDesMatieres/fournisseurGestionDesMatieres/Sig.md)
 
+
 ### Historique
+030322 16h30 formation nettoyage Lignon 10
+
 081221 [GerbeurTimonCategorieSPermisInterne](notes/formation/GerbeurTimonCategorieSPermisInterne.md) questionnaire terminé
 
 051121 prise de dernières photos et mise en page de la [GerbeurTimonCategorieSPermisInterne](notes/formation/GerbeurTimonCategorieSPermisInterne.md)

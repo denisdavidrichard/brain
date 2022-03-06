@@ -6,15 +6,6 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 ![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-mardi 
-010322 16h30 Caroline Leamann
-
-mercredi 
-020322
-
-jeudi 
-030322 15h30 nettoyage Lignon 10
-
 vendredi 
 040322 9h Caroline pour potager
 
@@ -27,15 +18,15 @@ dimanche
 060322
 
 lundi 
-070322 
+070322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
 
 mardi 
 080322 7h30 [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
 
-080322 14h nissan Dom
+080322 
 
 mercredi 
-090322
+090322 vitre et coups de balais IEPA Grand-Lancy
 
 jeudi 
 100322 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
@@ -98,7 +89,7 @@ dimanche
 270322
 
 lundi 
-280322
+280322 11h fin d'ADR [pascalNoel](notes/utilisateurs/beneficiaires/pascalNoel.md)
 
 mardi 
 290322
