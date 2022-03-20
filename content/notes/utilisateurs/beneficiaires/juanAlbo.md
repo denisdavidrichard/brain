@@ -1,4 +1,0 @@
----
-title: "Juan Albo"
----
-

@@ -1,4 +1,0 @@
----
-title: "Laurent Peillex"
----
-

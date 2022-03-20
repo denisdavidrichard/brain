@@ -1,1 +1,0 @@
-[[notes/equipements/outils/L_Outils]]es/equipements/consommables/C_BatteriesMakita]] [[etienneMagnenat]] personnelle

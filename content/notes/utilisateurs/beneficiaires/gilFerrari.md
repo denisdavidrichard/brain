@@ -1,4 +1,0 @@
----
-title: "Gil Ferrari"
----
-

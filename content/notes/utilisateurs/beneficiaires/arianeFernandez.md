@@ -1,4 +1,0 @@
----
-title: "Ariane Fernandez"
----
-

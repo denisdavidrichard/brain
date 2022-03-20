@@ -1,4 +1,0 @@
----
-title: "Veste bleu-orange"
----
-

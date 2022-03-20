@@ -1,1 +1,0 @@
-[[notes/utilisateurs/fournisseurs/edmondBaud]]

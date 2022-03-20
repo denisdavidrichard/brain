@@ -1,1 +1,0 @@
-[[notes/equipements/L_Vetements]] [[V_PantalonOrangeBleu]] [[notes/statut/S_Libre]]

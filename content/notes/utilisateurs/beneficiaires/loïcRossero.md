@@ -1,4 +1,0 @@
----
-title: "Loïc Rossero"
----
-

@@ -1,1 +1,0 @@
-[[notes/equipements/outils/L_Outils]]es/equipements/consommables/C_BatteriesMakita]] [[notes/departements/D_AteliersLignon]]/D_AteliersLignon]]

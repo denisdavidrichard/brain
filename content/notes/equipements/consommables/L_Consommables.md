@@ -1,4 +1,0 @@
----
-title: "Liste des consommables"
----
-

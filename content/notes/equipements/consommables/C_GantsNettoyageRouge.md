@@ -1,1 +1,0 @@
-[[notes/utilisateurs/fournisseurs/prodega]] 5 paires chf

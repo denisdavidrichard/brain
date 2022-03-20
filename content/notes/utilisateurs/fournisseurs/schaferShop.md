@@ -1,4 +1,0 @@
----
-title: "Schafer Shop"
----
-

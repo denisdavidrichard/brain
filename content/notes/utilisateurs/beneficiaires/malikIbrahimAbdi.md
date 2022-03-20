@@ -1,4 +1,0 @@
----
-title: "Malik Ibrahim Abdi"
----
-

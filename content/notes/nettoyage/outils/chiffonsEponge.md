@@ -1,4 +1,0 @@
----
-title: "Chiffons éponge"
----
-

@@ -1,3 +1,0 @@
----
-title: "Yannick Ngoma"
----

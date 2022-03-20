@@ -1,4 +1,0 @@
----
-title: "Cyril Lieberherr"
----
-
